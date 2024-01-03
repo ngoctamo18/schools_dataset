@@ -146426,5 +146426,14 @@
         "schoolId": 50503,
         "schoolLevel": 3,
         "schoolName": "THPT Nguyễn Văn Thoại"
+    },
+    "50504": {
+        "schoolId": 50504,
+        "schoolName": "THCS Nguyễn Hồng Lễ",
+        "schoolLevel": 2,
+        "districtId": 27,
+        "districtName": "Thành phố Sầm Sơn",
+        "provinceId": 1,
+        "provinceName": "Thanh Hóa"
     }
 }
