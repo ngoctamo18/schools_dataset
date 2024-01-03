@@ -27,6 +27,10 @@ function generateDocs() {
     fs.writeFileSync('./docs/PROVINCES.md', provincesMd);
     fs.writeFileSync('./docs/DISTRICTS.md', districtsMd);
     fs.writeFileSync('./docs/SCHOOLS.md', schoolsMd);
+
+    fs.writeFileSync('./data/provinces.json', JSON.stringify(provinces, null, 4));
+    fs.writeFileSync('./data/districts.json', JSON.stringify(districts, null, 4));
+    fs.writeFileSync('./data/schools.json', JSON.stringify(schools, null, 4));
 }
 
 generateDocs();

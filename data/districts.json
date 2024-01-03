@@ -1,4293 +1,4292 @@
 {
     "1": {
-      "districtId": 1,
-      "districtName": "Bá Thước",
-      "provinceId": 1,
-      "provinceName": "Thanh Hóa"
+        "districtId": 1,
+        "districtName": "Bá Thước",
+        "provinceId": 1,
+        "provinceName": "Thanh Hóa"
     },
     "2": {
-      "districtId": 2,
-      "districtName": "Cẩm Thủy",
-      "provinceId": 1,
-      "provinceName": "Thanh Hóa"
+        "districtId": 2,
+        "districtName": "Cẩm Thủy",
+        "provinceId": 1,
+        "provinceName": "Thanh Hóa"
     },
     "3": {
-      "districtId": 3,
-      "districtName": "Đông Sơn",
-      "provinceId": 1,
-      "provinceName": "Thanh Hóa"
+        "districtId": 3,
+        "districtName": "Đông Sơn",
+        "provinceId": 1,
+        "provinceName": "Thanh Hóa"
     },
     "4": {
-      "districtId": 4,
-      "districtName": "Hà Trung",
-      "provinceId": 1,
-      "provinceName": "Thanh Hóa"
+        "districtId": 4,
+        "districtName": "Hà Trung",
+        "provinceId": 1,
+        "provinceName": "Thanh Hóa"
     },
     "5": {
-      "districtId": 5,
-      "districtName": "Hậu Lộc",
-      "provinceId": 1,
-      "provinceName": "Thanh Hóa"
+        "districtId": 5,
+        "districtName": "Hậu Lộc",
+        "provinceId": 1,
+        "provinceName": "Thanh Hóa"
     },
     "6": {
-      "districtId": 6,
-      "districtName": "Hoằng Hóa",
-      "provinceId": 1,
-      "provinceName": "Thanh Hóa"
+        "districtId": 6,
+        "districtName": "Hoằng Hóa",
+        "provinceId": 1,
+        "provinceName": "Thanh Hóa"
     },
     "7": {
-      "districtId": 7,
-      "districtName": "Lang Chánh",
-      "provinceId": 1,
-      "provinceName": "Thanh Hóa"
+        "districtId": 7,
+        "districtName": "Lang Chánh",
+        "provinceId": 1,
+        "provinceName": "Thanh Hóa"
     },
     "8": {
-      "districtId": 8,
-      "districtName": "Mường Lát",
-      "provinceId": 1,
-      "provinceName": "Thanh Hóa"
+        "districtId": 8,
+        "districtName": "Mường Lát",
+        "provinceId": 1,
+        "provinceName": "Thanh Hóa"
     },
     "9": {
-      "districtId": 9,
-      "districtName": "Nga Sơn",
-      "provinceId": 1,
-      "provinceName": "Thanh Hóa"
+        "districtId": 9,
+        "districtName": "Nga Sơn",
+        "provinceId": 1,
+        "provinceName": "Thanh Hóa"
     },
     "10": {
-      "districtId": 10,
-      "districtName": "Ngọc Lặc",
-      "provinceId": 1,
-      "provinceName": "Thanh Hóa"
+        "districtId": 10,
+        "districtName": "Ngọc Lặc",
+        "provinceId": 1,
+        "provinceName": "Thanh Hóa"
     },
     "11": {
-      "districtId": 11,
-      "districtName": "Như Thanh",
-      "provinceId": 1,
-      "provinceName": "Thanh Hóa"
+        "districtId": 11,
+        "districtName": "Như Thanh",
+        "provinceId": 1,
+        "provinceName": "Thanh Hóa"
     },
     "12": {
-      "districtId": 12,
-      "districtName": "Như Xuân",
-      "provinceId": 1,
-      "provinceName": "Thanh Hóa"
+        "districtId": 12,
+        "districtName": "Như Xuân",
+        "provinceId": 1,
+        "provinceName": "Thanh Hóa"
     },
     "13": {
-      "districtId": 13,
-      "districtName": "Nông Cống",
-      "provinceId": 1,
-      "provinceName": "Thanh Hóa"
+        "districtId": 13,
+        "districtName": "Nông Cống",
+        "provinceId": 1,
+        "provinceName": "Thanh Hóa"
     },
     "14": {
-      "districtId": 14,
-      "districtName": "Quan Hóa",
-      "provinceId": 1,
-      "provinceName": "Thanh Hóa"
+        "districtId": 14,
+        "districtName": "Quan Hóa",
+        "provinceId": 1,
+        "provinceName": "Thanh Hóa"
     },
     "15": {
-      "districtId": 15,
-      "districtName": "Quan Sơn",
-      "provinceId": 1,
-      "provinceName": "Thanh Hóa"
+        "districtId": 15,
+        "districtName": "Quan Sơn",
+        "provinceId": 1,
+        "provinceName": "Thanh Hóa"
     },
     "16": {
-      "districtId": 16,
-      "districtName": "Quảng Xương",
-      "provinceId": 1,
-      "provinceName": "Thanh Hóa"
+        "districtId": 16,
+        "districtName": "Quảng Xương",
+        "provinceId": 1,
+        "provinceName": "Thanh Hóa"
     },
     "17": {
-      "districtId": 17,
-      "districtName": "Thạch Thành",
-      "provinceId": 1,
-      "provinceName": "Thanh Hóa"
+        "districtId": 17,
+        "districtName": "Thạch Thành",
+        "provinceId": 1,
+        "provinceName": "Thanh Hóa"
     },
     "18": {
-      "districtId": 18,
-      "districtName": "Thiệu Hóa",
-      "provinceId": 1,
-      "provinceName": "Thanh Hóa"
+        "districtId": 18,
+        "districtName": "Thiệu Hóa",
+        "provinceId": 1,
+        "provinceName": "Thanh Hóa"
     },
     "19": {
-      "districtId": 19,
-      "districtName": "Thọ Xuân",
-      "provinceId": 1,
-      "provinceName": "Thanh Hóa"
+        "districtId": 19,
+        "districtName": "Thọ Xuân",
+        "provinceId": 1,
+        "provinceName": "Thanh Hóa"
     },
     "20": {
-      "districtId": 20,
-      "districtName": "Thường Xuân",
-      "provinceId": 1,
-      "provinceName": "Thanh Hóa"
+        "districtId": 20,
+        "districtName": "Thường Xuân",
+        "provinceId": 1,
+        "provinceName": "Thanh Hóa"
     },
     "21": {
-      "districtId": 21,
-      "districtName": "Tĩnh Gia",
-      "provinceId": 1,
-      "provinceName": "Thanh Hóa"
+        "districtId": 21,
+        "districtName": "Tĩnh Gia",
+        "provinceId": 1,
+        "provinceName": "Thanh Hóa"
     },
     "22": {
-      "districtId": 22,
-      "districtName": "Triệu Sơn",
-      "provinceId": 1,
-      "provinceName": "Thanh Hóa"
+        "districtId": 22,
+        "districtName": "Triệu Sơn",
+        "provinceId": 1,
+        "provinceName": "Thanh Hóa"
     },
     "23": {
-      "districtId": 23,
-      "districtName": "Vĩnh Lộc",
-      "provinceId": 1,
-      "provinceName": "Thanh Hóa"
+        "districtId": 23,
+        "districtName": "Vĩnh Lộc",
+        "provinceId": 1,
+        "provinceName": "Thanh Hóa"
     },
     "24": {
-      "districtId": 24,
-      "districtName": "Yên Định",
-      "provinceId": 1,
-      "provinceName": "Thanh Hóa"
+        "districtId": 24,
+        "districtName": "Yên Định",
+        "provinceId": 1,
+        "provinceName": "Thanh Hóa"
     },
     "25": {
-      "districtId": 25,
-      "districtName": "Thành phố Thanh Hóa",
-      "provinceId": 1,
-      "provinceName": "Thanh Hóa"
+        "districtId": 25,
+        "districtName": "Thành phố Thanh Hóa",
+        "provinceId": 1,
+        "provinceName": "Thanh Hóa"
     },
     "26": {
-      "districtId": 26,
-      "districtName": "Thị xã Bỉm Sơn",
-      "provinceId": 1,
-      "provinceName": "Thanh Hóa"
+        "districtId": 26,
+        "districtName": "Thị xã Bỉm Sơn",
+        "provinceId": 1,
+        "provinceName": "Thanh Hóa"
     },
     "27": {
-      "districtId": 27,
-      "districtName": "Thành phố Sầm Sơn",
-      "provinceId": 1,
-      "provinceName": "Thanh Hóa"
+        "districtId": 27,
+        "districtName": "Thành phố Sầm Sơn",
+        "provinceId": 1,
+        "provinceName": "Thanh Hóa"
     },
     "28": {
-      "districtId": 28,
-      "districtName": "Anh Sơn",
-      "provinceId": 2,
-      "provinceName": "Nghệ An"
+        "districtId": 28,
+        "districtName": "Anh Sơn",
+        "provinceId": 2,
+        "provinceName": "Nghệ An"
     },
     "29": {
-      "districtId": 29,
-      "districtName": "Con Cuông",
-      "provinceId": 2,
-      "provinceName": "Nghệ An"
+        "districtId": 29,
+        "districtName": "Con Cuông",
+        "provinceId": 2,
+        "provinceName": "Nghệ An"
     },
     "30": {
-      "districtId": 30,
-      "districtName": "Diễn Châu",
-      "provinceId": 2,
-      "provinceName": "Nghệ An"
+        "districtId": 30,
+        "districtName": "Diễn Châu",
+        "provinceId": 2,
+        "provinceName": "Nghệ An"
     },
     "31": {
-      "districtId": 31,
-      "districtName": "Đô Lương",
-      "provinceId": 2,
-      "provinceName": "Nghệ An"
+        "districtId": 31,
+        "districtName": "Đô Lương",
+        "provinceId": 2,
+        "provinceName": "Nghệ An"
     },
     "32": {
-      "districtId": 32,
-      "districtName": "Hưng Nguyên",
-      "provinceId": 2,
-      "provinceName": "Nghệ An"
+        "districtId": 32,
+        "districtName": "Hưng Nguyên",
+        "provinceId": 2,
+        "provinceName": "Nghệ An"
     },
     "33": {
-      "districtId": 33,
-      "districtName": "Kỳ Sơn",
-      "provinceId": 2,
-      "provinceName": "Nghệ An"
+        "districtId": 33,
+        "districtName": "Kỳ Sơn",
+        "provinceId": 2,
+        "provinceName": "Nghệ An"
     },
     "34": {
-      "districtId": 34,
-      "districtName": "Nam Đàn",
-      "provinceId": 2,
-      "provinceName": "Nghệ An"
+        "districtId": 34,
+        "districtName": "Nam Đàn",
+        "provinceId": 2,
+        "provinceName": "Nghệ An"
     },
     "35": {
-      "districtId": 35,
-      "districtName": "Nghi Lộc",
-      "provinceId": 2,
-      "provinceName": "Nghệ An"
+        "districtId": 35,
+        "districtName": "Nghi Lộc",
+        "provinceId": 2,
+        "provinceName": "Nghệ An"
     },
     "36": {
-      "districtId": 36,
-      "districtName": "Nghĩa Đàn",
-      "provinceId": 2,
-      "provinceName": "Nghệ An"
+        "districtId": 36,
+        "districtName": "Nghĩa Đàn",
+        "provinceId": 2,
+        "provinceName": "Nghệ An"
     },
     "37": {
-      "districtId": 37,
-      "districtName": "Quế Phong",
-      "provinceId": 2,
-      "provinceName": "Nghệ An"
+        "districtId": 37,
+        "districtName": "Quế Phong",
+        "provinceId": 2,
+        "provinceName": "Nghệ An"
     },
     "38": {
-      "districtId": 38,
-      "districtName": "Quỳ Châu",
-      "provinceId": 2,
-      "provinceName": "Nghệ An"
+        "districtId": 38,
+        "districtName": "Quỳ Châu",
+        "provinceId": 2,
+        "provinceName": "Nghệ An"
     },
     "39": {
-      "districtId": 39,
-      "districtName": "Quỳ Hợp",
-      "provinceId": 2,
-      "provinceName": "Nghệ An"
+        "districtId": 39,
+        "districtName": "Quỳ Hợp",
+        "provinceId": 2,
+        "provinceName": "Nghệ An"
     },
     "40": {
-      "districtId": 40,
-      "districtName": "Quỳnh Lưu",
-      "provinceId": 2,
-      "provinceName": "Nghệ An"
+        "districtId": 40,
+        "districtName": "Quỳnh Lưu",
+        "provinceId": 2,
+        "provinceName": "Nghệ An"
     },
     "41": {
-      "districtId": 41,
-      "districtName": "Tân Kỳ",
-      "provinceId": 2,
-      "provinceName": "Nghệ An"
+        "districtId": 41,
+        "districtName": "Tân Kỳ",
+        "provinceId": 2,
+        "provinceName": "Nghệ An"
     },
     "42": {
-      "districtId": 42,
-      "districtName": "Thanh Chương",
-      "provinceId": 2,
-      "provinceName": "Nghệ An"
+        "districtId": 42,
+        "districtName": "Thanh Chương",
+        "provinceId": 2,
+        "provinceName": "Nghệ An"
     },
     "43": {
-      "districtId": 43,
-      "districtName": "Tương Dương",
-      "provinceId": 2,
-      "provinceName": "Nghệ An"
+        "districtId": 43,
+        "districtName": "Tương Dương",
+        "provinceId": 2,
+        "provinceName": "Nghệ An"
     },
     "44": {
-      "districtId": 44,
-      "districtName": "Yên Thành",
-      "provinceId": 2,
-      "provinceName": "Nghệ An"
+        "districtId": 44,
+        "districtName": "Yên Thành",
+        "provinceId": 2,
+        "provinceName": "Nghệ An"
     },
     "45": {
-      "districtId": 45,
-      "districtName": "Thành phố Vinh",
-      "provinceId": 2,
-      "provinceName": "Nghệ An"
+        "districtId": 45,
+        "districtName": "Thành phố Vinh",
+        "provinceId": 2,
+        "provinceName": "Nghệ An"
     },
     "46": {
-      "districtId": 46,
-      "districtName": "Thị xã Cửa Lò",
-      "provinceId": 2,
-      "provinceName": "Nghệ An"
+        "districtId": 46,
+        "districtName": "Thị xã Cửa Lò",
+        "provinceId": 2,
+        "provinceName": "Nghệ An"
     },
     "47": {
-      "districtId": 47,
-      "districtName": "Thị xã Thái Hòa",
-      "provinceId": 2,
-      "provinceName": "Nghệ An"
+        "districtId": 47,
+        "districtName": "Thị xã Thái Hòa",
+        "provinceId": 2,
+        "provinceName": "Nghệ An"
     },
     "48": {
-      "districtId": 48,
-      "districtName": "Thị xã Hoàng Mai",
-      "provinceId": 2,
-      "provinceName": "Nghệ An"
+        "districtId": 48,
+        "districtName": "Thị xã Hoàng Mai",
+        "provinceId": 2,
+        "provinceName": "Nghệ An"
     },
     "49": {
-      "districtId": 49,
-      "districtName": "Cẩm Xuyên",
-      "provinceId": 3,
-      "provinceName": "Hà Tĩnh"
+        "districtId": 49,
+        "districtName": "Cẩm Xuyên",
+        "provinceId": 3,
+        "provinceName": "Hà Tĩnh"
     },
     "50": {
-      "districtId": 50,
-      "districtName": "Can Lộc",
-      "provinceId": 3,
-      "provinceName": "Hà Tĩnh"
+        "districtId": 50,
+        "districtName": "Can Lộc",
+        "provinceId": 3,
+        "provinceName": "Hà Tĩnh"
     },
     "51": {
-      "districtId": 51,
-      "districtName": "Đức Thọ",
-      "provinceId": 3,
-      "provinceName": "Hà Tĩnh"
+        "districtId": 51,
+        "districtName": "Đức Thọ",
+        "provinceId": 3,
+        "provinceName": "Hà Tĩnh"
     },
     "52": {
-      "districtId": 52,
-      "districtName": "Hương Khê",
-      "provinceId": 3,
-      "provinceName": "Hà Tĩnh"
+        "districtId": 52,
+        "districtName": "Hương Khê",
+        "provinceId": 3,
+        "provinceName": "Hà Tĩnh"
     },
     "53": {
-      "districtId": 53,
-      "districtName": "Hương Sơn",
-      "provinceId": 3,
-      "provinceName": "Hà Tĩnh"
+        "districtId": 53,
+        "districtName": "Hương Sơn",
+        "provinceId": 3,
+        "provinceName": "Hà Tĩnh"
     },
     "54": {
-      "districtId": 54,
-      "districtName": "Huyện Kỳ Anh",
-      "provinceId": 3,
-      "provinceName": "Hà Tĩnh"
+        "districtId": 54,
+        "districtName": "Huyện Kỳ Anh",
+        "provinceId": 3,
+        "provinceName": "Hà Tĩnh"
     },
     "55": {
-      "districtId": 55,
-      "districtName": "Nghi Xuân",
-      "provinceId": 3,
-      "provinceName": "Hà Tĩnh"
+        "districtId": 55,
+        "districtName": "Nghi Xuân",
+        "provinceId": 3,
+        "provinceName": "Hà Tĩnh"
     },
     "56": {
-      "districtId": 56,
-      "districtName": "Thạch Hà",
-      "provinceId": 3,
-      "provinceName": "Hà Tĩnh"
+        "districtId": 56,
+        "districtName": "Thạch Hà",
+        "provinceId": 3,
+        "provinceName": "Hà Tĩnh"
     },
     "57": {
-      "districtId": 57,
-      "districtName": "Vũ Quang",
-      "provinceId": 3,
-      "provinceName": "Hà Tĩnh"
+        "districtId": 57,
+        "districtName": "Vũ Quang",
+        "provinceId": 3,
+        "provinceName": "Hà Tĩnh"
     },
     "58": {
-      "districtId": 58,
-      "districtName": "Thành phố Hà Tĩnh",
-      "provinceId": 3,
-      "provinceName": "Hà Tĩnh"
+        "districtId": 58,
+        "districtName": "Thành phố Hà Tĩnh",
+        "provinceId": 3,
+        "provinceName": "Hà Tĩnh"
     },
     "59": {
-      "districtId": 59,
-      "districtName": "Hồng Lĩnh",
-      "provinceId": 3,
-      "provinceName": "Hà Tĩnh"
+        "districtId": 59,
+        "districtName": "Hồng Lĩnh",
+        "provinceId": 3,
+        "provinceName": "Hà Tĩnh"
     },
     "60": {
-      "districtId": 60,
-      "districtName": "Lộc Hà",
-      "provinceId": 3,
-      "provinceName": "Hà Tĩnh"
+        "districtId": 60,
+        "districtName": "Lộc Hà",
+        "provinceId": 3,
+        "provinceName": "Hà Tĩnh"
     },
     "61": {
-      "districtId": 61,
-      "districtName": "Bố Trạch",
-      "provinceId": 4,
-      "provinceName": "Quảng Bình"
+        "districtId": 61,
+        "districtName": "Bố Trạch",
+        "provinceId": 4,
+        "provinceName": "Quảng Bình"
     },
     "62": {
-      "districtId": 62,
-      "districtName": "Lệ Thủy",
-      "provinceId": 4,
-      "provinceName": "Quảng Bình"
+        "districtId": 62,
+        "districtName": "Lệ Thủy",
+        "provinceId": 4,
+        "provinceName": "Quảng Bình"
     },
     "63": {
-      "districtId": 63,
-      "districtName": "Minh Hóa",
-      "provinceId": 4,
-      "provinceName": "Quảng Bình"
+        "districtId": 63,
+        "districtName": "Minh Hóa",
+        "provinceId": 4,
+        "provinceName": "Quảng Bình"
     },
     "64": {
-      "districtId": 64,
-      "districtName": "Quảng Ninh",
-      "provinceId": 4,
-      "provinceName": "Quảng Bình"
+        "districtId": 64,
+        "districtName": "Quảng Ninh",
+        "provinceId": 4,
+        "provinceName": "Quảng Bình"
     },
     "65": {
-      "districtId": 65,
-      "districtName": "Quảng Trạch",
-      "provinceId": 4,
-      "provinceName": "Quảng Bình"
+        "districtId": 65,
+        "districtName": "Quảng Trạch",
+        "provinceId": 4,
+        "provinceName": "Quảng Bình"
     },
     "66": {
-      "districtId": 66,
-      "districtName": "Tuyên Hóa",
-      "provinceId": 4,
-      "provinceName": "Quảng Bình"
+        "districtId": 66,
+        "districtName": "Tuyên Hóa",
+        "provinceId": 4,
+        "provinceName": "Quảng Bình"
     },
     "67": {
-      "districtId": 67,
-      "districtName": "Thành phố Đồng Hới",
-      "provinceId": 4,
-      "provinceName": "Quảng Bình"
+        "districtId": 67,
+        "districtName": "Thành phố Đồng Hới",
+        "provinceId": 4,
+        "provinceName": "Quảng Bình"
     },
     "68": {
-      "districtId": 68,
-      "districtName": "Ba Đồn",
-      "provinceId": 4,
-      "provinceName": "Quảng Bình"
+        "districtId": 68,
+        "districtName": "Ba Đồn",
+        "provinceId": 4,
+        "provinceName": "Quảng Bình"
     },
     "69": {
-      "districtId": 69,
-      "districtName": "Cam Lộ",
-      "provinceId": 5,
-      "provinceName": "Quảng Trị"
+        "districtId": 69,
+        "districtName": "Cam Lộ",
+        "provinceId": 5,
+        "provinceName": "Quảng Trị"
     },
     "70": {
-      "districtId": 70,
-      "districtName": "Đakrông",
-      "provinceId": 5,
-      "provinceName": "Quảng Trị"
+        "districtId": 70,
+        "districtName": "Đakrông",
+        "provinceId": 5,
+        "provinceName": "Quảng Trị"
     },
     "71": {
-      "districtId": 71,
-      "districtName": "Gio Linh",
-      "provinceId": 5,
-      "provinceName": "Quảng Trị"
+        "districtId": 71,
+        "districtName": "Gio Linh",
+        "provinceId": 5,
+        "provinceName": "Quảng Trị"
     },
     "72": {
-      "districtId": 72,
-      "districtName": "Hải Lăng",
-      "provinceId": 5,
-      "provinceName": "Quảng Trị"
+        "districtId": 72,
+        "districtName": "Hải Lăng",
+        "provinceId": 5,
+        "provinceName": "Quảng Trị"
     },
     "73": {
-      "districtId": 73,
-      "districtName": "Hướng Hóa",
-      "provinceId": 5,
-      "provinceName": "Quảng Trị"
+        "districtId": 73,
+        "districtName": "Hướng Hóa",
+        "provinceId": 5,
+        "provinceName": "Quảng Trị"
     },
     "74": {
-      "districtId": 74,
-      "districtName": "Triệu Phong",
-      "provinceId": 5,
-      "provinceName": "Quảng Trị"
+        "districtId": 74,
+        "districtName": "Triệu Phong",
+        "provinceId": 5,
+        "provinceName": "Quảng Trị"
     },
     "75": {
-      "districtId": 75,
-      "districtName": "Vĩnh Linh",
-      "provinceId": 5,
-      "provinceName": "Quảng Trị"
+        "districtId": 75,
+        "districtName": "Vĩnh Linh",
+        "provinceId": 5,
+        "provinceName": "Quảng Trị"
     },
     "76": {
-      "districtId": 76,
-      "districtName": "Thành phố Đông Hà",
-      "provinceId": 5,
-      "provinceName": "Quảng Trị"
+        "districtId": 76,
+        "districtName": "Thành phố Đông Hà",
+        "provinceId": 5,
+        "provinceName": "Quảng Trị"
     },
     "77": {
-      "districtId": 77,
-      "districtName": "Thị xã Quảng Trị",
-      "provinceId": 5,
-      "provinceName": "Quảng Trị"
+        "districtId": 77,
+        "districtName": "Thị xã Quảng Trị",
+        "provinceId": 5,
+        "provinceName": "Quảng Trị"
     },
     "78": {
-      "districtId": 78,
-      "districtName": "A Lưới",
-      "provinceId": 6,
-      "provinceName": "Thừa Thiên - Huế"
+        "districtId": 78,
+        "districtName": "A Lưới",
+        "provinceId": 6,
+        "provinceName": "Thừa Thiên - Huế"
     },
     "79": {
-      "districtId": 79,
-      "districtName": "Thị xã Hương Thủy",
-      "provinceId": 6,
-      "provinceName": "Thừa Thiên - Huế"
+        "districtId": 79,
+        "districtName": "Thị xã Hương Thủy",
+        "provinceId": 6,
+        "provinceName": "Thừa Thiên - Huế"
     },
     "80": {
-      "districtId": 80,
-      "districtName": "Hương Trà",
-      "provinceId": 6,
-      "provinceName": "Thừa Thiên - Huế"
+        "districtId": 80,
+        "districtName": "Hương Trà",
+        "provinceId": 6,
+        "provinceName": "Thừa Thiên - Huế"
     },
     "81": {
-      "districtId": 81,
-      "districtName": "Nam Đông",
-      "provinceId": 6,
-      "provinceName": "Thừa Thiên - Huế"
+        "districtId": 81,
+        "districtName": "Nam Đông",
+        "provinceId": 6,
+        "provinceName": "Thừa Thiên - Huế"
     },
     "82": {
-      "districtId": 82,
-      "districtName": "Phong Điền",
-      "provinceId": 6,
-      "provinceName": "Thừa Thiên - Huế"
+        "districtId": 82,
+        "districtName": "Phong Điền",
+        "provinceId": 6,
+        "provinceName": "Thừa Thiên - Huế"
     },
     "83": {
-      "districtId": 83,
-      "districtName": "Phú Lộc",
-      "provinceId": 6,
-      "provinceName": "Thừa Thiên - Huế"
+        "districtId": 83,
+        "districtName": "Phú Lộc",
+        "provinceId": 6,
+        "provinceName": "Thừa Thiên - Huế"
     },
     "84": {
-      "districtId": 84,
-      "districtName": "Phú Vang",
-      "provinceId": 6,
-      "provinceName": "Thừa Thiên - Huế"
+        "districtId": 84,
+        "districtName": "Phú Vang",
+        "provinceId": 6,
+        "provinceName": "Thừa Thiên - Huế"
     },
     "85": {
-      "districtId": 85,
-      "districtName": "Quảng Điền",
-      "provinceId": 6,
-      "provinceName": "Thừa Thiên - Huế"
+        "districtId": 85,
+        "districtName": "Quảng Điền",
+        "provinceId": 6,
+        "provinceName": "Thừa Thiên - Huế"
     },
     "86": {
-      "districtId": 86,
-      "districtName": "Thành phố Huế",
-      "provinceId": 6,
-      "provinceName": "Thừa Thiên - Huế"
+        "districtId": 86,
+        "districtName": "Thành phố Huế",
+        "provinceId": 6,
+        "provinceName": "Thừa Thiên - Huế"
     },
     "87": {
-      "districtId": 87,
-      "districtName": "Thành phố Hà Giang",
-      "provinceId": 7,
-      "provinceName": "Hà Giang"
+        "districtId": 87,
+        "districtName": "Thành phố Hà Giang",
+        "provinceId": 7,
+        "provinceName": "Hà Giang"
     },
     "88": {
-      "districtId": 88,
-      "districtName": "Bắc Quang",
-      "provinceId": 7,
-      "provinceName": "Hà Giang"
+        "districtId": 88,
+        "districtName": "Bắc Quang",
+        "provinceId": 7,
+        "provinceName": "Hà Giang"
     },
     "89": {
-      "districtId": 89,
-      "districtName": "Bắc Mê",
-      "provinceId": 7,
-      "provinceName": "Hà Giang"
+        "districtId": 89,
+        "districtName": "Bắc Mê",
+        "provinceId": 7,
+        "provinceName": "Hà Giang"
     },
     "90": {
-      "districtId": 90,
-      "districtName": "Đồng Văn",
-      "provinceId": 7,
-      "provinceName": "Hà Giang"
+        "districtId": 90,
+        "districtName": "Đồng Văn",
+        "provinceId": 7,
+        "provinceName": "Hà Giang"
     },
     "91": {
-      "districtId": 91,
-      "districtName": "Hoàng Su Phì",
-      "provinceId": 7,
-      "provinceName": "Hà Giang"
+        "districtId": 91,
+        "districtName": "Hoàng Su Phì",
+        "provinceId": 7,
+        "provinceName": "Hà Giang"
     },
     "92": {
-      "districtId": 92,
-      "districtName": "Mèo Vạc",
-      "provinceId": 7,
-      "provinceName": "Hà Giang"
+        "districtId": 92,
+        "districtName": "Mèo Vạc",
+        "provinceId": 7,
+        "provinceName": "Hà Giang"
     },
     "93": {
-      "districtId": 93,
-      "districtName": "Quản Bạ",
-      "provinceId": 7,
-      "provinceName": "Hà Giang"
+        "districtId": 93,
+        "districtName": "Quản Bạ",
+        "provinceId": 7,
+        "provinceName": "Hà Giang"
     },
     "94": {
-      "districtId": 94,
-      "districtName": "Vị Xuyên",
-      "provinceId": 7,
-      "provinceName": "Hà Giang"
+        "districtId": 94,
+        "districtName": "Vị Xuyên",
+        "provinceId": 7,
+        "provinceName": "Hà Giang"
     },
     "95": {
-      "districtId": 95,
-      "districtName": "Xín Mần",
-      "provinceId": 7,
-      "provinceName": "Hà Giang"
+        "districtId": 95,
+        "districtName": "Xín Mần",
+        "provinceId": 7,
+        "provinceName": "Hà Giang"
     },
     "96": {
-      "districtId": 96,
-      "districtName": "Yên Minh",
-      "provinceId": 7,
-      "provinceName": "Hà Giang"
+        "districtId": 96,
+        "districtName": "Yên Minh",
+        "provinceId": 7,
+        "provinceName": "Hà Giang"
     },
     "97": {
-      "districtId": 97,
-      "districtName": "Quang Bình",
-      "provinceId": 7,
-      "provinceName": "Hà Giang"
+        "districtId": 97,
+        "districtName": "Quang Bình",
+        "provinceId": 7,
+        "provinceName": "Hà Giang"
     },
     "98": {
-      "districtId": 98,
-      "districtName": "Bảo Lạc",
-      "provinceId": 8,
-      "provinceName": "Cao Bằng"
+        "districtId": 98,
+        "districtName": "Bảo Lạc",
+        "provinceId": 8,
+        "provinceName": "Cao Bằng"
     },
     "99": {
-      "districtId": 99,
-      "districtName": "Hạ Lang",
-      "provinceId": 8,
-      "provinceName": "Cao Bằng"
+        "districtId": 99,
+        "districtName": "Hạ Lang",
+        "provinceId": 8,
+        "provinceName": "Cao Bằng"
     },
     "100": {
-      "districtId": 100,
-      "districtName": "Hà Quảng",
-      "provinceId": 8,
-      "provinceName": "Cao Bằng"
+        "districtId": 100,
+        "districtName": "Hà Quảng",
+        "provinceId": 8,
+        "provinceName": "Cao Bằng"
     },
     "101": {
-      "districtId": 101,
-      "districtName": "Hòa An",
-      "provinceId": 8,
-      "provinceName": "Cao Bằng"
+        "districtId": 101,
+        "districtName": "Hòa An",
+        "provinceId": 8,
+        "provinceName": "Cao Bằng"
     },
     "102": {
-      "districtId": 102,
-      "districtName": "Nguyên Bình",
-      "provinceId": 8,
-      "provinceName": "Cao Bằng"
+        "districtId": 102,
+        "districtName": "Nguyên Bình",
+        "provinceId": 8,
+        "provinceName": "Cao Bằng"
     },
     "103": {
-      "districtId": 103,
-      "districtName": "Phục Hòa",
-      "provinceId": 8,
-      "provinceName": "Cao Bằng"
+        "districtId": 103,
+        "districtName": "Phục Hòa",
+        "provinceId": 8,
+        "provinceName": "Cao Bằng"
     },
     "104": {
-      "districtId": 104,
-      "districtName": "Quảng Uyên",
-      "provinceId": 8,
-      "provinceName": "Cao Bằng"
+        "districtId": 104,
+        "districtName": "Quảng Uyên",
+        "provinceId": 8,
+        "provinceName": "Cao Bằng"
     },
     "105": {
-      "districtId": 105,
-      "districtName": "Quảng Yên",
-      "provinceId": 8,
-      "provinceName": "Cao Bằng"
+        "districtId": 105,
+        "districtName": "Quảng Yên",
+        "provinceId": 8,
+        "provinceName": "Cao Bằng"
     },
     "106": {
-      "districtId": 106,
-      "districtName": "Thạch An",
-      "provinceId": 8,
-      "provinceName": "Cao Bằng"
+        "districtId": 106,
+        "districtName": "Thạch An",
+        "provinceId": 8,
+        "provinceName": "Cao Bằng"
     },
     "107": {
-      "districtId": 107,
-      "districtName": "Thông Nông",
-      "provinceId": 8,
-      "provinceName": "Cao Bằng"
+        "districtId": 107,
+        "districtName": "Thông Nông",
+        "provinceId": 8,
+        "provinceName": "Cao Bằng"
     },
     "108": {
-      "districtId": 108,
-      "districtName": "Trà Lĩnh",
-      "provinceId": 8,
-      "provinceName": "Cao Bằng"
+        "districtId": 108,
+        "districtName": "Trà Lĩnh",
+        "provinceId": 8,
+        "provinceName": "Cao Bằng"
     },
     "109": {
-      "districtId": 109,
-      "districtName": "Trùng Khánh",
-      "provinceId": 8,
-      "provinceName": "Cao Bằng"
+        "districtId": 109,
+        "districtName": "Trùng Khánh",
+        "provinceId": 8,
+        "provinceName": "Cao Bằng"
     },
     "110": {
-      "districtId": 110,
-      "districtName": "Thành phố Cao Bằng",
-      "provinceId": 8,
-      "provinceName": "Cao Bằng"
+        "districtId": 110,
+        "districtName": "Thành phố Cao Bằng",
+        "provinceId": 8,
+        "provinceName": "Cao Bằng"
     },
     "111": {
-      "districtId": 111,
-      "districtName": "Bảo Lâm",
-      "provinceId": 8,
-      "provinceName": "Cao Bằng"
+        "districtId": 111,
+        "districtName": "Bảo Lâm",
+        "provinceId": 8,
+        "provinceName": "Cao Bằng"
     },
     "112": {
-      "districtId": 112,
-      "districtName": "Ba Bể",
-      "provinceId": 9,
-      "provinceName": "Bắc Kạn"
+        "districtId": 112,
+        "districtName": "Ba Bể",
+        "provinceId": 9,
+        "provinceName": "Bắc Kạn"
     },
     "113": {
-      "districtId": 113,
-      "districtName": "Bạch Thông",
-      "provinceId": 9,
-      "provinceName": "Bắc Kạn"
+        "districtId": 113,
+        "districtName": "Bạch Thông",
+        "provinceId": 9,
+        "provinceName": "Bắc Kạn"
     },
     "114": {
-      "districtId": 114,
-      "districtName": "Chợ Đồn",
-      "provinceId": 9,
-      "provinceName": "Bắc Kạn"
+        "districtId": 114,
+        "districtName": "Chợ Đồn",
+        "provinceId": 9,
+        "provinceName": "Bắc Kạn"
     },
     "115": {
-      "districtId": 115,
-      "districtName": "Chợ Mới",
-      "provinceId": 9,
-      "provinceName": "Bắc Kạn"
+        "districtId": 115,
+        "districtName": "Chợ Mới",
+        "provinceId": 9,
+        "provinceName": "Bắc Kạn"
     },
     "116": {
-      "districtId": 116,
-      "districtName": "Na Rì",
-      "provinceId": 9,
-      "provinceName": "Bắc Kạn"
+        "districtId": 116,
+        "districtName": "Na Rì",
+        "provinceId": 9,
+        "provinceName": "Bắc Kạn"
     },
     "117": {
-      "districtId": 117,
-      "districtName": "Ngân Sơn",
-      "provinceId": 9,
-      "provinceName": "Bắc Kạn"
+        "districtId": 117,
+        "districtName": "Ngân Sơn",
+        "provinceId": 9,
+        "provinceName": "Bắc Kạn"
     },
     "118": {
-      "districtId": 118,
-      "districtName": "Thành phố Bắc Kạn",
-      "provinceId": 9,
-      "provinceName": "Bắc Kạn"
+        "districtId": 118,
+        "districtName": "Thành phố Bắc Kạn",
+        "provinceId": 9,
+        "provinceName": "Bắc Kạn"
     },
     "119": {
-      "districtId": 119,
-      "districtName": "Pác Nặm",
-      "provinceId": 9,
-      "provinceName": "Bắc Kạn"
+        "districtId": 119,
+        "districtName": "Pác Nặm",
+        "provinceId": 9,
+        "provinceName": "Bắc Kạn"
     },
     "120": {
-      "districtId": 120,
-      "districtName": "Bắc Sơn",
-      "provinceId": 10,
-      "provinceName": "Lạng Sơn"
+        "districtId": 120,
+        "districtName": "Bắc Sơn",
+        "provinceId": 10,
+        "provinceName": "Lạng Sơn"
     },
     "121": {
-      "districtId": 121,
-      "districtName": "Bình Gia",
-      "provinceId": 10,
-      "provinceName": "Lạng Sơn"
+        "districtId": 121,
+        "districtName": "Bình Gia",
+        "provinceId": 10,
+        "provinceName": "Lạng Sơn"
     },
     "122": {
-      "districtId": 122,
-      "districtName": "Cao Lộc",
-      "provinceId": 10,
-      "provinceName": "Lạng Sơn"
+        "districtId": 122,
+        "districtName": "Cao Lộc",
+        "provinceId": 10,
+        "provinceName": "Lạng Sơn"
     },
     "123": {
-      "districtId": 123,
-      "districtName": "Chi Lăng",
-      "provinceId": 10,
-      "provinceName": "Lạng Sơn"
+        "districtId": 123,
+        "districtName": "Chi Lăng",
+        "provinceId": 10,
+        "provinceName": "Lạng Sơn"
     },
     "124": {
-      "districtId": 124,
-      "districtName": "Đình Lập",
-      "provinceId": 10,
-      "provinceName": "Lạng Sơn"
+        "districtId": 124,
+        "districtName": "Đình Lập",
+        "provinceId": 10,
+        "provinceName": "Lạng Sơn"
     },
     "125": {
-      "districtId": 125,
-      "districtName": "Hữu Lũng",
-      "provinceId": 10,
-      "provinceName": "Lạng Sơn"
+        "districtId": 125,
+        "districtName": "Hữu Lũng",
+        "provinceId": 10,
+        "provinceName": "Lạng Sơn"
     },
     "126": {
-      "districtId": 126,
-      "districtName": "Lộc Bình",
-      "provinceId": 10,
-      "provinceName": "Lạng Sơn"
+        "districtId": 126,
+        "districtName": "Lộc Bình",
+        "provinceId": 10,
+        "provinceName": "Lạng Sơn"
     },
     "127": {
-      "districtId": 127,
-      "districtName": "Tràng Định",
-      "provinceId": 10,
-      "provinceName": "Lạng Sơn"
+        "districtId": 127,
+        "districtName": "Tràng Định",
+        "provinceId": 10,
+        "provinceName": "Lạng Sơn"
     },
     "128": {
-      "districtId": 128,
-      "districtName": "Văn Lãng",
-      "provinceId": 10,
-      "provinceName": "Lạng Sơn"
+        "districtId": 128,
+        "districtName": "Văn Lãng",
+        "provinceId": 10,
+        "provinceName": "Lạng Sơn"
     },
     "129": {
-      "districtId": 129,
-      "districtName": "Văn Quan",
-      "provinceId": 10,
-      "provinceName": "Lạng Sơn"
+        "districtId": 129,
+        "districtName": "Văn Quan",
+        "provinceId": 10,
+        "provinceName": "Lạng Sơn"
     },
     "130": {
-      "districtId": 130,
-      "districtName": "Thành phố Lạng Sơn",
-      "provinceId": 10,
-      "provinceName": "Lạng Sơn"
+        "districtId": 130,
+        "districtName": "Thành phố Lạng Sơn",
+        "provinceId": 10,
+        "provinceName": "Lạng Sơn"
     },
     "131": {
-      "districtId": 131,
-      "districtName": "Thành phố Tuyên Quang",
-      "provinceId": 11,
-      "provinceName": "Tuyên Quang"
+        "districtId": 131,
+        "districtName": "Thành phố Tuyên Quang",
+        "provinceId": 11,
+        "provinceName": "Tuyên Quang"
     },
     "132": {
-      "districtId": 132,
-      "districtName": "Chiêm Hóa",
-      "provinceId": 11,
-      "provinceName": "Tuyên Quang"
+        "districtId": 132,
+        "districtName": "Chiêm Hóa",
+        "provinceId": 11,
+        "provinceName": "Tuyên Quang"
     },
     "133": {
-      "districtId": 133,
-      "districtName": "Hàm Yên",
-      "provinceId": 11,
-      "provinceName": "Tuyên Quang"
+        "districtId": 133,
+        "districtName": "Hàm Yên",
+        "provinceId": 11,
+        "provinceName": "Tuyên Quang"
     },
     "134": {
-      "districtId": 134,
-      "districtName": "Na Hang",
-      "provinceId": 11,
-      "provinceName": "Tuyên Quang"
+        "districtId": 134,
+        "districtName": "Na Hang",
+        "provinceId": 11,
+        "provinceName": "Tuyên Quang"
     },
     "135": {
-      "districtId": 135,
-      "districtName": "Sơn Dương",
-      "provinceId": 11,
-      "provinceName": "Tuyên Quang"
+        "districtId": 135,
+        "districtName": "Sơn Dương",
+        "provinceId": 11,
+        "provinceName": "Tuyên Quang"
     },
     "136": {
-      "districtId": 136,
-      "districtName": "Yên Sơn",
-      "provinceId": 11,
-      "provinceName": "Tuyên Quang"
+        "districtId": 136,
+        "districtName": "Yên Sơn",
+        "provinceId": 11,
+        "provinceName": "Tuyên Quang"
     },
     "137": {
-      "districtId": 137,
-      "districtName": "Lâm Bình",
-      "provinceId": 11,
-      "provinceName": "Tuyên Quang"
+        "districtId": 137,
+        "districtName": "Lâm Bình",
+        "provinceId": 11,
+        "provinceName": "Tuyên Quang"
     },
     "138": {
-      "districtId": 138,
-      "districtName": "Thành phố Thái Nguyên",
-      "provinceId": 12,
-      "provinceName": "Thái Nguyên"
+        "districtId": 138,
+        "districtName": "Thành phố Thái Nguyên",
+        "provinceId": 12,
+        "provinceName": "Thái Nguyên"
     },
     "139": {
-      "districtId": 139,
-      "districtName": "Đại Từ",
-      "provinceId": 12,
-      "provinceName": "Thái Nguyên"
+        "districtId": 139,
+        "districtName": "Đại Từ",
+        "provinceId": 12,
+        "provinceName": "Thái Nguyên"
     },
     "140": {
-      "districtId": 140,
-      "districtName": "Định Hóa",
-      "provinceId": 12,
-      "provinceName": "Thái Nguyên"
+        "districtId": 140,
+        "districtName": "Định Hóa",
+        "provinceId": 12,
+        "provinceName": "Thái Nguyên"
     },
     "141": {
-      "districtId": 141,
-      "districtName": "Đồng Hỷ",
-      "provinceId": 12,
-      "provinceName": "Thái Nguyên"
+        "districtId": 141,
+        "districtName": "Đồng Hỷ",
+        "provinceId": 12,
+        "provinceName": "Thái Nguyên"
     },
     "142": {
-      "districtId": 142,
-      "districtName": "Phổ Yên",
-      "provinceId": 12,
-      "provinceName": "Thái Nguyên"
+        "districtId": 142,
+        "districtName": "Phổ Yên",
+        "provinceId": 12,
+        "provinceName": "Thái Nguyên"
     },
     "143": {
-      "districtId": 143,
-      "districtName": "Phú Bình",
-      "provinceId": 12,
-      "provinceName": "Thái Nguyên"
+        "districtId": 143,
+        "districtName": "Phú Bình",
+        "provinceId": 12,
+        "provinceName": "Thái Nguyên"
     },
     "144": {
-      "districtId": 144,
-      "districtName": "Phú Lương",
-      "provinceId": 12,
-      "provinceName": "Thái Nguyên"
+        "districtId": 144,
+        "districtName": "Phú Lương",
+        "provinceId": 12,
+        "provinceName": "Thái Nguyên"
     },
     "145": {
-      "districtId": 145,
-      "districtName": "Thành phố Sông Công",
-      "provinceId": 12,
-      "provinceName": "Thái Nguyên"
+        "districtId": 145,
+        "districtName": "Thành phố Sông Công",
+        "provinceId": 12,
+        "provinceName": "Thái Nguyên"
     },
     "146": {
-      "districtId": 146,
-      "districtName": "Võ Nhai",
-      "provinceId": 12,
-      "provinceName": "Thái Nguyên"
+        "districtId": 146,
+        "districtName": "Võ Nhai",
+        "provinceId": 12,
+        "provinceName": "Thái Nguyên"
     },
     "147": {
-      "districtId": 147,
-      "districtName": "Thành phố Bắc Giang",
-      "provinceId": 13,
-      "provinceName": "Bắc Giang"
+        "districtId": 147,
+        "districtName": "Thành phố Bắc Giang",
+        "provinceId": 13,
+        "provinceName": "Bắc Giang"
     },
     "148": {
-      "districtId": 148,
-      "districtName": "Lạng Giang",
-      "provinceId": 13,
-      "provinceName": "Bắc Giang"
+        "districtId": 148,
+        "districtName": "Lạng Giang",
+        "provinceId": 13,
+        "provinceName": "Bắc Giang"
     },
     "149": {
-      "districtId": 149,
-      "districtName": "Lục Nam",
-      "provinceId": 13,
-      "provinceName": "Bắc Giang"
+        "districtId": 149,
+        "districtName": "Lục Nam",
+        "provinceId": 13,
+        "provinceName": "Bắc Giang"
     },
     "150": {
-      "districtId": 150,
-      "districtName": "Lục Ngạn",
-      "provinceId": 13,
-      "provinceName": "Bắc Giang"
+        "districtId": 150,
+        "districtName": "Lục Ngạn",
+        "provinceId": 13,
+        "provinceName": "Bắc Giang"
     },
     "151": {
-      "districtId": 151,
-      "districtName": "Sơn Động",
-      "provinceId": 13,
-      "provinceName": "Bắc Giang"
+        "districtId": 151,
+        "districtName": "Sơn Động",
+        "provinceId": 13,
+        "provinceName": "Bắc Giang"
     },
     "152": {
-      "districtId": 152,
-      "districtName": "Tân Yên",
-      "provinceId": 13,
-      "provinceName": "Bắc Giang"
+        "districtId": 152,
+        "districtName": "Tân Yên",
+        "provinceId": 13,
+        "provinceName": "Bắc Giang"
     },
     "153": {
-      "districtId": 153,
-      "districtName": "Việt Yên",
-      "provinceId": 13,
-      "provinceName": "Bắc Giang"
+        "districtId": 153,
+        "districtName": "Việt Yên",
+        "provinceId": 13,
+        "provinceName": "Bắc Giang"
     },
     "154": {
-      "districtId": 154,
-      "districtName": "Yên Dũng",
-      "provinceId": 13,
-      "provinceName": "Bắc Giang"
+        "districtId": 154,
+        "districtName": "Yên Dũng",
+        "provinceId": 13,
+        "provinceName": "Bắc Giang"
     },
     "155": {
-      "districtId": 155,
-      "districtName": "Yên Thế",
-      "provinceId": 13,
-      "provinceName": "Bắc Giang"
+        "districtId": 155,
+        "districtName": "Yên Thế",
+        "provinceId": 13,
+        "provinceName": "Bắc Giang"
     },
     "156": {
-      "districtId": 156,
-      "districtName": "Hiệp Hòa",
-      "provinceId": 13,
-      "provinceName": "Bắc Giang"
+        "districtId": 156,
+        "districtName": "Hiệp Hòa",
+        "provinceId": 13,
+        "provinceName": "Bắc Giang"
     },
     "157": {
-      "districtId": 157,
-      "districtName": "Cảm Khê",
-      "provinceId": 14,
-      "provinceName": "Phú Thọ"
+        "districtId": 157,
+        "districtName": "Cảm Khê",
+        "provinceId": 14,
+        "provinceName": "Phú Thọ"
     },
     "158": {
-      "districtId": 158,
-      "districtName": "Đoan Hùng",
-      "provinceId": 14,
-      "provinceName": "Phú Thọ"
+        "districtId": 158,
+        "districtName": "Đoan Hùng",
+        "provinceId": 14,
+        "provinceName": "Phú Thọ"
     },
     "159": {
-      "districtId": 159,
-      "districtName": "Hạ Hòa",
-      "provinceId": 14,
-      "provinceName": "Phú Thọ"
+        "districtId": 159,
+        "districtName": "Hạ Hòa",
+        "provinceId": 14,
+        "provinceName": "Phú Thọ"
     },
     "160": {
-      "districtId": 160,
-      "districtName": "Lâm Thao",
-      "provinceId": 14,
-      "provinceName": "Phú Thọ"
+        "districtId": 160,
+        "districtName": "Lâm Thao",
+        "provinceId": 14,
+        "provinceName": "Phú Thọ"
     },
     "161": {
-      "districtId": 161,
-      "districtName": "Phù Ninh",
-      "provinceId": 14,
-      "provinceName": "Phú Thọ"
+        "districtId": 161,
+        "districtName": "Phù Ninh",
+        "provinceId": 14,
+        "provinceName": "Phú Thọ"
     },
     "162": {
-      "districtId": 162,
-      "districtName": "Tam Nông",
-      "provinceId": 14,
-      "provinceName": "Phú Thọ"
+        "districtId": 162,
+        "districtName": "Tam Nông",
+        "provinceId": 14,
+        "provinceName": "Phú Thọ"
     },
     "163": {
-      "districtId": 163,
-      "districtName": "Thanh Ba",
-      "provinceId": 14,
-      "provinceName": "Phú Thọ"
+        "districtId": 163,
+        "districtName": "Thanh Ba",
+        "provinceId": 14,
+        "provinceName": "Phú Thọ"
     },
     "164": {
-      "districtId": 164,
-      "districtName": "Thanh Sơn",
-      "provinceId": 14,
-      "provinceName": "Phú Thọ"
+        "districtId": 164,
+        "districtName": "Thanh Sơn",
+        "provinceId": 14,
+        "provinceName": "Phú Thọ"
     },
     "165": {
-      "districtId": 165,
-      "districtName": "Thanh Thủy",
-      "provinceId": 14,
-      "provinceName": "Phú Thọ"
+        "districtId": 165,
+        "districtName": "Thanh Thủy",
+        "provinceId": 14,
+        "provinceName": "Phú Thọ"
     },
     "166": {
-      "districtId": 166,
-      "districtName": "Yên Lập",
-      "provinceId": 14,
-      "provinceName": "Phú Thọ"
+        "districtId": 166,
+        "districtName": "Yên Lập",
+        "provinceId": 14,
+        "provinceName": "Phú Thọ"
     },
     "167": {
-      "districtId": 167,
-      "districtName": "Thành phố Việt Trì",
-      "provinceId": 14,
-      "provinceName": "Phú Thọ"
+        "districtId": 167,
+        "districtName": "Thành phố Việt Trì",
+        "provinceId": 14,
+        "provinceName": "Phú Thọ"
     },
     "168": {
-      "districtId": 168,
-      "districtName": "Thị xã Phú Thọ",
-      "provinceId": 14,
-      "provinceName": "Phú Thọ"
+        "districtId": 168,
+        "districtName": "Thị xã Phú Thọ",
+        "provinceId": 14,
+        "provinceName": "Phú Thọ"
     },
     "169": {
-      "districtId": 169,
-      "districtName": "Tân Sơn",
-      "provinceId": 14,
-      "provinceName": "Phú Thọ"
+        "districtId": 169,
+        "districtName": "Tân Sơn",
+        "provinceId": 14,
+        "provinceName": "Phú Thọ"
     },
     "170": {
-      "districtId": 170,
-      "districtName": "Ba Chẽ",
-      "provinceId": 15,
-      "provinceName": "Quảng Ninh"
+        "districtId": 170,
+        "districtName": "Ba Chẽ",
+        "provinceId": 15,
+        "provinceName": "Quảng Ninh"
     },
     "171": {
-      "districtId": 171,
-      "districtName": "Cô Tô",
-      "provinceId": 15,
-      "provinceName": "Quảng Ninh"
+        "districtId": 171,
+        "districtName": "Cô Tô",
+        "provinceId": 15,
+        "provinceName": "Quảng Ninh"
     },
     "172": {
-      "districtId": 172,
-      "districtName": "Đầm Hà",
-      "provinceId": 15,
-      "provinceName": "Quảng Ninh"
+        "districtId": 172,
+        "districtName": "Đầm Hà",
+        "provinceId": 15,
+        "provinceName": "Quảng Ninh"
     },
     "173": {
-      "districtId": 173,
-      "districtName": "Đông Triều",
-      "provinceId": 15,
-      "provinceName": "Quảng Ninh"
+        "districtId": 173,
+        "districtName": "Đông Triều",
+        "provinceId": 15,
+        "provinceName": "Quảng Ninh"
     },
     "174": {
-      "districtId": 174,
-      "districtName": "Hải Hà",
-      "provinceId": 15,
-      "provinceName": "Quảng Ninh"
+        "districtId": 174,
+        "districtName": "Hải Hà",
+        "provinceId": 15,
+        "provinceName": "Quảng Ninh"
     },
     "175": {
-      "districtId": 175,
-      "districtName": "Hoành Bồ",
-      "provinceId": 15,
-      "provinceName": "Quảng Ninh"
+        "districtId": 175,
+        "districtName": "Hoành Bồ",
+        "provinceId": 15,
+        "provinceName": "Quảng Ninh"
     },
     "176": {
-      "districtId": 176,
-      "districtName": "Tiên Yên",
-      "provinceId": 15,
-      "provinceName": "Quảng Ninh"
+        "districtId": 176,
+        "districtName": "Tiên Yên",
+        "provinceId": 15,
+        "provinceName": "Quảng Ninh"
     },
     "177": {
-      "districtId": 177,
-      "districtName": "Vân Đồn",
-      "provinceId": 15,
-      "provinceName": "Quảng Ninh"
+        "districtId": 177,
+        "districtName": "Vân Đồn",
+        "provinceId": 15,
+        "provinceName": "Quảng Ninh"
     },
     "178": {
-      "districtId": 178,
-      "districtName": "Yên Hưng",
-      "provinceId": 15,
-      "provinceName": "Quảng Ninh"
+        "districtId": 178,
+        "districtName": "Yên Hưng",
+        "provinceId": 15,
+        "provinceName": "Quảng Ninh"
     },
     "179": {
-      "districtId": 179,
-      "districtName": "Thành phố Hạ Long",
-      "provinceId": 15,
-      "provinceName": "Quảng Ninh"
+        "districtId": 179,
+        "districtName": "Thành phố Hạ Long",
+        "provinceId": 15,
+        "provinceName": "Quảng Ninh"
     },
     "180": {
-      "districtId": 180,
-      "districtName": "Thành phố Móng Cái",
-      "provinceId": 15,
-      "provinceName": "Quảng Ninh"
+        "districtId": 180,
+        "districtName": "Thành phố Móng Cái",
+        "provinceId": 15,
+        "provinceName": "Quảng Ninh"
     },
     "182": {
-      "districtId": 182,
-      "districtName": "Thành phố Uông Bí",
-      "provinceId": 15,
-      "provinceName": "Quảng Ninh"
+        "districtId": 182,
+        "districtName": "Thành phố Uông Bí",
+        "provinceId": 15,
+        "provinceName": "Quảng Ninh"
     },
     "183": {
-      "districtId": 183,
-      "districtName": "Bình Liêu",
-      "provinceId": 15,
-      "provinceName": "Quảng Ninh"
+        "districtId": 183,
+        "districtName": "Bình Liêu",
+        "provinceId": 15,
+        "provinceName": "Quảng Ninh"
     },
     "184": {
-      "districtId": 184,
-      "districtName": "Thành phố Cẩm Phả",
-      "provinceId": 15,
-      "provinceName": "Quảng Ninh"
+        "districtId": 184,
+        "districtName": "Thành phố Cẩm Phả",
+        "provinceId": 15,
+        "provinceName": "Quảng Ninh"
     },
     "185": {
-      "districtId": 185,
-      "districtName": "Quảng Yên",
-      "provinceId": 15,
-      "provinceName": "Quảng Ninh"
+        "districtId": 185,
+        "districtName": "Quảng Yên",
+        "provinceId": 15,
+        "provinceName": "Quảng Ninh"
     },
     "186": {
-      "districtId": 186,
-      "districtName": "Thành phố Tân An",
-      "provinceId": 16,
-      "provinceName": "Long An"
+        "districtId": 186,
+        "districtName": "Thành phố Tân An",
+        "provinceId": 16,
+        "provinceName": "Long An"
     },
     "187": {
-      "districtId": 187,
-      "districtName": "Thị xã Kiến Tường",
-      "provinceId": 16,
-      "provinceName": "Long An"
+        "districtId": 187,
+        "districtName": "Thị xã Kiến Tường",
+        "provinceId": 16,
+        "provinceName": "Long An"
     },
     "188": {
-      "districtId": 188,
-      "districtName": "Bến Lức",
-      "provinceId": 16,
-      "provinceName": "Long An"
+        "districtId": 188,
+        "districtName": "Bến Lức",
+        "provinceId": 16,
+        "provinceName": "Long An"
     },
     "189": {
-      "districtId": 189,
-      "districtName": "Cần Đước",
-      "provinceId": 16,
-      "provinceName": "Long An"
+        "districtId": 189,
+        "districtName": "Cần Đước",
+        "provinceId": 16,
+        "provinceName": "Long An"
     },
     "190": {
-      "districtId": 190,
-      "districtName": "Cần Giuộc",
-      "provinceId": 16,
-      "provinceName": "Long An"
+        "districtId": 190,
+        "districtName": "Cần Giuộc",
+        "provinceId": 16,
+        "provinceName": "Long An"
     },
     "191": {
-      "districtId": 191,
-      "districtName": "Châu Thành",
-      "provinceId": 16,
-      "provinceName": "Long An"
+        "districtId": 191,
+        "districtName": "Châu Thành",
+        "provinceId": 16,
+        "provinceName": "Long An"
     },
     "192": {
-      "districtId": 192,
-      "districtName": "Đức Hòa",
-      "provinceId": 16,
-      "provinceName": "Long An"
+        "districtId": 192,
+        "districtName": "Đức Hòa",
+        "provinceId": 16,
+        "provinceName": "Long An"
     },
     "193": {
-      "districtId": 193,
-      "districtName": "Đức Huệ",
-      "provinceId": 16,
-      "provinceName": "Long An"
+        "districtId": 193,
+        "districtName": "Đức Huệ",
+        "provinceId": 16,
+        "provinceName": "Long An"
     },
     "194": {
-      "districtId": 194,
-      "districtName": "Mộc Hóa",
-      "provinceId": 16,
-      "provinceName": "Long An"
+        "districtId": 194,
+        "districtName": "Mộc Hóa",
+        "provinceId": 16,
+        "provinceName": "Long An"
     },
     "195": {
-      "districtId": 195,
-      "districtName": "Tân Hưng",
-      "provinceId": 16,
-      "provinceName": "Long An"
+        "districtId": 195,
+        "districtName": "Tân Hưng",
+        "provinceId": 16,
+        "provinceName": "Long An"
     },
     "196": {
-      "districtId": 196,
-      "districtName": "Tân Thạnh",
-      "provinceId": 16,
-      "provinceName": "Long An"
+        "districtId": 196,
+        "districtName": "Tân Thạnh",
+        "provinceId": 16,
+        "provinceName": "Long An"
     },
     "197": {
-      "districtId": 197,
-      "districtName": "Tân Trụ",
-      "provinceId": 16,
-      "provinceName": "Long An"
+        "districtId": 197,
+        "districtName": "Tân Trụ",
+        "provinceId": 16,
+        "provinceName": "Long An"
     },
     "198": {
-      "districtId": 198,
-      "districtName": "Thạnh Hóa",
-      "provinceId": 16,
-      "provinceName": "Long An"
+        "districtId": 198,
+        "districtName": "Thạnh Hóa",
+        "provinceId": 16,
+        "provinceName": "Long An"
     },
     "199": {
-      "districtId": 199,
-      "districtName": "Thủ Thừa",
-      "provinceId": 16,
-      "provinceName": "Long An"
+        "districtId": 199,
+        "districtName": "Thủ Thừa",
+        "provinceId": 16,
+        "provinceName": "Long An"
     },
     "200": {
-      "districtId": 200,
-      "districtName": "Vĩnh Hưng",
-      "provinceId": 16,
-      "provinceName": "Long An"
+        "districtId": 200,
+        "districtName": "Vĩnh Hưng",
+        "provinceId": 16,
+        "provinceName": "Long An"
     },
     "201": {
-      "districtId": 201,
-      "districtName": "Thành phố Cao Lãnh",
-      "provinceId": 17,
-      "provinceName": "Đồng Tháp"
+        "districtId": 201,
+        "districtName": "Thành phố Cao Lãnh",
+        "provinceId": 17,
+        "provinceName": "Đồng Tháp"
     },
     "202": {
-      "districtId": 202,
-      "districtName": "Thị xã Sa Đéc",
-      "provinceId": 17,
-      "provinceName": "Đồng Tháp"
+        "districtId": 202,
+        "districtName": "Thị xã Sa Đéc",
+        "provinceId": 17,
+        "provinceName": "Đồng Tháp"
     },
     "203": {
-      "districtId": 203,
-      "districtName": "Thị xã Hồng Ngự",
-      "provinceId": 17,
-      "provinceName": "Đồng Tháp"
+        "districtId": 203,
+        "districtName": "Thị xã Hồng Ngự",
+        "provinceId": 17,
+        "provinceName": "Đồng Tháp"
     },
     "204": {
-      "districtId": 204,
-      "districtName": "Cao Lãnh",
-      "provinceId": 17,
-      "provinceName": "Đồng Tháp"
+        "districtId": 204,
+        "districtName": "Cao Lãnh",
+        "provinceId": 17,
+        "provinceName": "Đồng Tháp"
     },
     "205": {
-      "districtId": 205,
-      "districtName": "Châu Thành",
-      "provinceId": 17,
-      "provinceName": "Đồng Tháp"
+        "districtId": 205,
+        "districtName": "Châu Thành",
+        "provinceId": 17,
+        "provinceName": "Đồng Tháp"
     },
     "206": {
-      "districtId": 206,
-      "districtName": "Hồng Ngự",
-      "provinceId": 17,
-      "provinceName": "Đồng Tháp"
+        "districtId": 206,
+        "districtName": "Hồng Ngự",
+        "provinceId": 17,
+        "provinceName": "Đồng Tháp"
     },
     "207": {
-      "districtId": 207,
-      "districtName": "Lai Vung",
-      "provinceId": 17,
-      "provinceName": "Đồng Tháp"
+        "districtId": 207,
+        "districtName": "Lai Vung",
+        "provinceId": 17,
+        "provinceName": "Đồng Tháp"
     },
     "208": {
-      "districtId": 208,
-      "districtName": "Lấp Vò",
-      "provinceId": 17,
-      "provinceName": "Đồng Tháp"
+        "districtId": 208,
+        "districtName": "Lấp Vò",
+        "provinceId": 17,
+        "provinceName": "Đồng Tháp"
     },
     "209": {
-      "districtId": 209,
-      "districtName": "Tam Nông",
-      "provinceId": 17,
-      "provinceName": "Đồng Tháp"
+        "districtId": 209,
+        "districtName": "Tam Nông",
+        "provinceId": 17,
+        "provinceName": "Đồng Tháp"
     },
     "210": {
-      "districtId": 210,
-      "districtName": "Tân Hồng",
-      "provinceId": 17,
-      "provinceName": "Đồng Tháp"
+        "districtId": 210,
+        "districtName": "Tân Hồng",
+        "provinceId": 17,
+        "provinceName": "Đồng Tháp"
     },
     "211": {
-      "districtId": 211,
-      "districtName": "Thanh Bình",
-      "provinceId": 17,
-      "provinceName": "Đồng Tháp"
+        "districtId": 211,
+        "districtName": "Thanh Bình",
+        "provinceId": 17,
+        "provinceName": "Đồng Tháp"
     },
     "212": {
-      "districtId": 212,
-      "districtName": "Tháp Mười",
-      "provinceId": 17,
-      "provinceName": "Đồng Tháp"
+        "districtId": 212,
+        "districtName": "Tháp Mười",
+        "provinceId": 17,
+        "provinceName": "Đồng Tháp"
     },
     "213": {
-      "districtId": 213,
-      "districtName": "Thành phố Mỹ Tho",
-      "provinceId": 18,
-      "provinceName": "Tiền Giang"
+        "districtId": 213,
+        "districtName": "Thành phố Mỹ Tho",
+        "provinceId": 18,
+        "provinceName": "Tiền Giang"
     },
     "214": {
-      "districtId": 214,
-      "districtName": "Thị xã Gò Công",
-      "provinceId": 18,
-      "provinceName": "Tiền Giang"
+        "districtId": 214,
+        "districtName": "Thị xã Gò Công",
+        "provinceId": 18,
+        "provinceName": "Tiền Giang"
     },
     "215": {
-      "districtId": 215,
-      "districtName": "Cái Bè",
-      "provinceId": 18,
-      "provinceName": "Tiền Giang"
+        "districtId": 215,
+        "districtName": "Cái Bè",
+        "provinceId": 18,
+        "provinceName": "Tiền Giang"
     },
     "216": {
-      "districtId": 216,
-      "districtName": "Cái Lậy",
-      "provinceId": 18,
-      "provinceName": "Tiền Giang"
+        "districtId": 216,
+        "districtName": "Cái Lậy",
+        "provinceId": 18,
+        "provinceName": "Tiền Giang"
     },
     "217": {
-      "districtId": 217,
-      "districtName": "Châu Thành",
-      "provinceId": 18,
-      "provinceName": "Tiền Giang"
+        "districtId": 217,
+        "districtName": "Châu Thành",
+        "provinceId": 18,
+        "provinceName": "Tiền Giang"
     },
     "218": {
-      "districtId": 218,
-      "districtName": "Chợ Gạo",
-      "provinceId": 18,
-      "provinceName": "Tiền Giang"
+        "districtId": 218,
+        "districtName": "Chợ Gạo",
+        "provinceId": 18,
+        "provinceName": "Tiền Giang"
     },
     "219": {
-      "districtId": 219,
-      "districtName": "Gò Công Đông",
-      "provinceId": 18,
-      "provinceName": "Tiền Giang"
+        "districtId": 219,
+        "districtName": "Gò Công Đông",
+        "provinceId": 18,
+        "provinceName": "Tiền Giang"
     },
     "220": {
-      "districtId": 220,
-      "districtName": "Gò Công Tây",
-      "provinceId": 18,
-      "provinceName": "Tiền Giang"
+        "districtId": 220,
+        "districtName": "Gò Công Tây",
+        "provinceId": 18,
+        "provinceName": "Tiền Giang"
     },
     "221": {
-      "districtId": 221,
-      "districtName": "Tân Phước",
-      "provinceId": 18,
-      "provinceName": "Tiền Giang"
+        "districtId": 221,
+        "districtName": "Tân Phước",
+        "provinceId": 18,
+        "provinceName": "Tiền Giang"
     },
     "222": {
-      "districtId": 222,
-      "districtName": "Tân Phú Đông",
-      "provinceId": 18,
-      "provinceName": "Tiền Giang"
+        "districtId": 222,
+        "districtName": "Tân Phú Đông",
+        "provinceId": 18,
+        "provinceName": "Tiền Giang"
     },
     "223": {
-      "districtId": 223,
-      "districtName": "Thành phố Long Xuyên",
-      "provinceId": 19,
-      "provinceName": "An Giang"
+        "districtId": 223,
+        "districtName": "Thành phố Long Xuyên",
+        "provinceId": 19,
+        "provinceName": "An Giang"
     },
     "224": {
-      "districtId": 224,
-      "districtName": "Thị xã Châu Đốc",
-      "provinceId": 19,
-      "provinceName": "An Giang"
+        "districtId": 224,
+        "districtName": "Thị xã Châu Đốc",
+        "provinceId": 19,
+        "provinceName": "An Giang"
     },
     "225": {
-      "districtId": 225,
-      "districtName": "An Phú",
-      "provinceId": 19,
-      "provinceName": "An Giang"
+        "districtId": 225,
+        "districtName": "An Phú",
+        "provinceId": 19,
+        "provinceName": "An Giang"
     },
     "226": {
-      "districtId": 226,
-      "districtName": "Châu Phú",
-      "provinceId": 19,
-      "provinceName": "An Giang"
+        "districtId": 226,
+        "districtName": "Châu Phú",
+        "provinceId": 19,
+        "provinceName": "An Giang"
     },
     "227": {
-      "districtId": 227,
-      "districtName": "Châu Thành",
-      "provinceId": 19,
-      "provinceName": "An Giang"
+        "districtId": 227,
+        "districtName": "Châu Thành",
+        "provinceId": 19,
+        "provinceName": "An Giang"
     },
     "228": {
-      "districtId": 228,
-      "districtName": "Chợ Mới",
-      "provinceId": 19,
-      "provinceName": "An Giang"
+        "districtId": 228,
+        "districtName": "Chợ Mới",
+        "provinceId": 19,
+        "provinceName": "An Giang"
     },
     "229": {
-      "districtId": 229,
-      "districtName": "Phú Tân",
-      "provinceId": 19,
-      "provinceName": "An Giang"
+        "districtId": 229,
+        "districtName": "Phú Tân",
+        "provinceId": 19,
+        "provinceName": "An Giang"
     },
     "230": {
-      "districtId": 230,
-      "districtName": "Tân Châu",
-      "provinceId": 19,
-      "provinceName": "An Giang"
+        "districtId": 230,
+        "districtName": "Tân Châu",
+        "provinceId": 19,
+        "provinceName": "An Giang"
     },
     "231": {
-      "districtId": 231,
-      "districtName": "Thoại Sơn",
-      "provinceId": 19,
-      "provinceName": "An Giang"
+        "districtId": 231,
+        "districtName": "Thoại Sơn",
+        "provinceId": 19,
+        "provinceName": "An Giang"
     },
     "232": {
-      "districtId": 232,
-      "districtName": "Tịnh Biên",
-      "provinceId": 19,
-      "provinceName": "An Giang"
+        "districtId": 232,
+        "districtName": "Tịnh Biên",
+        "provinceId": 19,
+        "provinceName": "An Giang"
     },
     "233": {
-      "districtId": 233,
-      "districtName": "Tri Tôn",
-      "provinceId": 19,
-      "provinceName": "An Giang"
+        "districtId": 233,
+        "districtName": "Tri Tôn",
+        "provinceId": 19,
+        "provinceName": "An Giang"
     },
     "234": {
-      "districtId": 234,
-      "districtName": "Thành phố Bến Tre",
-      "provinceId": 20,
-      "provinceName": "Bến Tre"
+        "districtId": 234,
+        "districtName": "Thành phố Bến Tre",
+        "provinceId": 20,
+        "provinceName": "Bến Tre"
     },
     "235": {
-      "districtId": 235,
-      "districtName": "Chợ Lách",
-      "provinceId": 20,
-      "provinceName": "Bến Tre"
+        "districtId": 235,
+        "districtName": "Chợ Lách",
+        "provinceId": 20,
+        "provinceName": "Bến Tre"
     },
     "236": {
-      "districtId": 236,
-      "districtName": "Bình Đại",
-      "provinceId": 20,
-      "provinceName": "Bến Tre"
+        "districtId": 236,
+        "districtName": "Bình Đại",
+        "provinceId": 20,
+        "provinceName": "Bến Tre"
     },
     "237": {
-      "districtId": 237,
-      "districtName": "Châu Thành",
-      "provinceId": 20,
-      "provinceName": "Bến Tre"
+        "districtId": 237,
+        "districtName": "Châu Thành",
+        "provinceId": 20,
+        "provinceName": "Bến Tre"
     },
     "238": {
-      "districtId": 238,
-      "districtName": "Mỏ Cày Bắc",
-      "provinceId": 20,
-      "provinceName": "Bến Tre"
+        "districtId": 238,
+        "districtName": "Mỏ Cày Bắc",
+        "provinceId": 20,
+        "provinceName": "Bến Tre"
     },
     "239": {
-      "districtId": 239,
-      "districtName": "Mỏ Cày Nam",
-      "provinceId": 20,
-      "provinceName": "Bến Tre"
+        "districtId": 239,
+        "districtName": "Mỏ Cày Nam",
+        "provinceId": 20,
+        "provinceName": "Bến Tre"
     },
     "240": {
-      "districtId": 240,
-      "districtName": "Ba Tri",
-      "provinceId": 20,
-      "provinceName": "Bến Tre"
+        "districtId": 240,
+        "districtName": "Ba Tri",
+        "provinceId": 20,
+        "provinceName": "Bến Tre"
     },
     "241": {
-      "districtId": 241,
-      "districtName": "Thạnh Phú",
-      "provinceId": 20,
-      "provinceName": "Bến Tre"
+        "districtId": 241,
+        "districtName": "Thạnh Phú",
+        "provinceId": 20,
+        "provinceName": "Bến Tre"
     },
     "242": {
-      "districtId": 242,
-      "districtName": "Giồng Trôm",
-      "provinceId": 20,
-      "provinceName": "Bến Tre"
+        "districtId": 242,
+        "districtName": "Giồng Trôm",
+        "provinceId": 20,
+        "provinceName": "Bến Tre"
     },
     "243": {
-      "districtId": 243,
-      "districtName": "Trà Ôn",
-      "provinceId": 21,
-      "provinceName": "Vĩnh Long"
+        "districtId": 243,
+        "districtName": "Trà Ôn",
+        "provinceId": 21,
+        "provinceName": "Vĩnh Long"
     },
     "244": {
-      "districtId": 244,
-      "districtName": "Vũng Liêm",
-      "provinceId": 21,
-      "provinceName": "Vĩnh Long"
+        "districtId": 244,
+        "districtName": "Vũng Liêm",
+        "provinceId": 21,
+        "provinceName": "Vĩnh Long"
     },
     "245": {
-      "districtId": 245,
-      "districtName": "Long Hồ",
-      "provinceId": 21,
-      "provinceName": "Vĩnh Long"
+        "districtId": 245,
+        "districtName": "Long Hồ",
+        "provinceId": 21,
+        "provinceName": "Vĩnh Long"
     },
     "246": {
-      "districtId": 246,
-      "districtName": "Bình Minh",
-      "provinceId": 21,
-      "provinceName": "Vĩnh Long"
+        "districtId": 246,
+        "districtName": "Bình Minh",
+        "provinceId": 21,
+        "provinceName": "Vĩnh Long"
     },
     "247": {
-      "districtId": 247,
-      "districtName": "Thành phố Vĩnh Long",
-      "provinceId": 21,
-      "provinceName": "Vĩnh Long"
+        "districtId": 247,
+        "districtName": "Thành phố Vĩnh Long",
+        "provinceId": 21,
+        "provinceName": "Vĩnh Long"
     },
     "248": {
-      "districtId": 248,
-      "districtName": "Mang Thít",
-      "provinceId": 21,
-      "provinceName": "Vĩnh Long"
+        "districtId": 248,
+        "districtName": "Mang Thít",
+        "provinceId": 21,
+        "provinceName": "Vĩnh Long"
     },
     "249": {
-      "districtId": 249,
-      "districtName": "Tam Bình",
-      "provinceId": 21,
-      "provinceName": "Vĩnh Long"
+        "districtId": 249,
+        "districtName": "Tam Bình",
+        "provinceId": 21,
+        "provinceName": "Vĩnh Long"
     },
     "250": {
-      "districtId": 250,
-      "districtName": "Bình Tân",
-      "provinceId": 21,
-      "provinceName": "Vĩnh Long"
+        "districtId": 250,
+        "districtName": "Bình Tân",
+        "provinceId": 21,
+        "provinceName": "Vĩnh Long"
     },
     "251": {
-      "districtId": 251,
-      "districtName": "Bình Minh",
-      "provinceId": 21,
-      "provinceName": "Vĩnh Long"
+        "districtId": 251,
+        "districtName": "Bình Minh",
+        "provinceId": 21,
+        "provinceName": "Vĩnh Long"
     },
     "252": {
-      "districtId": 252,
-      "districtName": "Thành phố Trà Vinh",
-      "provinceId": 22,
-      "provinceName": "Trà Vinh"
+        "districtId": 252,
+        "districtName": "Thành phố Trà Vinh",
+        "provinceId": 22,
+        "provinceName": "Trà Vinh"
     },
     "253": {
-      "districtId": 253,
-      "districtName": "Cầu Ngang",
-      "provinceId": 22,
-      "provinceName": "Trà Vinh"
+        "districtId": 253,
+        "districtName": "Cầu Ngang",
+        "provinceId": 22,
+        "provinceName": "Trà Vinh"
     },
     "254": {
-      "districtId": 254,
-      "districtName": "Trà Cú",
-      "provinceId": 22,
-      "provinceName": "Trà Vinh"
+        "districtId": 254,
+        "districtName": "Trà Cú",
+        "provinceId": 22,
+        "provinceName": "Trà Vinh"
     },
     "255": {
-      "districtId": 255,
-      "districtName": "Cầu Kè",
-      "provinceId": 22,
-      "provinceName": "Trà Vinh"
+        "districtId": 255,
+        "districtName": "Cầu Kè",
+        "provinceId": 22,
+        "provinceName": "Trà Vinh"
     },
     "256": {
-      "districtId": 256,
-      "districtName": "Huyện Duyên Hải",
-      "provinceId": 22,
-      "provinceName": "Trà Vinh"
+        "districtId": 256,
+        "districtName": "Huyện Duyên Hải",
+        "provinceId": 22,
+        "provinceName": "Trà Vinh"
     },
     "257": {
-      "districtId": 257,
-      "districtName": "Càng Long",
-      "provinceId": 22,
-      "provinceName": "Trà Vinh"
+        "districtId": 257,
+        "districtName": "Càng Long",
+        "provinceId": 22,
+        "provinceName": "Trà Vinh"
     },
     "258": {
-      "districtId": 258,
-      "districtName": "Tiểu Cần",
-      "provinceId": 22,
-      "provinceName": "Trà Vinh"
+        "districtId": 258,
+        "districtName": "Tiểu Cần",
+        "provinceId": 22,
+        "provinceName": "Trà Vinh"
     },
     "259": {
-      "districtId": 259,
-      "districtName": "Châu Thành",
-      "provinceId": 22,
-      "provinceName": "Trà Vinh"
+        "districtId": 259,
+        "districtName": "Châu Thành",
+        "provinceId": 22,
+        "provinceName": "Trà Vinh"
     },
     "260": {
-      "districtId": 260,
-      "districtName": "Thành phố Vị Thanh",
-      "provinceId": 23,
-      "provinceName": "Hậu Giang"
+        "districtId": 260,
+        "districtName": "Thành phố Vị Thanh",
+        "provinceId": 23,
+        "provinceName": "Hậu Giang"
     },
     "261": {
-      "districtId": 261,
-      "districtName": "Thị xã Ngã Bảy",
-      "provinceId": 23,
-      "provinceName": "Hậu Giang"
+        "districtId": 261,
+        "districtName": "Thị xã Ngã Bảy",
+        "provinceId": 23,
+        "provinceName": "Hậu Giang"
     },
     "262": {
-      "districtId": 262,
-      "districtName": "Long Mỹ",
-      "provinceId": 23,
-      "provinceName": "Hậu Giang"
+        "districtId": 262,
+        "districtName": "Long Mỹ",
+        "provinceId": 23,
+        "provinceName": "Hậu Giang"
     },
     "263": {
-      "districtId": 263,
-      "districtName": "Vị Thủy",
-      "provinceId": 23,
-      "provinceName": "Hậu Giang"
+        "districtId": 263,
+        "districtName": "Vị Thủy",
+        "provinceId": 23,
+        "provinceName": "Hậu Giang"
     },
     "264": {
-      "districtId": 264,
-      "districtName": "Châu Thành A",
-      "provinceId": 23,
-      "provinceName": "Hậu Giang"
+        "districtId": 264,
+        "districtName": "Châu Thành A",
+        "provinceId": 23,
+        "provinceName": "Hậu Giang"
     },
     "265": {
-      "districtId": 265,
-      "districtName": "Châu Thành",
-      "provinceId": 23,
-      "provinceName": "Hậu Giang"
+        "districtId": 265,
+        "districtName": "Châu Thành",
+        "provinceId": 23,
+        "provinceName": "Hậu Giang"
     },
     "266": {
-      "districtId": 266,
-      "districtName": "Phụng Hiệp",
-      "provinceId": 23,
-      "provinceName": "Hậu Giang"
+        "districtId": 266,
+        "districtName": "Phụng Hiệp",
+        "provinceId": 23,
+        "provinceName": "Hậu Giang"
     },
     "267": {
-      "districtId": 267,
-      "districtName": "Thành phố Rạch Giá",
-      "provinceId": 24,
-      "provinceName": "Kiên Giang"
+        "districtId": 267,
+        "districtName": "Thành phố Rạch Giá",
+        "provinceId": 24,
+        "provinceName": "Kiên Giang"
     },
     "268": {
-      "districtId": 268,
-      "districtName": "An Minh",
-      "provinceId": 24,
-      "provinceName": "Kiên Giang"
+        "districtId": 268,
+        "districtName": "An Minh",
+        "provinceId": 24,
+        "provinceName": "Kiên Giang"
     },
     "269": {
-      "districtId": 269,
-      "districtName": "Vĩnh Thuận",
-      "provinceId": 24,
-      "provinceName": "Kiên Giang"
+        "districtId": 269,
+        "districtName": "Vĩnh Thuận",
+        "provinceId": 24,
+        "provinceName": "Kiên Giang"
     },
     "270": {
-      "districtId": 270,
-      "districtName": "Gò Quao",
-      "provinceId": 24,
-      "provinceName": "Kiên Giang"
+        "districtId": 270,
+        "districtName": "Gò Quao",
+        "provinceId": 24,
+        "provinceName": "Kiên Giang"
     },
     "271": {
-      "districtId": 271,
-      "districtName": "Châu Thành",
-      "provinceId": 24,
-      "provinceName": "Kiên Giang"
+        "districtId": 271,
+        "districtName": "Châu Thành",
+        "provinceId": 24,
+        "provinceName": "Kiên Giang"
     },
     "272": {
-      "districtId": 272,
-      "districtName": "Giồng Riềng",
-      "provinceId": 24,
-      "provinceName": "Kiên Giang"
+        "districtId": 272,
+        "districtName": "Giồng Riềng",
+        "provinceId": 24,
+        "provinceName": "Kiên Giang"
     },
     "273": {
-      "districtId": 273,
-      "districtName": "An Biên",
-      "provinceId": 24,
-      "provinceName": "Kiên Giang"
+        "districtId": 273,
+        "districtName": "An Biên",
+        "provinceId": 24,
+        "provinceName": "Kiên Giang"
     },
     "274": {
-      "districtId": 274,
-      "districtName": "Phú Quốc",
-      "provinceId": 24,
-      "provinceName": "Kiên Giang"
+        "districtId": 274,
+        "districtName": "Phú Quốc",
+        "provinceId": 24,
+        "provinceName": "Kiên Giang"
     },
     "275": {
-      "districtId": 275,
-      "districtName": "Tân Hiệp",
-      "provinceId": 24,
-      "provinceName": "Kiên Giang"
+        "districtId": 275,
+        "districtName": "Tân Hiệp",
+        "provinceId": 24,
+        "provinceName": "Kiên Giang"
     },
     "276": {
-      "districtId": 276,
-      "districtName": "Kiên Lương",
-      "provinceId": 24,
-      "provinceName": "Kiên Giang"
+        "districtId": 276,
+        "districtName": "Kiên Lương",
+        "provinceId": 24,
+        "provinceName": "Kiên Giang"
     },
     "277": {
-      "districtId": 277,
-      "districtName": "Hòn Đất",
-      "provinceId": 24,
-      "provinceName": "Kiên Giang"
+        "districtId": 277,
+        "districtName": "Hòn Đất",
+        "provinceId": 24,
+        "provinceName": "Kiên Giang"
     },
     "278": {
-      "districtId": 278,
-      "districtName": "Kiên Hải",
-      "provinceId": 24,
-      "provinceName": "Kiên Giang"
+        "districtId": 278,
+        "districtName": "Kiên Hải",
+        "provinceId": 24,
+        "provinceName": "Kiên Giang"
     },
     "279": {
-      "districtId": 279,
-      "districtName": "U Minh Thượng",
-      "provinceId": 24,
-      "provinceName": "Kiên Giang"
+        "districtId": 279,
+        "districtName": "U Minh Thượng",
+        "provinceId": 24,
+        "provinceName": "Kiên Giang"
     },
     "280": {
-      "districtId": 280,
-      "districtName": "Giang Thành",
-      "provinceId": 24,
-      "provinceName": "Kiên Giang"
+        "districtId": 280,
+        "districtName": "Giang Thành",
+        "provinceId": 24,
+        "provinceName": "Kiên Giang"
     },
     "281": {
-      "districtId": 281,
-      "districtName": "Thành phố Hà Tiên",
-      "provinceId": 24,
-      "provinceName": "Kiên Giang"
+        "districtId": 281,
+        "districtName": "Thành phố Hà Tiên",
+        "provinceId": 24,
+        "provinceName": "Kiên Giang"
     },
     "283": {
-      "districtId": 283,
-      "districtName": "Thành phố Sóc Trăng",
-      "provinceId": 25,
-      "provinceName": "Sóc Trăng"
+        "districtId": 283,
+        "districtName": "Thành phố Sóc Trăng",
+        "provinceId": 25,
+        "provinceName": "Sóc Trăng"
     },
     "284": {
-      "districtId": 284,
-      "districtName": "Kế Sách",
-      "provinceId": 25,
-      "provinceName": "Sóc Trăng"
+        "districtId": 284,
+        "districtName": "Kế Sách",
+        "provinceId": 25,
+        "provinceName": "Sóc Trăng"
     },
     "285": {
-      "districtId": 285,
-      "districtName": "Ngã Năm",
-      "provinceId": 25,
-      "provinceName": "Sóc Trăng"
+        "districtId": 285,
+        "districtName": "Ngã Năm",
+        "provinceId": 25,
+        "provinceName": "Sóc Trăng"
     },
     "286": {
-      "districtId": 286,
-      "districtName": "Vĩnh Châu",
-      "provinceId": 25,
-      "provinceName": "Sóc Trăng"
+        "districtId": 286,
+        "districtName": "Vĩnh Châu",
+        "provinceId": 25,
+        "provinceName": "Sóc Trăng"
     },
     "287": {
-      "districtId": 287,
-      "districtName": "Long Phú",
-      "provinceId": 25,
-      "provinceName": "Sóc Trăng"
+        "districtId": 287,
+        "districtName": "Long Phú",
+        "provinceId": 25,
+        "provinceName": "Sóc Trăng"
     },
     "288": {
-      "districtId": 288,
-      "districtName": "Cù Lao Dung",
-      "provinceId": 25,
-      "provinceName": "Sóc Trăng"
+        "districtId": 288,
+        "districtName": "Cù Lao Dung",
+        "provinceId": 25,
+        "provinceName": "Sóc Trăng"
     },
     "289": {
-      "districtId": 289,
-      "districtName": "Mỹ Tú",
-      "provinceId": 25,
-      "provinceName": "Sóc Trăng"
+        "districtId": 289,
+        "districtName": "Mỹ Tú",
+        "provinceId": 25,
+        "provinceName": "Sóc Trăng"
     },
     "290": {
-      "districtId": 290,
-      "districtName": "Mỹ Xuyên",
-      "provinceId": 25,
-      "provinceName": "Sóc Trăng"
+        "districtId": 290,
+        "districtName": "Mỹ Xuyên",
+        "provinceId": 25,
+        "provinceName": "Sóc Trăng"
     },
     "291": {
-      "districtId": 291,
-      "districtName": "Châu Thành",
-      "provinceId": 25,
-      "provinceName": "Sóc Trăng"
+        "districtId": 291,
+        "districtName": "Châu Thành",
+        "provinceId": 25,
+        "provinceName": "Sóc Trăng"
     },
     "292": {
-      "districtId": 292,
-      "districtName": "Trần Đề",
-      "provinceId": 25,
-      "provinceName": "Sóc Trăng"
+        "districtId": 292,
+        "districtName": "Trần Đề",
+        "provinceId": 25,
+        "provinceName": "Sóc Trăng"
     },
     "293": {
-      "districtId": 293,
-      "districtName": "Thạnh Trị",
-      "provinceId": 25,
-      "provinceName": "Sóc Trăng"
+        "districtId": 293,
+        "districtName": "Thạnh Trị",
+        "provinceId": 25,
+        "provinceName": "Sóc Trăng"
     },
     "294": {
-      "districtId": 294,
-      "districtName": "Thành phố Bạc Liêu",
-      "provinceId": 26,
-      "provinceName": "Bạc Liêu"
+        "districtId": 294,
+        "districtName": "Thành phố Bạc Liêu",
+        "provinceId": 26,
+        "provinceName": "Bạc Liêu"
     },
     "295": {
-      "districtId": 295,
-      "districtName": "Hòa Bình",
-      "provinceId": 26,
-      "provinceName": "Bạc Liêu"
+        "districtId": 295,
+        "districtName": "Hòa Bình",
+        "provinceId": 26,
+        "provinceName": "Bạc Liêu"
     },
     "296": {
-      "districtId": 296,
-      "districtName": "Phước Long",
-      "provinceId": 26,
-      "provinceName": "Bạc Liêu"
+        "districtId": 296,
+        "districtName": "Phước Long",
+        "provinceId": 26,
+        "provinceName": "Bạc Liêu"
     },
     "297": {
-      "districtId": 297,
-      "districtName": "Hồng Dân",
-      "provinceId": 26,
-      "provinceName": "Bạc Liêu"
+        "districtId": 297,
+        "districtName": "Hồng Dân",
+        "provinceId": 26,
+        "provinceName": "Bạc Liêu"
     },
     "298": {
-      "districtId": 298,
-      "districtName": "Vĩnh Lợi",
-      "provinceId": 26,
-      "provinceName": "Bạc Liêu"
+        "districtId": 298,
+        "districtName": "Vĩnh Lợi",
+        "provinceId": 26,
+        "provinceName": "Bạc Liêu"
     },
     "299": {
-      "districtId": 299,
-      "districtName": "Giá Rai",
-      "provinceId": 26,
-      "provinceName": "Bạc Liêu"
+        "districtId": 299,
+        "districtName": "Giá Rai",
+        "provinceId": 26,
+        "provinceName": "Bạc Liêu"
     },
     "300": {
-      "districtId": 300,
-      "districtName": "Đông Hải",
-      "provinceId": 26,
-      "provinceName": "Bạc Liêu"
+        "districtId": 300,
+        "districtName": "Đông Hải",
+        "provinceId": 26,
+        "provinceName": "Bạc Liêu"
     },
     "301": {
-      "districtId": 301,
-      "districtName": "Đầm Dơi",
-      "provinceId": 27,
-      "provinceName": "Cà Mau"
+        "districtId": 301,
+        "districtName": "Đầm Dơi",
+        "provinceId": 27,
+        "provinceName": "Cà Mau"
     },
     "302": {
-      "districtId": 302,
-      "districtName": "Ngọc Hiển",
-      "provinceId": 27,
-      "provinceName": "Cà Mau"
+        "districtId": 302,
+        "districtName": "Ngọc Hiển",
+        "provinceId": 27,
+        "provinceName": "Cà Mau"
     },
     "303": {
-      "districtId": 303,
-      "districtName": "Cái Nước",
-      "provinceId": 27,
-      "provinceName": "Cà Mau"
+        "districtId": 303,
+        "districtName": "Cái Nước",
+        "provinceId": 27,
+        "provinceName": "Cà Mau"
     },
     "304": {
-      "districtId": 304,
-      "districtName": "Trần Văn Thời",
-      "provinceId": 27,
-      "provinceName": "Cà Mau"
+        "districtId": 304,
+        "districtName": "Trần Văn Thời",
+        "provinceId": 27,
+        "provinceName": "Cà Mau"
     },
     "305": {
-      "districtId": 305,
-      "districtName": "U Minh",
-      "provinceId": 27,
-      "provinceName": "Cà Mau"
+        "districtId": 305,
+        "districtName": "U Minh",
+        "provinceId": 27,
+        "provinceName": "Cà Mau"
     },
     "306": {
-      "districtId": 306,
-      "districtName": "Thới Bình",
-      "provinceId": 27,
-      "provinceName": "Cà Mau"
+        "districtId": 306,
+        "districtName": "Thới Bình",
+        "provinceId": 27,
+        "provinceName": "Cà Mau"
     },
     "307": {
-      "districtId": 307,
-      "districtName": "Năm Căn",
-      "provinceId": 27,
-      "provinceName": "Cà Mau"
+        "districtId": 307,
+        "districtName": "Năm Căn",
+        "provinceId": 27,
+        "provinceName": "Cà Mau"
     },
     "308": {
-      "districtId": 308,
-      "districtName": "Phú Tân",
-      "provinceId": 27,
-      "provinceName": "Cà Mau"
+        "districtId": 308,
+        "districtName": "Phú Tân",
+        "provinceId": 27,
+        "provinceName": "Cà Mau"
     },
     "310": {
-      "districtId": 310,
-      "districtName": "Thành phố Cà Mau",
-      "provinceId": 27,
-      "provinceName": "Cà Mau"
+        "districtId": 310,
+        "districtName": "Thành phố Cà Mau",
+        "provinceId": 27,
+        "provinceName": "Cà Mau"
     },
     "311": {
-      "districtId": 311,
-      "districtName": "Cờ Đỏ",
-      "provinceId": 28,
-      "provinceName": "Cần Thơ"
+        "districtId": 311,
+        "districtName": "Cờ Đỏ",
+        "provinceId": 28,
+        "provinceName": "Cần Thơ"
     },
     "312": {
-      "districtId": 312,
-      "districtName": "Phong Điền",
-      "provinceId": 28,
-      "provinceName": "Cần Thơ"
+        "districtId": 312,
+        "districtName": "Phong Điền",
+        "provinceId": 28,
+        "provinceName": "Cần Thơ"
     },
     "313": {
-      "districtId": 313,
-      "districtName": "Thốt Nốt",
-      "provinceId": 28,
-      "provinceName": "Cần Thơ"
+        "districtId": 313,
+        "districtName": "Thốt Nốt",
+        "provinceId": 28,
+        "provinceName": "Cần Thơ"
     },
     "314": {
-      "districtId": 314,
-      "districtName": "Vĩnh Thạnh",
-      "provinceId": 28,
-      "provinceName": "Cần Thơ"
+        "districtId": 314,
+        "districtName": "Vĩnh Thạnh",
+        "provinceId": 28,
+        "provinceName": "Cần Thơ"
     },
     "315": {
-      "districtId": 315,
-      "districtName": "Bình Thủy",
-      "provinceId": 28,
-      "provinceName": "Cần Thơ"
+        "districtId": 315,
+        "districtName": "Bình Thủy",
+        "provinceId": 28,
+        "provinceName": "Cần Thơ"
     },
     "316": {
-      "districtId": 316,
-      "districtName": "Cái Răng",
-      "provinceId": 28,
-      "provinceName": "Cần Thơ"
+        "districtId": 316,
+        "districtName": "Cái Răng",
+        "provinceId": 28,
+        "provinceName": "Cần Thơ"
     },
     "317": {
-      "districtId": 317,
-      "districtName": "Ninh Kiều",
-      "provinceId": 28,
-      "provinceName": "Cần Thơ"
+        "districtId": 317,
+        "districtName": "Ninh Kiều",
+        "provinceId": 28,
+        "provinceName": "Cần Thơ"
     },
     "318": {
-      "districtId": 318,
-      "districtName": "Ô Môn",
-      "provinceId": 28,
-      "provinceName": "Cần Thơ"
+        "districtId": 318,
+        "districtName": "Ô Môn",
+        "provinceId": 28,
+        "provinceName": "Cần Thơ"
     },
     "319": {
-      "districtId": 319,
-      "districtName": "Thới Lai",
-      "provinceId": 28,
-      "provinceName": "Cần Thơ"
+        "districtId": 319,
+        "districtName": "Thới Lai",
+        "provinceId": 28,
+        "provinceName": "Cần Thơ"
     },
     "320": {
-      "districtId": 320,
-      "districtName": "Thành phố Bắc Ninh",
-      "provinceId": 29,
-      "provinceName": "Bắc Ninh"
+        "districtId": 320,
+        "districtName": "Thành phố Bắc Ninh",
+        "provinceId": 29,
+        "provinceName": "Bắc Ninh"
     },
     "321": {
-      "districtId": 321,
-      "districtName": "Gia Bình",
-      "provinceId": 29,
-      "provinceName": "Bắc Ninh"
+        "districtId": 321,
+        "districtName": "Gia Bình",
+        "provinceId": 29,
+        "provinceName": "Bắc Ninh"
     },
     "322": {
-      "districtId": 322,
-      "districtName": "Lương Tài",
-      "provinceId": 29,
-      "provinceName": "Bắc Ninh"
+        "districtId": 322,
+        "districtName": "Lương Tài",
+        "provinceId": 29,
+        "provinceName": "Bắc Ninh"
     },
     "323": {
-      "districtId": 323,
-      "districtName": "Quế võ",
-      "provinceId": 29,
-      "provinceName": "Bắc Ninh"
+        "districtId": 323,
+        "districtName": "Quế võ",
+        "provinceId": 29,
+        "provinceName": "Bắc Ninh"
     },
     "324": {
-      "districtId": 324,
-      "districtName": "Thuận Thành",
-      "provinceId": 29,
-      "provinceName": "Bắc Ninh"
+        "districtId": 324,
+        "districtName": "Thuận Thành",
+        "provinceId": 29,
+        "provinceName": "Bắc Ninh"
     },
     "325": {
-      "districtId": 325,
-      "districtName": "Tiên Du",
-      "provinceId": 29,
-      "provinceName": "Bắc Ninh"
+        "districtId": 325,
+        "districtName": "Tiên Du",
+        "provinceId": 29,
+        "provinceName": "Bắc Ninh"
     },
     "326": {
-      "districtId": 326,
-      "districtName": "Thị xã Từ Sơn",
-      "provinceId": 29,
-      "provinceName": "Bắc Ninh"
+        "districtId": 326,
+        "districtName": "Thị xã Từ Sơn",
+        "provinceId": 29,
+        "provinceName": "Bắc Ninh"
     },
     "327": {
-      "districtId": 327,
-      "districtName": "Yên Phong",
-      "provinceId": 29,
-      "provinceName": "Bắc Ninh"
+        "districtId": 327,
+        "districtName": "Yên Phong",
+        "provinceId": 29,
+        "provinceName": "Bắc Ninh"
     },
     "328": {
-      "districtId": 328,
-      "districtName": "Thành phố Phủ Lý",
-      "provinceId": 30,
-      "provinceName": "Hà Nam"
+        "districtId": 328,
+        "districtName": "Thành phố Phủ Lý",
+        "provinceId": 30,
+        "provinceName": "Hà Nam"
     },
     "329": {
-      "districtId": 329,
-      "districtName": "Bình Lục",
-      "provinceId": 30,
-      "provinceName": "Hà Nam"
+        "districtId": 329,
+        "districtName": "Bình Lục",
+        "provinceId": 30,
+        "provinceName": "Hà Nam"
     },
     "330": {
-      "districtId": 330,
-      "districtName": "Duy Tiên",
-      "provinceId": 30,
-      "provinceName": "Hà Nam"
+        "districtId": 330,
+        "districtName": "Duy Tiên",
+        "provinceId": 30,
+        "provinceName": "Hà Nam"
     },
     "331": {
-      "districtId": 331,
-      "districtName": "Kim Bảng",
-      "provinceId": 30,
-      "provinceName": "Hà Nam"
+        "districtId": 331,
+        "districtName": "Kim Bảng",
+        "provinceId": 30,
+        "provinceName": "Hà Nam"
     },
     "332": {
-      "districtId": 332,
-      "districtName": "Lý Nhân",
-      "provinceId": 30,
-      "provinceName": "Hà Nam"
+        "districtId": 332,
+        "districtName": "Lý Nhân",
+        "provinceId": 30,
+        "provinceName": "Hà Nam"
     },
     "333": {
-      "districtId": 333,
-      "districtName": "Thanh Liêm",
-      "provinceId": 30,
-      "provinceName": "Hà Nam"
+        "districtId": 333,
+        "districtName": "Thanh Liêm",
+        "provinceId": 30,
+        "provinceName": "Hà Nam"
     },
     "334": {
-      "districtId": 334,
-      "districtName": "Ba Vì",
-      "provinceId": 31,
-      "provinceName": "Hà Nội"
+        "districtId": 334,
+        "districtName": "Ba Vì",
+        "provinceId": 31,
+        "provinceName": "Hà Nội"
     },
     "335": {
-      "districtId": 335,
-      "districtName": "Chương Mỹ",
-      "provinceId": 31,
-      "provinceName": "Hà Nội"
+        "districtId": 335,
+        "districtName": "Chương Mỹ",
+        "provinceId": 31,
+        "provinceName": "Hà Nội"
     },
     "336": {
-      "districtId": 336,
-      "districtName": "Đan Phượng",
-      "provinceId": 31,
-      "provinceName": "Hà Nội"
+        "districtId": 336,
+        "districtName": "Đan Phượng",
+        "provinceId": 31,
+        "provinceName": "Hà Nội"
     },
     "337": {
-      "districtId": 337,
-      "districtName": "Đông Anh",
-      "provinceId": 31,
-      "provinceName": "Hà Nội"
+        "districtId": 337,
+        "districtName": "Đông Anh",
+        "provinceId": 31,
+        "provinceName": "Hà Nội"
     },
     "338": {
-      "districtId": 338,
-      "districtName": "Gia Lâm",
-      "provinceId": 31,
-      "provinceName": "Hà Nội"
+        "districtId": 338,
+        "districtName": "Gia Lâm",
+        "provinceId": 31,
+        "provinceName": "Hà Nội"
     },
     "339": {
-      "districtId": 339,
-      "districtName": "Hoài Đức",
-      "provinceId": 31,
-      "provinceName": "Hà Nội"
+        "districtId": 339,
+        "districtName": "Hoài Đức",
+        "provinceId": 31,
+        "provinceName": "Hà Nội"
     },
     "340": {
-      "districtId": 340,
-      "districtName": "Mê Linh",
-      "provinceId": 31,
-      "provinceName": "Hà Nội"
+        "districtId": 340,
+        "districtName": "Mê Linh",
+        "provinceId": 31,
+        "provinceName": "Hà Nội"
     },
     "341": {
-      "districtId": 341,
-      "districtName": "Mỹ Đức",
-      "provinceId": 31,
-      "provinceName": "Hà Nội"
+        "districtId": 341,
+        "districtName": "Mỹ Đức",
+        "provinceId": 31,
+        "provinceName": "Hà Nội"
     },
     "342": {
-      "districtId": 342,
-      "districtName": "Phú Xuyên",
-      "provinceId": 31,
-      "provinceName": "Hà Nội"
+        "districtId": 342,
+        "districtName": "Phú Xuyên",
+        "provinceId": 31,
+        "provinceName": "Hà Nội"
     },
     "343": {
-      "districtId": 343,
-      "districtName": "Phúc Thọ",
-      "provinceId": 31,
-      "provinceName": "Hà Nội"
+        "districtId": 343,
+        "districtName": "Phúc Thọ",
+        "provinceId": 31,
+        "provinceName": "Hà Nội"
     },
     "344": {
-      "districtId": 344,
-      "districtName": "Quốc Oai",
-      "provinceId": 31,
-      "provinceName": "Hà Nội"
+        "districtId": 344,
+        "districtName": "Quốc Oai",
+        "provinceId": 31,
+        "provinceName": "Hà Nội"
     },
     "345": {
-      "districtId": 345,
-      "districtName": "Sóc Sơn",
-      "provinceId": 31,
-      "provinceName": "Hà Nội"
+        "districtId": 345,
+        "districtName": "Sóc Sơn",
+        "provinceId": 31,
+        "provinceName": "Hà Nội"
     },
     "346": {
-      "districtId": 346,
-      "districtName": "Thạch Thất",
-      "provinceId": 31,
-      "provinceName": "Hà Nội"
+        "districtId": 346,
+        "districtName": "Thạch Thất",
+        "provinceId": 31,
+        "provinceName": "Hà Nội"
     },
     "347": {
-      "districtId": 347,
-      "districtName": "Thanh Oai",
-      "provinceId": 31,
-      "provinceName": "Hà Nội"
+        "districtId": 347,
+        "districtName": "Thanh Oai",
+        "provinceId": 31,
+        "provinceName": "Hà Nội"
     },
     "348": {
-      "districtId": 348,
-      "districtName": "Thanh Trì",
-      "provinceId": 31,
-      "provinceName": "Hà Nội"
+        "districtId": 348,
+        "districtName": "Thanh Trì",
+        "provinceId": 31,
+        "provinceName": "Hà Nội"
     },
     "349": {
-      "districtId": 349,
-      "districtName": "Thường Tín",
-      "provinceId": 31,
-      "provinceName": "Hà Nội"
+        "districtId": 349,
+        "districtName": "Thường Tín",
+        "provinceId": 31,
+        "provinceName": "Hà Nội"
     },
     "350": {
-      "districtId": 350,
-      "districtName": "Bắc Từ Liêm",
-      "provinceId": 31,
-      "provinceName": "Hà Nội"
+        "districtId": 350,
+        "districtName": "Bắc Từ Liêm",
+        "provinceId": 31,
+        "provinceName": "Hà Nội"
     },
     "351": {
-      "districtId": 351,
-      "districtName": "Ứng Hòa",
-      "provinceId": 31,
-      "provinceName": "Hà Nội"
+        "districtId": 351,
+        "districtName": "Ứng Hòa",
+        "provinceId": 31,
+        "provinceName": "Hà Nội"
     },
     "352": {
-      "districtId": 352,
-      "districtName": "Ba Đình",
-      "provinceId": 31,
-      "provinceName": "Hà Nội"
+        "districtId": 352,
+        "districtName": "Ba Đình",
+        "provinceId": 31,
+        "provinceName": "Hà Nội"
     },
     "353": {
-      "districtId": 353,
-      "districtName": "Cầu Giấy",
-      "provinceId": 31,
-      "provinceName": "Hà Nội"
+        "districtId": 353,
+        "districtName": "Cầu Giấy",
+        "provinceId": 31,
+        "provinceName": "Hà Nội"
     },
     "354": {
-      "districtId": 354,
-      "districtName": "Đống Đa",
-      "provinceId": 31,
-      "provinceName": "Hà Nội"
+        "districtId": 354,
+        "districtName": "Đống Đa",
+        "provinceId": 31,
+        "provinceName": "Hà Nội"
     },
     "355": {
-      "districtId": 355,
-      "districtName": "Hai Bà Trưng",
-      "provinceId": 31,
-      "provinceName": "Hà Nội"
+        "districtId": 355,
+        "districtName": "Hai Bà Trưng",
+        "provinceId": 31,
+        "provinceName": "Hà Nội"
     },
     "356": {
-      "districtId": 356,
-      "districtName": "Hoàn Kiếm",
-      "provinceId": 31,
-      "provinceName": "Hà Nội"
+        "districtId": 356,
+        "districtName": "Hoàn Kiếm",
+        "provinceId": 31,
+        "provinceName": "Hà Nội"
     },
     "357": {
-      "districtId": 357,
-      "districtName": "Hoàng Mai",
-      "provinceId": 31,
-      "provinceName": "Hà Nội"
+        "districtId": 357,
+        "districtName": "Hoàng Mai",
+        "provinceId": 31,
+        "provinceName": "Hà Nội"
     },
     "358": {
-      "districtId": 358,
-      "districtName": "Long Biên",
-      "provinceId": 31,
-      "provinceName": "Hà Nội"
+        "districtId": 358,
+        "districtName": "Long Biên",
+        "provinceId": 31,
+        "provinceName": "Hà Nội"
     },
     "359": {
-      "districtId": 359,
-      "districtName": "Tây Hồ",
-      "provinceId": 31,
-      "provinceName": "Hà Nội"
+        "districtId": 359,
+        "districtName": "Tây Hồ",
+        "provinceId": 31,
+        "provinceName": "Hà Nội"
     },
     "360": {
-      "districtId": 360,
-      "districtName": "Thanh Xuân",
-      "provinceId": 31,
-      "provinceName": "Hà Nội"
+        "districtId": 360,
+        "districtName": "Thanh Xuân",
+        "provinceId": 31,
+        "provinceName": "Hà Nội"
     },
     "361": {
-      "districtId": 361,
-      "districtName": "Hà Đông",
-      "provinceId": 31,
-      "provinceName": "Hà Nội"
+        "districtId": 361,
+        "districtName": "Hà Đông",
+        "provinceId": 31,
+        "provinceName": "Hà Nội"
     },
     "362": {
-      "districtId": 362,
-      "districtName": "Sơn Tây",
-      "provinceId": 31,
-      "provinceName": "Hà Nội"
+        "districtId": 362,
+        "districtName": "Sơn Tây",
+        "provinceId": 31,
+        "provinceName": "Hà Nội"
     },
     "363": {
-      "districtId": 363,
-      "districtName": "Nam Từ Liêm",
-      "provinceId": 31,
-      "provinceName": "Hà Nội"
+        "districtId": 363,
+        "districtName": "Nam Từ Liêm",
+        "provinceId": 31,
+        "provinceName": "Hà Nội"
     },
     "364": {
-      "districtId": 364,
-      "districtName": "Thành phố Hải Dương",
-      "provinceId": 32,
-      "provinceName": "Hải Dương"
+        "districtId": 364,
+        "districtName": "Thành phố Hải Dương",
+        "provinceId": 32,
+        "provinceName": "Hải Dương"
     },
     "365": {
-      "districtId": 365,
-      "districtName": "Bình Giang",
-      "provinceId": 32,
-      "provinceName": "Hải Dương"
+        "districtId": 365,
+        "districtName": "Bình Giang",
+        "provinceId": 32,
+        "provinceName": "Hải Dương"
     },
     "366": {
-      "districtId": 366,
-      "districtName": "Cẩm Giàng",
-      "provinceId": 32,
-      "provinceName": "Hải Dương"
+        "districtId": 366,
+        "districtName": "Cẩm Giàng",
+        "provinceId": 32,
+        "provinceName": "Hải Dương"
     },
     "367": {
-      "districtId": 367,
-      "districtName": "Chí Linh",
-      "provinceId": 32,
-      "provinceName": "Hải Dương"
+        "districtId": 367,
+        "districtName": "Chí Linh",
+        "provinceId": 32,
+        "provinceName": "Hải Dương"
     },
     "368": {
-      "districtId": 368,
-      "districtName": "Gia Lộc",
-      "provinceId": 32,
-      "provinceName": "Hải Dương"
+        "districtId": 368,
+        "districtName": "Gia Lộc",
+        "provinceId": 32,
+        "provinceName": "Hải Dương"
     },
     "369": {
-      "districtId": 369,
-      "districtName": "Kim Thành",
-      "provinceId": 32,
-      "provinceName": "Hải Dương"
+        "districtId": 369,
+        "districtName": "Kim Thành",
+        "provinceId": 32,
+        "provinceName": "Hải Dương"
     },
     "370": {
-      "districtId": 370,
-      "districtName": "Kinh Môn",
-      "provinceId": 32,
-      "provinceName": "Hải Dương"
+        "districtId": 370,
+        "districtName": "Kinh Môn",
+        "provinceId": 32,
+        "provinceName": "Hải Dương"
     },
     "371": {
-      "districtId": 371,
-      "districtName": "Nam Sách",
-      "provinceId": 32,
-      "provinceName": "Hải Dương"
+        "districtId": 371,
+        "districtName": "Nam Sách",
+        "provinceId": 32,
+        "provinceName": "Hải Dương"
     },
     "372": {
-      "districtId": 372,
-      "districtName": "Ninh Giang",
-      "provinceId": 32,
-      "provinceName": "Hải Dương"
+        "districtId": 372,
+        "districtName": "Ninh Giang",
+        "provinceId": 32,
+        "provinceName": "Hải Dương"
     },
     "373": {
-      "districtId": 373,
-      "districtName": "Thanh Hà",
-      "provinceId": 32,
-      "provinceName": "Hải Dương"
+        "districtId": 373,
+        "districtName": "Thanh Hà",
+        "provinceId": 32,
+        "provinceName": "Hải Dương"
     },
     "374": {
-      "districtId": 374,
-      "districtName": "Thanh Miện",
-      "provinceId": 32,
-      "provinceName": "Hải Dương"
+        "districtId": 374,
+        "districtName": "Thanh Miện",
+        "provinceId": 32,
+        "provinceName": "Hải Dương"
     },
     "375": {
-      "districtId": 375,
-      "districtName": "Tứ Kỳ",
-      "provinceId": 32,
-      "provinceName": "Hải Dương"
+        "districtId": 375,
+        "districtName": "Tứ Kỳ",
+        "provinceId": 32,
+        "provinceName": "Hải Dương"
     },
     "376": {
-      "districtId": 376,
-      "districtName": "An Lão",
-      "provinceId": 33,
-      "provinceName": "Hải Phòng"
+        "districtId": 376,
+        "districtName": "An Lão",
+        "provinceId": 33,
+        "provinceName": "Hải Phòng"
     },
     "377": {
-      "districtId": 377,
-      "districtName": "Cát Hải",
-      "provinceId": 33,
-      "provinceName": "Hải Phòng"
+        "districtId": 377,
+        "districtName": "Cát Hải",
+        "provinceId": 33,
+        "provinceName": "Hải Phòng"
     },
     "378": {
-      "districtId": 378,
-      "districtName": "Kiến Thụy",
-      "provinceId": 33,
-      "provinceName": "Hải Phòng"
+        "districtId": 378,
+        "districtName": "Kiến Thụy",
+        "provinceId": 33,
+        "provinceName": "Hải Phòng"
     },
     "379": {
-      "districtId": 379,
-      "districtName": "Thủy Nguyên",
-      "provinceId": 33,
-      "provinceName": "Hải Phòng"
+        "districtId": 379,
+        "districtName": "Thủy Nguyên",
+        "provinceId": 33,
+        "provinceName": "Hải Phòng"
     },
     "380": {
-      "districtId": 380,
-      "districtName": "Tiên Lãng",
-      "provinceId": 33,
-      "provinceName": "Hải Phòng"
+        "districtId": 380,
+        "districtName": "Tiên Lãng",
+        "provinceId": 33,
+        "provinceName": "Hải Phòng"
     },
     "381": {
-      "districtId": 381,
-      "districtName": "Vĩnh Bảo",
-      "provinceId": 33,
-      "provinceName": "Hải Phòng"
+        "districtId": 381,
+        "districtName": "Vĩnh Bảo",
+        "provinceId": 33,
+        "provinceName": "Hải Phòng"
     },
     "382": {
-      "districtId": 382,
-      "districtName": "An Dương",
-      "provinceId": 33,
-      "provinceName": "Hải Phòng"
+        "districtId": 382,
+        "districtName": "An Dương",
+        "provinceId": 33,
+        "provinceName": "Hải Phòng"
     },
     "383": {
-      "districtId": 383,
-      "districtName": "Đồ Sơn",
-      "provinceId": 33,
-      "provinceName": "Hải Phòng"
+        "districtId": 383,
+        "districtName": "Đồ Sơn",
+        "provinceId": 33,
+        "provinceName": "Hải Phòng"
     },
     "384": {
-      "districtId": 384,
-      "districtName": "Hồng Bàng",
-      "provinceId": 33,
-      "provinceName": "Hải Phòng"
+        "districtId": 384,
+        "districtName": "Hồng Bàng",
+        "provinceId": 33,
+        "provinceName": "Hải Phòng"
     },
     "385": {
-      "districtId": 385,
-      "districtName": "Kiến An",
-      "provinceId": 33,
-      "provinceName": "Hải Phòng"
+        "districtId": 385,
+        "districtName": "Kiến An",
+        "provinceId": 33,
+        "provinceName": "Hải Phòng"
     },
     "386": {
-      "districtId": 386,
-      "districtName": "Lê Chân",
-      "provinceId": 33,
-      "provinceName": "Hải Phòng"
+        "districtId": 386,
+        "districtName": "Lê Chân",
+        "provinceId": 33,
+        "provinceName": "Hải Phòng"
     },
     "387": {
-      "districtId": 387,
-      "districtName": "Ngô Quyền",
-      "provinceId": 33,
-      "provinceName": "Hải Phòng"
+        "districtId": 387,
+        "districtName": "Ngô Quyền",
+        "provinceId": 33,
+        "provinceName": "Hải Phòng"
     },
     "388": {
-      "districtId": 388,
-      "districtName": "Dương Kinh",
-      "provinceId": 33,
-      "provinceName": "Hải Phòng"
+        "districtId": 388,
+        "districtName": "Dương Kinh",
+        "provinceId": 33,
+        "provinceName": "Hải Phòng"
     },
     "389": {
-      "districtId": 389,
-      "districtName": "Hải An",
-      "provinceId": 33,
-      "provinceName": "Hải Phòng"
+        "districtId": 389,
+        "districtName": "Hải An",
+        "provinceId": 33,
+        "provinceName": "Hải Phòng"
     },
     "391": {
-      "districtId": 391,
-      "districtName": "Thành phố Hưng Yên",
-      "provinceId": 34,
-      "provinceName": "Hưng Yên"
+        "districtId": 391,
+        "districtName": "Thành phố Hưng Yên",
+        "provinceId": 34,
+        "provinceName": "Hưng Yên"
     },
     "392": {
-      "districtId": 392,
-      "districtName": "Tiên Lữ",
-      "provinceId": 34,
-      "provinceName": "Hưng Yên"
+        "districtId": 392,
+        "districtName": "Tiên Lữ",
+        "provinceId": 34,
+        "provinceName": "Hưng Yên"
     },
     "393": {
-      "districtId": 393,
-      "districtName": "Ân Thi",
-      "provinceId": 34,
-      "provinceName": "Hưng Yên"
+        "districtId": 393,
+        "districtName": "Ân Thi",
+        "provinceId": 34,
+        "provinceName": "Hưng Yên"
     },
     "394": {
-      "districtId": 394,
-      "districtName": "Khoái Châu",
-      "provinceId": 34,
-      "provinceName": "Hưng Yên"
+        "districtId": 394,
+        "districtName": "Khoái Châu",
+        "provinceId": 34,
+        "provinceName": "Hưng Yên"
     },
     "395": {
-      "districtId": 395,
-      "districtName": "Kim Động",
-      "provinceId": 34,
-      "provinceName": "Hưng Yên"
+        "districtId": 395,
+        "districtName": "Kim Động",
+        "provinceId": 34,
+        "provinceName": "Hưng Yên"
     },
     "396": {
-      "districtId": 396,
-      "districtName": "Mỹ Hào",
-      "provinceId": 34,
-      "provinceName": "Hưng Yên"
+        "districtId": 396,
+        "districtName": "Mỹ Hào",
+        "provinceId": 34,
+        "provinceName": "Hưng Yên"
     },
     "397": {
-      "districtId": 397,
-      "districtName": "Phù Cừ",
-      "provinceId": 34,
-      "provinceName": "Hưng Yên"
+        "districtId": 397,
+        "districtName": "Phù Cừ",
+        "provinceId": 34,
+        "provinceName": "Hưng Yên"
     },
     "398": {
-      "districtId": 398,
-      "districtName": "Văn Giang",
-      "provinceId": 34,
-      "provinceName": "Hưng Yên"
+        "districtId": 398,
+        "districtName": "Văn Giang",
+        "provinceId": 34,
+        "provinceName": "Hưng Yên"
     },
     "399": {
-      "districtId": 399,
-      "districtName": "Văn Lâm",
-      "provinceId": 34,
-      "provinceName": "Hưng Yên"
+        "districtId": 399,
+        "districtName": "Văn Lâm",
+        "provinceId": 34,
+        "provinceName": "Hưng Yên"
     },
     "400": {
-      "districtId": 400,
-      "districtName": "Yên Mỹ",
-      "provinceId": 34,
-      "provinceName": "Hưng Yên"
+        "districtId": 400,
+        "districtName": "Yên Mỹ",
+        "provinceId": 34,
+        "provinceName": "Hưng Yên"
     },
     "401": {
-      "districtId": 401,
-      "districtName": "Thành phố Nam Định",
-      "provinceId": 35,
-      "provinceName": "Nam Định"
+        "districtId": 401,
+        "districtName": "Thành phố Nam Định",
+        "provinceId": 35,
+        "provinceName": "Nam Định"
     },
     "402": {
-      "districtId": 402,
-      "districtName": "Giao Thủy",
-      "provinceId": 35,
-      "provinceName": "Nam Định"
+        "districtId": 402,
+        "districtName": "Giao Thủy",
+        "provinceId": 35,
+        "provinceName": "Nam Định"
     },
     "403": {
-      "districtId": 403,
-      "districtName": "Hải Hậu",
-      "provinceId": 35,
-      "provinceName": "Nam Định"
+        "districtId": 403,
+        "districtName": "Hải Hậu",
+        "provinceId": 35,
+        "provinceName": "Nam Định"
     },
     "404": {
-      "districtId": 404,
-      "districtName": "Mỹ Lộc",
-      "provinceId": 35,
-      "provinceName": "Nam Định"
+        "districtId": 404,
+        "districtName": "Mỹ Lộc",
+        "provinceId": 35,
+        "provinceName": "Nam Định"
     },
     "405": {
-      "districtId": 405,
-      "districtName": "Nam Trực",
-      "provinceId": 35,
-      "provinceName": "Nam Định"
+        "districtId": 405,
+        "districtName": "Nam Trực",
+        "provinceId": 35,
+        "provinceName": "Nam Định"
     },
     "406": {
-      "districtId": 406,
-      "districtName": "Nghĩa Hưng",
-      "provinceId": 35,
-      "provinceName": "Nam Định"
+        "districtId": 406,
+        "districtName": "Nghĩa Hưng",
+        "provinceId": 35,
+        "provinceName": "Nam Định"
     },
     "407": {
-      "districtId": 407,
-      "districtName": "Trực Ninh",
-      "provinceId": 35,
-      "provinceName": "Nam Định"
+        "districtId": 407,
+        "districtName": "Trực Ninh",
+        "provinceId": 35,
+        "provinceName": "Nam Định"
     },
     "408": {
-      "districtId": 408,
-      "districtName": "Vụ Bản",
-      "provinceId": 35,
-      "provinceName": "Nam Định"
+        "districtId": 408,
+        "districtName": "Vụ Bản",
+        "provinceId": 35,
+        "provinceName": "Nam Định"
     },
     "409": {
-      "districtId": 409,
-      "districtName": "Xuân Trường",
-      "provinceId": 35,
-      "provinceName": "Nam Định"
+        "districtId": 409,
+        "districtName": "Xuân Trường",
+        "provinceId": 35,
+        "provinceName": "Nam Định"
     },
     "410": {
-      "districtId": 410,
-      "districtName": "Ý Yên",
-      "provinceId": 35,
-      "provinceName": "Nam Định"
+        "districtId": 410,
+        "districtName": "Ý Yên",
+        "provinceId": 35,
+        "provinceName": "Nam Định"
     },
     "411": {
-      "districtId": 411,
-      "districtName": "Thành phố Ninh Bình",
-      "provinceId": 36,
-      "provinceName": "Ninh Bình"
+        "districtId": 411,
+        "districtName": "Thành phố Ninh Bình",
+        "provinceId": 36,
+        "provinceName": "Ninh Bình"
     },
     "412": {
-      "districtId": 412,
-      "districtName": "Gia Viễn",
-      "provinceId": 36,
-      "provinceName": "Ninh Bình"
+        "districtId": 412,
+        "districtName": "Gia Viễn",
+        "provinceId": 36,
+        "provinceName": "Ninh Bình"
     },
     "413": {
-      "districtId": 413,
-      "districtName": "Hoa Lư",
-      "provinceId": 36,
-      "provinceName": "Ninh Bình"
+        "districtId": 413,
+        "districtName": "Hoa Lư",
+        "provinceId": 36,
+        "provinceName": "Ninh Bình"
     },
     "414": {
-      "districtId": 414,
-      "districtName": "Kim Sơn",
-      "provinceId": 36,
-      "provinceName": "Ninh Bình"
+        "districtId": 414,
+        "districtName": "Kim Sơn",
+        "provinceId": 36,
+        "provinceName": "Ninh Bình"
     },
     "415": {
-      "districtId": 415,
-      "districtName": "Nho Quan",
-      "provinceId": 36,
-      "provinceName": "Ninh Bình"
+        "districtId": 415,
+        "districtName": "Nho Quan",
+        "provinceId": 36,
+        "provinceName": "Ninh Bình"
     },
     "416": {
-      "districtId": 416,
-      "districtName": "Yên Khánh",
-      "provinceId": 36,
-      "provinceName": "Ninh Bình"
+        "districtId": 416,
+        "districtName": "Yên Khánh",
+        "provinceId": 36,
+        "provinceName": "Ninh Bình"
     },
     "417": {
-      "districtId": 417,
-      "districtName": "Yên Mô",
-      "provinceId": 36,
-      "provinceName": "Ninh Bình"
+        "districtId": 417,
+        "districtName": "Yên Mô",
+        "provinceId": 36,
+        "provinceName": "Ninh Bình"
     },
     "418": {
-      "districtId": 418,
-      "districtName": "Thị xã Tam Điệp",
-      "provinceId": 36,
-      "provinceName": "Ninh Bình"
+        "districtId": 418,
+        "districtName": "Thị xã Tam Điệp",
+        "provinceId": 36,
+        "provinceName": "Ninh Bình"
     },
     "419": {
-      "districtId": 419,
-      "districtName": "Thành phố Thái Bình",
-      "provinceId": 37,
-      "provinceName": "Thái Bình"
+        "districtId": 419,
+        "districtName": "Thành phố Thái Bình",
+        "provinceId": 37,
+        "provinceName": "Thái Bình"
     },
     "420": {
-      "districtId": 420,
-      "districtName": "Đông Hưng",
-      "provinceId": 37,
-      "provinceName": "Thái Bình"
+        "districtId": 420,
+        "districtName": "Đông Hưng",
+        "provinceId": 37,
+        "provinceName": "Thái Bình"
     },
     "421": {
-      "districtId": 421,
-      "districtName": "Hưng Hà",
-      "provinceId": 37,
-      "provinceName": "Thái Bình"
+        "districtId": 421,
+        "districtName": "Hưng Hà",
+        "provinceId": 37,
+        "provinceName": "Thái Bình"
     },
     "422": {
-      "districtId": 422,
-      "districtName": "Kiến Xương",
-      "provinceId": 37,
-      "provinceName": "Thái Bình"
+        "districtId": 422,
+        "districtName": "Kiến Xương",
+        "provinceId": 37,
+        "provinceName": "Thái Bình"
     },
     "423": {
-      "districtId": 423,
-      "districtName": "Quỳnh Phụ",
-      "provinceId": 37,
-      "provinceName": "Thái Bình"
+        "districtId": 423,
+        "districtName": "Quỳnh Phụ",
+        "provinceId": 37,
+        "provinceName": "Thái Bình"
     },
     "424": {
-      "districtId": 424,
-      "districtName": "Thái Thụy",
-      "provinceId": 37,
-      "provinceName": "Thái Bình"
+        "districtId": 424,
+        "districtName": "Thái Thụy",
+        "provinceId": 37,
+        "provinceName": "Thái Bình"
     },
     "425": {
-      "districtId": 425,
-      "districtName": "Tiền Hải",
-      "provinceId": 37,
-      "provinceName": "Thái Bình"
+        "districtId": 425,
+        "districtName": "Tiền Hải",
+        "provinceId": 37,
+        "provinceName": "Thái Bình"
     },
     "426": {
-      "districtId": 426,
-      "districtName": "Vũ Thư",
-      "provinceId": 37,
-      "provinceName": "Thái Bình"
+        "districtId": 426,
+        "districtName": "Vũ Thư",
+        "provinceId": 37,
+        "provinceName": "Thái Bình"
     },
     "427": {
-      "districtId": 427,
-      "districtName": "Thành phố Vĩnh Yên",
-      "provinceId": 38,
-      "provinceName": "Vĩnh Phúc"
+        "districtId": 427,
+        "districtName": "Thành phố Vĩnh Yên",
+        "provinceId": 38,
+        "provinceName": "Vĩnh Phúc"
     },
     "428": {
-      "districtId": 428,
-      "districtName": "Bình Xuyên",
-      "provinceId": 38,
-      "provinceName": "Vĩnh Phúc"
+        "districtId": 428,
+        "districtName": "Bình Xuyên",
+        "provinceId": 38,
+        "provinceName": "Vĩnh Phúc"
     },
     "429": {
-      "districtId": 429,
-      "districtName": "Lập Thạch",
-      "provinceId": 38,
-      "provinceName": "Vĩnh Phúc"
+        "districtId": 429,
+        "districtName": "Lập Thạch",
+        "provinceId": 38,
+        "provinceName": "Vĩnh Phúc"
     },
     "430": {
-      "districtId": 430,
-      "districtName": "Tam Dương",
-      "provinceId": 38,
-      "provinceName": "Vĩnh Phúc"
+        "districtId": 430,
+        "districtName": "Tam Dương",
+        "provinceId": 38,
+        "provinceName": "Vĩnh Phúc"
     },
     "431": {
-      "districtId": 431,
-      "districtName": "Vĩnh Tường",
-      "provinceId": 38,
-      "provinceName": "Vĩnh Phúc"
+        "districtId": 431,
+        "districtName": "Vĩnh Tường",
+        "provinceId": 38,
+        "provinceName": "Vĩnh Phúc"
     },
     "432": {
-      "districtId": 432,
-      "districtName": "Yên Lạc",
-      "provinceId": 38,
-      "provinceName": "Vĩnh Phúc"
+        "districtId": 432,
+        "districtName": "Yên Lạc",
+        "provinceId": 38,
+        "provinceName": "Vĩnh Phúc"
     },
     "433": {
-      "districtId": 433,
-      "districtName": "Thị xã Tam Đảo",
-      "provinceId": 38,
-      "provinceName": "Vĩnh Phúc"
+        "districtId": 433,
+        "districtName": "Thị xã Tam Đảo",
+        "provinceId": 38,
+        "provinceName": "Vĩnh Phúc"
     },
     "434": {
-      "districtId": 434,
-      "districtName": "Thành phố Phúc Yên",
-      "provinceId": 38,
-      "provinceName": "Vĩnh Phúc"
+        "districtId": 434,
+        "districtName": "Thành phố Phúc Yên",
+        "provinceId": 38,
+        "provinceName": "Vĩnh Phúc"
     },
     "435": {
-      "districtId": 435,
-      "districtName": "Sông Lô",
-      "provinceId": 38,
-      "provinceName": "Vĩnh Phúc"
+        "districtId": 435,
+        "districtName": "Sông Lô",
+        "provinceId": 38,
+        "provinceName": "Vĩnh Phúc"
     },
     "436": {
-      "districtId": 436,
-      "districtName": "Long Bình",
-      "provinceId": 39,
-      "provinceName": "Bình Phước"
+        "districtId": 436,
+        "districtName": "Long Bình",
+        "provinceId": 39,
+        "provinceName": "Bình Phước"
     },
     "437": {
-      "districtId": 437,
-      "districtName": "Bù Đăng",
-      "provinceId": 39,
-      "provinceName": "Bình Phước"
+        "districtId": 437,
+        "districtName": "Bù Đăng",
+        "provinceId": 39,
+        "provinceName": "Bình Phước"
     },
     "438": {
-      "districtId": 438,
-      "districtName": "Đồng Phú",
-      "provinceId": 39,
-      "provinceName": "Bình Phước"
+        "districtId": 438,
+        "districtName": "Đồng Phú",
+        "provinceId": 39,
+        "provinceName": "Bình Phước"
     },
     "439": {
-      "districtId": 439,
-      "districtName": "Lộc Ninh",
-      "provinceId": 39,
-      "provinceName": "Bình Phước"
+        "districtId": 439,
+        "districtName": "Lộc Ninh",
+        "provinceId": 39,
+        "provinceName": "Bình Phước"
     },
     "440": {
-      "districtId": 440,
-      "districtName": "Thị xã Phước Long",
-      "provinceId": 39,
-      "provinceName": "Bình Phước"
+        "districtId": 440,
+        "districtName": "Thị xã Phước Long",
+        "provinceId": 39,
+        "provinceName": "Bình Phước"
     },
     "441": {
-      "districtId": 441,
-      "districtName": "Thành phố Đồng Xoài",
-      "provinceId": 39,
-      "provinceName": "Bình Phước"
+        "districtId": 441,
+        "districtName": "Thành phố Đồng Xoài",
+        "provinceId": 39,
+        "provinceName": "Bình Phước"
     },
     "442": {
-      "districtId": 442,
-      "districtName": "Chơn Thành",
-      "provinceId": 39,
-      "provinceName": "Bình Phước"
+        "districtId": 442,
+        "districtName": "Chơn Thành",
+        "provinceId": 39,
+        "provinceName": "Bình Phước"
     },
     "443": {
-      "districtId": 443,
-      "districtName": "Bù Đốp",
-      "provinceId": 39,
-      "provinceName": "Bình Phước"
+        "districtId": 443,
+        "districtName": "Bù Đốp",
+        "provinceId": 39,
+        "provinceName": "Bình Phước"
     },
     "444": {
-      "districtId": 444,
-      "districtName": "Hớn Quản",
-      "provinceId": 39,
-      "provinceName": "Bình Phước"
+        "districtId": 444,
+        "districtName": "Hớn Quản",
+        "provinceId": 39,
+        "provinceName": "Bình Phước"
     },
     "445": {
-      "districtId": 445,
-      "districtName": "Bù Gia Mập",
-      "provinceId": 39,
-      "provinceName": "Bình Phước"
+        "districtId": 445,
+        "districtName": "Bù Gia Mập",
+        "provinceId": 39,
+        "provinceName": "Bình Phước"
     },
     "446": {
-      "districtId": 446,
-      "districtName": "Thị xã Bình Long",
-      "provinceId": 39,
-      "provinceName": "Bình Phước"
+        "districtId": 446,
+        "districtName": "Thị xã Bình Long",
+        "provinceId": 39,
+        "provinceName": "Bình Phước"
     },
     "447": {
-      "districtId": 447,
-      "districtName": "Thị xã Bến Cát",
-      "provinceId": 40,
-      "provinceName": "Bình Dương"
+        "districtId": 447,
+        "districtName": "Thị xã Bến Cát",
+        "provinceId": 40,
+        "provinceName": "Bình Dương"
     },
     "448": {
-      "districtId": 448,
-      "districtName": "Huyện Dầu Tiếng",
-      "provinceId": 40,
-      "provinceName": "Bình Dương"
+        "districtId": 448,
+        "districtName": "Huyện Dầu Tiếng",
+        "provinceId": 40,
+        "provinceName": "Bình Dương"
     },
     "449": {
-      "districtId": 449,
-      "districtName": "Thị xã Dĩ An",
-      "provinceId": 40,
-      "provinceName": "Bình Dương"
+        "districtId": 449,
+        "districtName": "Thị xã Dĩ An",
+        "provinceId": 40,
+        "provinceName": "Bình Dương"
     },
     "450": {
-      "districtId": 450,
-      "districtName": "Huyện Phú Giáo",
-      "provinceId": 40,
-      "provinceName": "Bình Dương"
+        "districtId": 450,
+        "districtName": "Huyện Phú Giáo",
+        "provinceId": 40,
+        "provinceName": "Bình Dương"
     },
     "451": {
-      "districtId": 451,
-      "districtName": "Thị xã Tân Uyên",
-      "provinceId": 40,
-      "provinceName": "Bình Dương"
+        "districtId": 451,
+        "districtName": "Thị xã Tân Uyên",
+        "provinceId": 40,
+        "provinceName": "Bình Dương"
     },
     "452": {
-      "districtId": 452,
-      "districtName": "Thị xã Thuận An",
-      "provinceId": 40,
-      "provinceName": "Bình Dương"
+        "districtId": 452,
+        "districtName": "Thị xã Thuận An",
+        "provinceId": 40,
+        "provinceName": "Bình Dương"
     },
     "453": {
-      "districtId": 453,
-      "districtName": "Thành phố Thủ Dầu Một",
-      "provinceId": 40,
-      "provinceName": "Bình Dương"
+        "districtId": 453,
+        "districtName": "Thành phố Thủ Dầu Một",
+        "provinceId": 40,
+        "provinceName": "Bình Dương"
     },
     "454": {
-      "districtId": 454,
-      "districtName": "Huyện Bắc Tân Uyên",
-      "provinceId": 40,
-      "provinceName": "Bình Dương"
+        "districtId": 454,
+        "districtName": "Huyện Bắc Tân Uyên",
+        "provinceId": 40,
+        "provinceName": "Bình Dương"
     },
     "455": {
-      "districtId": 455,
-      "districtName": "Huyện Bàu Bàng",
-      "provinceId": 40,
-      "provinceName": "Bình Dương"
+        "districtId": 455,
+        "districtName": "Huyện Bàu Bàng",
+        "provinceId": 40,
+        "provinceName": "Bình Dương"
     },
     "456": {
-      "districtId": 456,
-      "districtName": "Định Quán",
-      "provinceId": 41,
-      "provinceName": "Đồng Nai"
+        "districtId": 456,
+        "districtName": "Định Quán",
+        "provinceId": 41,
+        "provinceName": "Đồng Nai"
     },
     "457": {
-      "districtId": 457,
-      "districtName": "Long Thành",
-      "provinceId": 41,
-      "provinceName": "Đồng Nai"
+        "districtId": 457,
+        "districtName": "Long Thành",
+        "provinceId": 41,
+        "provinceName": "Đồng Nai"
     },
     "458": {
-      "districtId": 458,
-      "districtName": "Nhơn Trạch",
-      "provinceId": 41,
-      "provinceName": "Đồng Nai"
+        "districtId": 458,
+        "districtName": "Nhơn Trạch",
+        "provinceId": 41,
+        "provinceName": "Đồng Nai"
     },
     "459": {
-      "districtId": 459,
-      "districtName": "Tân Phú",
-      "provinceId": 41,
-      "provinceName": "Đồng Nai"
+        "districtId": 459,
+        "districtName": "Tân Phú",
+        "provinceId": 41,
+        "provinceName": "Đồng Nai"
     },
     "460": {
-      "districtId": 460,
-      "districtName": "Thống Nhất",
-      "provinceId": 41,
-      "provinceName": "Đồng Nai"
+        "districtId": 460,
+        "districtName": "Thống Nhất",
+        "provinceId": 41,
+        "provinceName": "Đồng Nai"
     },
     "461": {
-      "districtId": 461,
-      "districtName": "Vĩnh Cửu",
-      "provinceId": 41,
-      "provinceName": "Đồng Nai"
+        "districtId": 461,
+        "districtName": "Vĩnh Cửu",
+        "provinceId": 41,
+        "provinceName": "Đồng Nai"
     },
     "462": {
-      "districtId": 462,
-      "districtName": "Xuân Lộc",
-      "provinceId": 41,
-      "provinceName": "Đồng Nai"
+        "districtId": 462,
+        "districtName": "Xuân Lộc",
+        "provinceId": 41,
+        "provinceName": "Đồng Nai"
     },
     "463": {
-      "districtId": 463,
-      "districtName": "Biên Hòa",
-      "provinceId": 41,
-      "provinceName": "Đồng Nai"
+        "districtId": 463,
+        "districtName": "Biên Hòa",
+        "provinceId": 41,
+        "provinceName": "Đồng Nai"
     },
     "464": {
-      "districtId": 464,
-      "districtName": "Thị xã Long Khánh",
-      "provinceId": 41,
-      "provinceName": "Đồng Nai"
+        "districtId": 464,
+        "districtName": "Thị xã Long Khánh",
+        "provinceId": 41,
+        "provinceName": "Đồng Nai"
     },
     "465": {
-      "districtId": 465,
-      "districtName": "Trảng Bom",
-      "provinceId": 41,
-      "provinceName": "Đồng Nai"
+        "districtId": 465,
+        "districtName": "Trảng Bom",
+        "provinceId": 41,
+        "provinceName": "Đồng Nai"
     },
     "466": {
-      "districtId": 466,
-      "districtName": "Cẩm Mỹ",
-      "provinceId": 41,
-      "provinceName": "Đồng Nai"
+        "districtId": 466,
+        "districtName": "Cẩm Mỹ",
+        "provinceId": 41,
+        "provinceName": "Đồng Nai"
     },
     "467": {
-      "districtId": 467,
-      "districtName": "Bến Cầu",
-      "provinceId": 42,
-      "provinceName": "Tây Ninh"
+        "districtId": 467,
+        "districtName": "Bến Cầu",
+        "provinceId": 42,
+        "provinceName": "Tây Ninh"
     },
     "468": {
-      "districtId": 468,
-      "districtName": "Châu Thành",
-      "provinceId": 42,
-      "provinceName": "Tây Ninh"
+        "districtId": 468,
+        "districtName": "Châu Thành",
+        "provinceId": 42,
+        "provinceName": "Tây Ninh"
     },
     "469": {
-      "districtId": 469,
-      "districtName": "Dương Minh Châu",
-      "provinceId": 42,
-      "provinceName": "Tây Ninh"
+        "districtId": 469,
+        "districtName": "Dương Minh Châu",
+        "provinceId": 42,
+        "provinceName": "Tây Ninh"
     },
     "470": {
-      "districtId": 470,
-      "districtName": "Gò Dầu",
-      "provinceId": 42,
-      "provinceName": "Tây Ninh"
+        "districtId": 470,
+        "districtName": "Gò Dầu",
+        "provinceId": 42,
+        "provinceName": "Tây Ninh"
     },
     "471": {
-      "districtId": 471,
-      "districtName": "Hòa Thành",
-      "provinceId": 42,
-      "provinceName": "Tây Ninh"
+        "districtId": 471,
+        "districtName": "Hòa Thành",
+        "provinceId": 42,
+        "provinceName": "Tây Ninh"
     },
     "472": {
-      "districtId": 472,
-      "districtName": "Tân Biên",
-      "provinceId": 42,
-      "provinceName": "Tây Ninh"
+        "districtId": 472,
+        "districtName": "Tân Biên",
+        "provinceId": 42,
+        "provinceName": "Tây Ninh"
     },
     "473": {
-      "districtId": 473,
-      "districtName": "Tân Châu",
-      "provinceId": 42,
-      "provinceName": "Tây Ninh"
+        "districtId": 473,
+        "districtName": "Tân Châu",
+        "provinceId": 42,
+        "provinceName": "Tây Ninh"
     },
     "474": {
-      "districtId": 474,
-      "districtName": "Trảng Bàng",
-      "provinceId": 42,
-      "provinceName": "Tây Ninh"
+        "districtId": 474,
+        "districtName": "Trảng Bàng",
+        "provinceId": 42,
+        "provinceName": "Tây Ninh"
     },
     "475": {
-      "districtId": 475,
-      "districtName": "Thành phố Tây Ninh",
-      "provinceId": 42,
-      "provinceName": "Tây Ninh"
+        "districtId": 475,
+        "districtName": "Thành phố Tây Ninh",
+        "provinceId": 42,
+        "provinceName": "Tây Ninh"
     },
     "476": {
-      "districtId": 476,
-      "districtName": "Thành phố Vũng Tàu",
-      "provinceId": 43,
-      "provinceName": "Bà Rịa - Vũng Tàu"
+        "districtId": 476,
+        "districtName": "Thành phố Vũng Tàu",
+        "provinceId": 43,
+        "provinceName": "Bà Rịa - Vũng Tàu"
     },
     "477": {
-      "districtId": 477,
-      "districtName": "Châu Đức",
-      "provinceId": 43,
-      "provinceName": "Bà Rịa - Vũng Tàu"
+        "districtId": 477,
+        "districtName": "Châu Đức",
+        "provinceId": 43,
+        "provinceName": "Bà Rịa - Vũng Tàu"
     },
     "478": {
-      "districtId": 478,
-      "districtName": "Côn Đảo",
-      "provinceId": 43,
-      "provinceName": "Bà Rịa - Vũng Tàu"
+        "districtId": 478,
+        "districtName": "Côn Đảo",
+        "provinceId": 43,
+        "provinceName": "Bà Rịa - Vũng Tàu"
     },
     "479": {
-      "districtId": 479,
-      "districtName": "Đất Đỏ",
-      "provinceId": 43,
-      "provinceName": "Bà Rịa - Vũng Tàu"
+        "districtId": 479,
+        "districtName": "Đất Đỏ",
+        "provinceId": 43,
+        "provinceName": "Bà Rịa - Vũng Tàu"
     },
     "480": {
-      "districtId": 480,
-      "districtName": "Long Điền",
-      "provinceId": 43,
-      "provinceName": "Bà Rịa - Vũng Tàu"
+        "districtId": 480,
+        "districtName": "Long Điền",
+        "provinceId": 43,
+        "provinceName": "Bà Rịa - Vũng Tàu"
     },
     "481": {
-      "districtId": 481,
-      "districtName": "Tân Thành",
-      "provinceId": 43,
-      "provinceName": "Bà Rịa - Vũng Tàu"
+        "districtId": 481,
+        "districtName": "Tân Thành",
+        "provinceId": 43,
+        "provinceName": "Bà Rịa - Vũng Tàu"
     },
     "482": {
-      "districtId": 482,
-      "districtName": "Xuyên Mộc",
-      "provinceId": 43,
-      "provinceName": "Bà Rịa - Vũng Tàu"
+        "districtId": 482,
+        "districtName": "Xuyên Mộc",
+        "provinceId": 43,
+        "provinceName": "Bà Rịa - Vũng Tàu"
     },
     "483": {
-      "districtId": 483,
-      "districtName": "Thành phố Bà Rịa",
-      "provinceId": 43,
-      "provinceName": "Bà Rịa - Vũng Tàu"
+        "districtId": 483,
+        "districtName": "Thành phố Bà Rịa",
+        "provinceId": 43,
+        "provinceName": "Bà Rịa - Vũng Tàu"
     },
     "484": {
-      "districtId": 484,
-      "districtName": "Bình Chánh",
-      "provinceId": 44,
-      "provinceName": "Thành phố Hồ Chí Minh"
+        "districtId": 484,
+        "districtName": "Bình Chánh",
+        "provinceId": 44,
+        "provinceName": "Thành phố Hồ Chí Minh"
     },
     "485": {
-      "districtId": 485,
-      "districtName": "Cần Giờ",
-      "provinceId": 44,
-      "provinceName": "Thành phố Hồ Chí Minh"
+        "districtId": 485,
+        "districtName": "Cần Giờ",
+        "provinceId": 44,
+        "provinceName": "Thành phố Hồ Chí Minh"
     },
     "486": {
-      "districtId": 486,
-      "districtName": "Củ Chi",
-      "provinceId": 44,
-      "provinceName": "Thành phố Hồ Chí Minh"
+        "districtId": 486,
+        "districtName": "Củ Chi",
+        "provinceId": 44,
+        "provinceName": "Thành phố Hồ Chí Minh"
     },
     "487": {
-      "districtId": 487,
-      "districtName": "Hóc Môn",
-      "provinceId": 44,
-      "provinceName": "Thành phố Hồ Chí Minh"
+        "districtId": 487,
+        "districtName": "Hóc Môn",
+        "provinceId": 44,
+        "provinceName": "Thành phố Hồ Chí Minh"
     },
     "488": {
-      "districtId": 488,
-      "districtName": "Nhà Bè",
-      "provinceId": 44,
-      "provinceName": "Thành phố Hồ Chí Minh"
+        "districtId": 488,
+        "districtName": "Nhà Bè",
+        "provinceId": 44,
+        "provinceName": "Thành phố Hồ Chí Minh"
     },
     "489": {
-      "districtId": 489,
-      "districtName": "Quận 1",
-      "provinceId": 44,
-      "provinceName": "Thành phố Hồ Chí Minh"
+        "districtId": 489,
+        "districtName": "Quận 1",
+        "provinceId": 44,
+        "provinceName": "Thành phố Hồ Chí Minh"
     },
     "490": {
-      "districtId": 490,
-      "districtName": "Quận 10",
-      "provinceId": 44,
-      "provinceName": "Thành phố Hồ Chí Minh"
+        "districtId": 490,
+        "districtName": "Quận 10",
+        "provinceId": 44,
+        "provinceName": "Thành phố Hồ Chí Minh"
     },
     "491": {
-      "districtId": 491,
-      "districtName": "Quận 11",
-      "provinceId": 44,
-      "provinceName": "Thành phố Hồ Chí Minh"
+        "districtId": 491,
+        "districtName": "Quận 11",
+        "provinceId": 44,
+        "provinceName": "Thành phố Hồ Chí Minh"
     },
     "492": {
-      "districtId": 492,
-      "districtName": "Quận 12",
-      "provinceId": 44,
-      "provinceName": "Thành phố Hồ Chí Minh"
+        "districtId": 492,
+        "districtName": "Quận 12",
+        "provinceId": 44,
+        "provinceName": "Thành phố Hồ Chí Minh"
     },
     "493": {
-      "districtId": 493,
-      "districtName": "Quận 2",
-      "provinceId": 44,
-      "provinceName": "Thành phố Hồ Chí Minh"
+        "districtId": 493,
+        "districtName": "Quận 2",
+        "provinceId": 44,
+        "provinceName": "Thành phố Hồ Chí Minh"
     },
     "494": {
-      "districtId": 494,
-      "districtName": "Quận 3",
-      "provinceId": 44,
-      "provinceName": "Thành phố Hồ Chí Minh"
+        "districtId": 494,
+        "districtName": "Quận 3",
+        "provinceId": 44,
+        "provinceName": "Thành phố Hồ Chí Minh"
     },
     "495": {
-      "districtId": 495,
-      "districtName": "Quận 4",
-      "provinceId": 44,
-      "provinceName": "Thành phố Hồ Chí Minh"
+        "districtId": 495,
+        "districtName": "Quận 4",
+        "provinceId": 44,
+        "provinceName": "Thành phố Hồ Chí Minh"
     },
     "496": {
-      "districtId": 496,
-      "districtName": "Quận 5",
-      "provinceId": 44,
-      "provinceName": "Thành phố Hồ Chí Minh"
+        "districtId": 496,
+        "districtName": "Quận 5",
+        "provinceId": 44,
+        "provinceName": "Thành phố Hồ Chí Minh"
     },
     "497": {
-      "districtId": 497,
-      "districtName": "Quận 6",
-      "provinceId": 44,
-      "provinceName": "Thành phố Hồ Chí Minh"
+        "districtId": 497,
+        "districtName": "Quận 6",
+        "provinceId": 44,
+        "provinceName": "Thành phố Hồ Chí Minh"
     },
     "498": {
-      "districtId": 498,
-      "districtName": "Quận 7",
-      "provinceId": 44,
-      "provinceName": "Thành phố Hồ Chí Minh"
+        "districtId": 498,
+        "districtName": "Quận 7",
+        "provinceId": 44,
+        "provinceName": "Thành phố Hồ Chí Minh"
     },
     "499": {
-      "districtId": 499,
-      "districtName": "Quận 8",
-      "provinceId": 44,
-      "provinceName": "Thành phố Hồ Chí Minh"
+        "districtId": 499,
+        "districtName": "Quận 8",
+        "provinceId": 44,
+        "provinceName": "Thành phố Hồ Chí Minh"
     },
     "500": {
-      "districtId": 500,
-      "districtName": "Quận 9",
-      "provinceId": 44,
-      "provinceName": "Thành phố Hồ Chí Minh"
+        "districtId": 500,
+        "districtName": "Quận 9",
+        "provinceId": 44,
+        "provinceName": "Thành phố Hồ Chí Minh"
     },
     "501": {
-      "districtId": 501,
-      "districtName": "Bình Thạnh",
-      "provinceId": 44,
-      "provinceName": "Thành phố Hồ Chí Minh"
+        "districtId": 501,
+        "districtName": "Bình Thạnh",
+        "provinceId": 44,
+        "provinceName": "Thành phố Hồ Chí Minh"
     },
     "502": {
-      "districtId": 502,
-      "districtName": "Gò Vấp",
-      "provinceId": 44,
-      "provinceName": "Thành phố Hồ Chí Minh"
+        "districtId": 502,
+        "districtName": "Gò Vấp",
+        "provinceId": 44,
+        "provinceName": "Thành phố Hồ Chí Minh"
     },
     "503": {
-      "districtId": 503,
-      "districtName": "Phú Nhuận",
-      "provinceId": 44,
-      "provinceName": "Thành phố Hồ Chí Minh"
+        "districtId": 503,
+        "districtName": "Phú Nhuận",
+        "provinceId": 44,
+        "provinceName": "Thành phố Hồ Chí Minh"
     },
     "504": {
-      "districtId": 504,
-      "districtName": "Tân Bình",
-      "provinceId": 44,
-      "provinceName": "Thành phố Hồ Chí Minh"
+        "districtId": 504,
+        "districtName": "Tân Bình",
+        "provinceId": 44,
+        "provinceName": "Thành phố Hồ Chí Minh"
     },
     "505": {
-      "districtId": 505,
-      "districtName": "Thủ Đức",
-      "provinceId": 44,
-      "provinceName": "Thành phố Hồ Chí Minh"
+        "districtId": 505,
+        "districtName": "Thủ Đức",
+        "provinceId": 44,
+        "provinceName": "Thành phố Hồ Chí Minh"
     },
     "506": {
-      "districtId": 506,
-      "districtName": "Tân Phú",
-      "provinceId": 44,
-      "provinceName": "Thành phố Hồ Chí Minh"
+        "districtId": 506,
+        "districtName": "Tân Phú",
+        "provinceId": 44,
+        "provinceName": "Thành phố Hồ Chí Minh"
     },
     "507": {
-      "districtId": 507,
-      "districtName": "Bình Tân",
-      "provinceId": 44,
-      "provinceName": "Thành phố Hồ Chí Minh"
+        "districtId": 507,
+        "districtName": "Bình Tân",
+        "provinceId": 44,
+        "provinceName": "Thành phố Hồ Chí Minh"
     },
     "508": {
-      "districtId": 508,
-      "districtName": "Hòa Vang",
-      "provinceId": 45,
-      "provinceName": "Đà Nẵng"
+        "districtId": 508,
+        "districtName": "Hòa Vang",
+        "provinceId": 45,
+        "provinceName": "Đà Nẵng"
     },
     "509": {
-      "districtId": 509,
-      "districtName": "Cẩm Lệ",
-      "provinceId": 45,
-      "provinceName": "Đà Nẵng"
+        "districtId": 509,
+        "districtName": "Cẩm Lệ",
+        "provinceId": 45,
+        "provinceName": "Đà Nẵng"
     },
     "510": {
-      "districtId": 510,
-      "districtName": "Hải Châu",
-      "provinceId": 45,
-      "provinceName": "Đà Nẵng"
+        "districtId": 510,
+        "districtName": "Hải Châu",
+        "provinceId": 45,
+        "provinceName": "Đà Nẵng"
     },
     "511": {
-      "districtId": 511,
-      "districtName": "Liên Chiểu",
-      "provinceId": 45,
-      "provinceName": "Đà Nẵng"
+        "districtId": 511,
+        "districtName": "Liên Chiểu",
+        "provinceId": 45,
+        "provinceName": "Đà Nẵng"
     },
     "512": {
-      "districtId": 512,
-      "districtName": "Ngũ Hành Sơn",
-      "provinceId": 45,
-      "provinceName": "Đà Nẵng"
+        "districtId": 512,
+        "districtName": "Ngũ Hành Sơn",
+        "provinceId": 45,
+        "provinceName": "Đà Nẵng"
     },
     "513": {
-      "districtId": 513,
-      "districtName": "Sơn Trà",
-      "provinceId": 45,
-      "provinceName": "Đà Nẵng"
+        "districtId": 513,
+        "districtName": "Sơn Trà",
+        "provinceId": 45,
+        "provinceName": "Đà Nẵng"
     },
     "514": {
-      "districtId": 514,
-      "districtName": "Thanh Khê",
-      "provinceId": 45,
-      "provinceName": "Đà Nẵng"
+        "districtId": 514,
+        "districtName": "Thanh Khê",
+        "provinceId": 45,
+        "provinceName": "Đà Nẵng"
     },
     "515": {
-      "districtId": 515,
-      "districtName": "Bắc Trà My",
-      "provinceId": 46,
-      "provinceName": "Quảng Nam"
+        "districtId": 515,
+        "districtName": "Bắc Trà My",
+        "provinceId": 46,
+        "provinceName": "Quảng Nam"
     },
     "516": {
-      "districtId": 516,
-      "districtName": "Đại Lộc",
-      "provinceId": 46,
-      "provinceName": "Quảng Nam"
+        "districtId": 516,
+        "districtName": "Đại Lộc",
+        "provinceId": 46,
+        "provinceName": "Quảng Nam"
     },
     "517": {
-      "districtId": 517,
-      "districtName": "Điện Bàn",
-      "provinceId": 46,
-      "provinceName": "Quảng Nam"
+        "districtId": 517,
+        "districtName": "Điện Bàn",
+        "provinceId": 46,
+        "provinceName": "Quảng Nam"
     },
     "518": {
-      "districtId": 518,
-      "districtName": "Duy Xuyên",
-      "provinceId": 46,
-      "provinceName": "Quảng Nam"
+        "districtId": 518,
+        "districtName": "Duy Xuyên",
+        "provinceId": 46,
+        "provinceName": "Quảng Nam"
     },
     "519": {
-      "districtId": 519,
-      "districtName": "Hiệp Đức",
-      "provinceId": 46,
-      "provinceName": "Quảng Nam"
+        "districtId": 519,
+        "districtName": "Hiệp Đức",
+        "provinceId": 46,
+        "provinceName": "Quảng Nam"
     },
     "520": {
-      "districtId": 520,
-      "districtName": "Nam Trà My",
-      "provinceId": 46,
-      "provinceName": "Quảng Nam"
+        "districtId": 520,
+        "districtName": "Nam Trà My",
+        "provinceId": 46,
+        "provinceName": "Quảng Nam"
     },
     "521": {
-      "districtId": 521,
-      "districtName": "Núi Thành",
-      "provinceId": 46,
-      "provinceName": "Quảng Nam"
+        "districtId": 521,
+        "districtName": "Núi Thành",
+        "provinceId": 46,
+        "provinceName": "Quảng Nam"
     },
     "522": {
-      "districtId": 522,
-      "districtName": "Quế Sơn",
-      "provinceId": 46,
-      "provinceName": "Quảng Nam"
+        "districtId": 522,
+        "districtName": "Quế Sơn",
+        "provinceId": 46,
+        "provinceName": "Quảng Nam"
     },
     "523": {
-      "districtId": 523,
-      "districtName": "Thăng Bình",
-      "provinceId": 46,
-      "provinceName": "Quảng Nam"
+        "districtId": 523,
+        "districtName": "Thăng Bình",
+        "provinceId": 46,
+        "provinceName": "Quảng Nam"
     },
     "524": {
-      "districtId": 524,
-      "districtName": "Tiên Phước",
-      "provinceId": 46,
-      "provinceName": "Quảng Nam"
+        "districtId": 524,
+        "districtName": "Tiên Phước",
+        "provinceId": 46,
+        "provinceName": "Quảng Nam"
     },
     "525": {
-      "districtId": 525,
-      "districtName": "Thành phố Hội An",
-      "provinceId": 46,
-      "provinceName": "Quảng Nam"
+        "districtId": 525,
+        "districtName": "Thành phố Hội An",
+        "provinceId": 46,
+        "provinceName": "Quảng Nam"
     },
     "526": {
-      "districtId": 526,
-      "districtName": "Thành phố Tam Kỳ",
-      "provinceId": 46,
-      "provinceName": "Quảng Nam"
+        "districtId": 526,
+        "districtName": "Thành phố Tam Kỳ",
+        "provinceId": 46,
+        "provinceName": "Quảng Nam"
     },
     "527": {
-      "districtId": 527,
-      "districtName": "Phú Ninh",
-      "provinceId": 46,
-      "provinceName": "Quảng Nam"
+        "districtId": 527,
+        "districtName": "Phú Ninh",
+        "provinceId": 46,
+        "provinceName": "Quảng Nam"
     },
     "528": {
-      "districtId": 528,
-      "districtName": "Đông Giang",
-      "provinceId": 46,
-      "provinceName": "Quảng Nam"
+        "districtId": 528,
+        "districtName": "Đông Giang",
+        "provinceId": 46,
+        "provinceName": "Quảng Nam"
     },
     "529": {
-      "districtId": 529,
-      "districtName": "Nam Giang",
-      "provinceId": 46,
-      "provinceName": "Quảng Nam"
+        "districtId": 529,
+        "districtName": "Nam Giang",
+        "provinceId": 46,
+        "provinceName": "Quảng Nam"
     },
     "530": {
-      "districtId": 530,
-      "districtName": "Phước Sơn",
-      "provinceId": 46,
-      "provinceName": "Quảng Nam"
+        "districtId": 530,
+        "districtName": "Phước Sơn",
+        "provinceId": 46,
+        "provinceName": "Quảng Nam"
     },
     "531": {
-      "districtId": 531,
-      "districtName": "Bình Sơn",
-      "provinceId": 47,
-      "provinceName": "Quảng Ngãi"
+        "districtId": 531,
+        "districtName": "Bình Sơn",
+        "provinceId": 47,
+        "provinceName": "Quảng Ngãi"
     },
     "532": {
-      "districtId": 532,
-      "districtName": "Đức Phổ",
-      "provinceId": 47,
-      "provinceName": "Quảng Ngãi"
+        "districtId": 532,
+        "districtName": "Đức Phổ",
+        "provinceId": 47,
+        "provinceName": "Quảng Ngãi"
     },
     "533": {
-      "districtId": 533,
-      "districtName": "Mộ Đức",
-      "provinceId": 47,
-      "provinceName": "Quảng Ngãi"
+        "districtId": 533,
+        "districtName": "Mộ Đức",
+        "provinceId": 47,
+        "provinceName": "Quảng Ngãi"
     },
     "534": {
-      "districtId": 534,
-      "districtName": "Nghĩa Hành",
-      "provinceId": 47,
-      "provinceName": "Quảng Ngãi"
+        "districtId": 534,
+        "districtName": "Nghĩa Hành",
+        "provinceId": 47,
+        "provinceName": "Quảng Ngãi"
     },
     "535": {
-      "districtId": 535,
-      "districtName": "Sơn Hà",
-      "provinceId": 47,
-      "provinceName": "Quảng Ngãi"
+        "districtId": 535,
+        "districtName": "Sơn Hà",
+        "provinceId": 47,
+        "provinceName": "Quảng Ngãi"
     },
     "536": {
-      "districtId": 536,
-      "districtName": "Sơn Tịnh",
-      "provinceId": 47,
-      "provinceName": "Quảng Ngãi"
+        "districtId": 536,
+        "districtName": "Sơn Tịnh",
+        "provinceId": 47,
+        "provinceName": "Quảng Ngãi"
     },
     "537": {
-      "districtId": 537,
-      "districtName": "Trà Bồng",
-      "provinceId": 47,
-      "provinceName": "Quảng Ngãi"
+        "districtId": 537,
+        "districtName": "Trà Bồng",
+        "provinceId": 47,
+        "provinceName": "Quảng Ngãi"
     },
     "538": {
-      "districtId": 538,
-      "districtName": "Thành phố Quảng Ngãi",
-      "provinceId": 47,
-      "provinceName": "Quảng Ngãi"
+        "districtId": 538,
+        "districtName": "Thành phố Quảng Ngãi",
+        "provinceId": 47,
+        "provinceName": "Quảng Ngãi"
     },
     "539": {
-      "districtId": 539,
-      "districtName": "Ba Tơ",
-      "provinceId": 47,
-      "provinceName": "Quảng Ngãi"
+        "districtId": 539,
+        "districtName": "Ba Tơ",
+        "provinceId": 47,
+        "provinceName": "Quảng Ngãi"
     },
     "540": {
-      "districtId": 540,
-      "districtName": "Lý Sơn",
-      "provinceId": 47,
-      "provinceName": "Quảng Ngãi"
+        "districtId": 540,
+        "districtName": "Lý Sơn",
+        "provinceId": 47,
+        "provinceName": "Quảng Ngãi"
     },
     "541": {
-      "districtId": 541,
-      "districtName": "Minh Long",
-      "provinceId": 47,
-      "provinceName": "Quảng Ngãi"
+        "districtId": 541,
+        "districtName": "Minh Long",
+        "provinceId": 47,
+        "provinceName": "Quảng Ngãi"
     },
     "542": {
-      "districtId": 542,
-      "districtName": "Tư Nghĩa",
-      "provinceId": 47,
-      "provinceName": "Quảng Ngãi"
+        "districtId": 542,
+        "districtName": "Tư Nghĩa",
+        "provinceId": 47,
+        "provinceName": "Quảng Ngãi"
     },
     "543": {
-      "districtId": 543,
-      "districtName": "Tây Trà",
-      "provinceId": 47,
-      "provinceName": "Quảng Ngãi"
+        "districtId": 543,
+        "districtName": "Tây Trà",
+        "provinceId": 47,
+        "provinceName": "Quảng Ngãi"
     },
     "544": {
-      "districtId": 544,
-      "districtName": "An Nhơn",
-      "provinceId": 48,
-      "provinceName": "Bình Định"
+        "districtId": 544,
+        "districtName": "An Nhơn",
+        "provinceId": 48,
+        "provinceName": "Bình Định"
     },
     "545": {
-      "districtId": 545,
-      "districtName": "Hoài ân",
-      "provinceId": 48,
-      "provinceName": "Bình Định"
+        "districtId": 545,
+        "districtName": "Hoài ân",
+        "provinceId": 48,
+        "provinceName": "Bình Định"
     },
     "546": {
-      "districtId": 546,
-      "districtName": "Hoài Nhơn",
-      "provinceId": 48,
-      "provinceName": "Bình Định"
+        "districtId": 546,
+        "districtName": "Hoài Nhơn",
+        "provinceId": 48,
+        "provinceName": "Bình Định"
     },
     "547": {
-      "districtId": 547,
-      "districtName": "Phù Cát",
-      "provinceId": 48,
-      "provinceName": "Bình Định"
+        "districtId": 547,
+        "districtName": "Phù Cát",
+        "provinceId": 48,
+        "provinceName": "Bình Định"
     },
     "548": {
-      "districtId": 548,
-      "districtName": "Phù Mỹ",
-      "provinceId": 48,
-      "provinceName": "Bình Định"
+        "districtId": 548,
+        "districtName": "Phù Mỹ",
+        "provinceId": 48,
+        "provinceName": "Bình Định"
     },
     "549": {
-      "districtId": 549,
-      "districtName": "Tây Sơn",
-      "provinceId": 48,
-      "provinceName": "Bình Định"
+        "districtId": 549,
+        "districtName": "Tây Sơn",
+        "provinceId": 48,
+        "provinceName": "Bình Định"
     },
     "550": {
-      "districtId": 550,
-      "districtName": "Tuy Phước",
-      "provinceId": 48,
-      "provinceName": "Bình Định"
+        "districtId": 550,
+        "districtName": "Tuy Phước",
+        "provinceId": 48,
+        "provinceName": "Bình Định"
     },
     "551": {
-      "districtId": 551,
-      "districtName": "Vân Canh",
-      "provinceId": 48,
-      "provinceName": "Bình Định"
+        "districtId": 551,
+        "districtName": "Vân Canh",
+        "provinceId": 48,
+        "provinceName": "Bình Định"
     },
     "552": {
-      "districtId": 552,
-      "districtName": "Vĩnh Thạnh",
-      "provinceId": 48,
-      "provinceName": "Bình Định"
+        "districtId": 552,
+        "districtName": "Vĩnh Thạnh",
+        "provinceId": 48,
+        "provinceName": "Bình Định"
     },
     "553": {
-      "districtId": 553,
-      "districtName": "Thành phố Quy Nhơn",
-      "provinceId": 48,
-      "provinceName": "Bình Định"
+        "districtId": 553,
+        "districtName": "Thành phố Quy Nhơn",
+        "provinceId": 48,
+        "provinceName": "Bình Định"
     },
     "554": {
-      "districtId": 554,
-      "districtName": "An Lão",
-      "provinceId": 48,
-      "provinceName": "Bình Định"
+        "districtId": 554,
+        "districtName": "An Lão",
+        "provinceId": 48,
+        "provinceName": "Bình Định"
     },
     "555": {
-      "districtId": 555,
-      "districtName": "Đồng Xuân",
-      "provinceId": 49,
-      "provinceName": "Phú Yên"
+        "districtId": 555,
+        "districtName": "Đồng Xuân",
+        "provinceId": 49,
+        "provinceName": "Phú Yên"
     },
     "556": {
-      "districtId": 556,
-      "districtName": "Phú Hòa",
-      "provinceId": 49,
-      "provinceName": "Phú Yên"
+        "districtId": 556,
+        "districtName": "Phú Hòa",
+        "provinceId": 49,
+        "provinceName": "Phú Yên"
     },
     "557": {
-      "districtId": 557,
-      "districtName": "Sơn Hòa",
-      "provinceId": 49,
-      "provinceName": "Phú Yên"
+        "districtId": 557,
+        "districtName": "Sơn Hòa",
+        "provinceId": 49,
+        "provinceName": "Phú Yên"
     },
     "558": {
-      "districtId": 558,
-      "districtName": "Sông Cầu",
-      "provinceId": 49,
-      "provinceName": "Phú Yên"
+        "districtId": 558,
+        "districtName": "Sông Cầu",
+        "provinceId": 49,
+        "provinceName": "Phú Yên"
     },
     "559": {
-      "districtId": 559,
-      "districtName": "Sông Hinh",
-      "provinceId": 49,
-      "provinceName": "Phú Yên"
+        "districtId": 559,
+        "districtName": "Sông Hinh",
+        "provinceId": 49,
+        "provinceName": "Phú Yên"
     },
     "560": {
-      "districtId": 560,
-      "districtName": "Tuy An",
-      "provinceId": 49,
-      "provinceName": "Phú Yên"
+        "districtId": 560,
+        "districtName": "Tuy An",
+        "provinceId": 49,
+        "provinceName": "Phú Yên"
     },
     "561": {
-      "districtId": 561,
-      "districtName": "Thành phố Tuy Hòa",
-      "provinceId": 49,
-      "provinceName": "Phú Yên"
+        "districtId": 561,
+        "districtName": "Thành phố Tuy Hòa",
+        "provinceId": 49,
+        "provinceName": "Phú Yên"
     },
     "562": {
-      "districtId": 562,
-      "districtName": "Tây Hòa",
-      "provinceId": 49,
-      "provinceName": "Phú Yên"
+        "districtId": 562,
+        "districtName": "Tây Hòa",
+        "provinceId": 49,
+        "provinceName": "Phú Yên"
     },
     "563": {
-      "districtId": 563,
-      "districtName": "Đông Hòa",
-      "provinceId": 49,
-      "provinceName": "Phú Yên"
+        "districtId": 563,
+        "districtName": "Đông Hòa",
+        "provinceId": 49,
+        "provinceName": "Phú Yên"
     },
     "564": {
-      "districtId": 564,
-      "districtName": "Diên Khánh",
-      "provinceId": 50,
-      "provinceName": "Khánh Hòa"
+        "districtId": 564,
+        "districtName": "Diên Khánh",
+        "provinceId": 50,
+        "provinceName": "Khánh Hòa"
     },
     "565": {
-      "districtId": 565,
-      "districtName": "Khánh Sơn",
-      "provinceId": 50,
-      "provinceName": "Khánh Hòa"
+        "districtId": 565,
+        "districtName": "Khánh Sơn",
+        "provinceId": 50,
+        "provinceName": "Khánh Hòa"
     },
     "566": {
-      "districtId": 566,
-      "districtName": "Khánh Vĩnh",
-      "provinceId": 50,
-      "provinceName": "Khánh Hòa"
+        "districtId": 566,
+        "districtName": "Khánh Vĩnh",
+        "provinceId": 50,
+        "provinceName": "Khánh Hòa"
     },
     "567": {
-      "districtId": 567,
-      "districtName": "Thị xã Ninh Hòa",
-      "provinceId": 50,
-      "provinceName": "Khánh Hòa"
+        "districtId": 567,
+        "districtName": "Thị xã Ninh Hòa",
+        "provinceId": 50,
+        "provinceName": "Khánh Hòa"
     },
     "568": {
-      "districtId": 568,
-      "districtName": "Vạn Ninh",
-      "provinceId": 50,
-      "provinceName": "Khánh Hòa"
+        "districtId": 568,
+        "districtName": "Vạn Ninh",
+        "provinceId": 50,
+        "provinceName": "Khánh Hòa"
     },
     "569": {
-      "districtId": 569,
-      "districtName": "Thành phố Nha Trang",
-      "provinceId": 50,
-      "provinceName": "Khánh Hòa"
+        "districtId": 569,
+        "districtName": "Thành phố Nha Trang",
+        "provinceId": 50,
+        "provinceName": "Khánh Hòa"
     },
     "570": {
-      "districtId": 570,
-      "districtName": "Thành phố Cam Ranh",
-      "provinceId": 50,
-      "provinceName": "Khánh Hòa"
+        "districtId": 570,
+        "districtName": "Thành phố Cam Ranh",
+        "provinceId": 50,
+        "provinceName": "Khánh Hòa"
     },
     "571": {
-      "districtId": 571,
-      "districtName": "Cam Lâm",
-      "provinceId": 50,
-      "provinceName": "Khánh Hòa"
+        "districtId": 571,
+        "districtName": "Cam Lâm",
+        "provinceId": 50,
+        "provinceName": "Khánh Hòa"
     },
     "572": {
-      "districtId": 572,
-      "districtName": "Ninh Bình ",
-      "provinceId": 50,
-      "provinceName": "Khánh Hòa"
+        "districtId": 572,
+        "districtName": "Ninh Bình ",
+        "provinceId": 50,
+        "provinceName": "Khánh Hòa"
     },
     "573": {
-      "districtId": 573,
-      "districtName": "Thành phố Phan Rang - Tháp Chàm",
-      "provinceId": 51,
-      "provinceName": "Ninh Thuận"
+        "districtId": 573,
+        "districtName": "Thành phố Phan Rang - Tháp Chàm",
+        "provinceId": 51,
+        "provinceName": "Ninh Thuận"
     },
     "574": {
-      "districtId": 574,
-      "districtName": "Ninh Hải",
-      "provinceId": 51,
-      "provinceName": "Ninh Thuận"
+        "districtId": 574,
+        "districtName": "Ninh Hải",
+        "provinceId": 51,
+        "provinceName": "Ninh Thuận"
     },
     "575": {
-      "districtId": 575,
-      "districtName": "Ninh Phước",
-      "provinceId": 51,
-      "provinceName": "Ninh Thuận"
+        "districtId": 575,
+        "districtName": "Ninh Phước",
+        "provinceId": 51,
+        "provinceName": "Ninh Thuận"
     },
     "576": {
-      "districtId": 576,
-      "districtName": "Ninh Sơn",
-      "provinceId": 51,
-      "provinceName": "Ninh Thuận"
+        "districtId": 576,
+        "districtName": "Ninh Sơn",
+        "provinceId": 51,
+        "provinceName": "Ninh Thuận"
     },
     "577": {
-      "districtId": 577,
-      "districtName": "Bác Ái",
-      "provinceId": 51,
-      "provinceName": "Ninh Thuận"
+        "districtId": 577,
+        "districtName": "Bác Ái",
+        "provinceId": 51,
+        "provinceName": "Ninh Thuận"
     },
     "578": {
-      "districtId": 578,
-      "districtName": "Thuận Nam",
-      "provinceId": 51,
-      "provinceName": "Ninh Thuận"
+        "districtId": 578,
+        "districtName": "Thuận Nam",
+        "provinceId": 51,
+        "provinceName": "Ninh Thuận"
     },
     "579": {
-      "districtId": 579,
-      "districtName": "Thuận Bắc",
-      "provinceId": 51,
-      "provinceName": "Ninh Thuận"
+        "districtId": 579,
+        "districtName": "Thuận Bắc",
+        "provinceId": 51,
+        "provinceName": "Ninh Thuận"
     },
     "580": {
-      "districtId": 580,
-      "districtName": "Bắc Bình",
-      "provinceId": 52,
-      "provinceName": "Bình Thuận"
+        "districtId": 580,
+        "districtName": "Bắc Bình",
+        "provinceId": 52,
+        "provinceName": "Bình Thuận"
     },
     "581": {
-      "districtId": 581,
-      "districtName": "Phú Quý",
-      "provinceId": 52,
-      "provinceName": "Bình Thuận"
+        "districtId": 581,
+        "districtName": "Phú Quý",
+        "provinceId": 52,
+        "provinceName": "Bình Thuận"
     },
     "582": {
-      "districtId": 582,
-      "districtName": "Đức Linh",
-      "provinceId": 52,
-      "provinceName": "Bình Thuận"
+        "districtId": 582,
+        "districtName": "Đức Linh",
+        "provinceId": 52,
+        "provinceName": "Bình Thuận"
     },
     "583": {
-      "districtId": 583,
-      "districtName": "Hàm Tân",
-      "provinceId": 52,
-      "provinceName": "Bình Thuận"
+        "districtId": 583,
+        "districtName": "Hàm Tân",
+        "provinceId": 52,
+        "provinceName": "Bình Thuận"
     },
     "584": {
-      "districtId": 584,
-      "districtName": "Hàm Thuận Nam",
-      "provinceId": 52,
-      "provinceName": "Bình Thuận"
+        "districtId": 584,
+        "districtName": "Hàm Thuận Nam",
+        "provinceId": 52,
+        "provinceName": "Bình Thuận"
     },
     "585": {
-      "districtId": 585,
-      "districtName": "Tánh Linh",
-      "provinceId": 52,
-      "provinceName": "Bình Thuận"
+        "districtId": 585,
+        "districtName": "Tánh Linh",
+        "provinceId": 52,
+        "provinceName": "Bình Thuận"
     },
     "586": {
-      "districtId": 586,
-      "districtName": "Tuy Phong",
-      "provinceId": 52,
-      "provinceName": "Bình Thuận"
+        "districtId": 586,
+        "districtName": "Tuy Phong",
+        "provinceId": 52,
+        "provinceName": "Bình Thuận"
     },
     "587": {
-      "districtId": 587,
-      "districtName": "Phan Thiết",
-      "provinceId": 52,
-      "provinceName": "Bình Thuận"
+        "districtId": 587,
+        "districtName": "Phan Thiết",
+        "provinceId": 52,
+        "provinceName": "Bình Thuận"
     },
     "588": {
-      "districtId": 588,
-      "districtName": "Hàm Thuận Bắc",
-      "provinceId": 52,
-      "provinceName": "Bình Thuận"
+        "districtId": 588,
+        "districtName": "Hàm Thuận Bắc",
+        "provinceId": 52,
+        "provinceName": "Bình Thuận"
     },
     "589": {
-      "districtId": 589,
-      "districtName": "La Gi",
-      "provinceId": 52,
-      "provinceName": "Bình Thuận"
+        "districtId": 589,
+        "districtName": "La Gi",
+        "provinceId": 52,
+        "provinceName": "Bình Thuận"
     },
     "590": {
-      "districtId": 590,
-      "districtName": "Thành phố Lào Cai",
-      "provinceId": 53,
-      "provinceName": "Lào Cai"
+        "districtId": 590,
+        "districtName": "Thành phố Lào Cai",
+        "provinceId": 53,
+        "provinceName": "Lào Cai"
     },
     "591": {
-      "districtId": 591,
-      "districtName": "Bắc Hà",
-      "provinceId": 53,
-      "provinceName": "Lào Cai"
+        "districtId": 591,
+        "districtName": "Bắc Hà",
+        "provinceId": 53,
+        "provinceName": "Lào Cai"
     },
     "592": {
-      "districtId": 592,
-      "districtName": "Bảo Thắng",
-      "provinceId": 53,
-      "provinceName": "Lào Cai"
+        "districtId": 592,
+        "districtName": "Bảo Thắng",
+        "provinceId": 53,
+        "provinceName": "Lào Cai"
     },
     "593": {
-      "districtId": 593,
-      "districtName": "Bảo Yên",
-      "provinceId": 53,
-      "provinceName": "Lào Cai"
+        "districtId": 593,
+        "districtName": "Bảo Yên",
+        "provinceId": 53,
+        "provinceName": "Lào Cai"
     },
     "594": {
-      "districtId": 594,
-      "districtName": "Bát Xát",
-      "provinceId": 53,
-      "provinceName": "Lào Cai"
+        "districtId": 594,
+        "districtName": "Bát Xát",
+        "provinceId": 53,
+        "provinceName": "Lào Cai"
     },
     "595": {
-      "districtId": 595,
-      "districtName": "Mường Khương",
-      "provinceId": 53,
-      "provinceName": "Lào Cai"
+        "districtId": 595,
+        "districtName": "Mường Khương",
+        "provinceId": 53,
+        "provinceName": "Lào Cai"
     },
     "596": {
-      "districtId": 596,
-      "districtName": "Sa Pa",
-      "provinceId": 53,
-      "provinceName": "Lào Cai"
+        "districtId": 596,
+        "districtName": "Sa Pa",
+        "provinceId": 53,
+        "provinceName": "Lào Cai"
     },
     "597": {
-      "districtId": 597,
-      "districtName": "Si Ma Cai",
-      "provinceId": 53,
-      "provinceName": "Lào Cai"
+        "districtId": 597,
+        "districtName": "Si Ma Cai",
+        "provinceId": 53,
+        "provinceName": "Lào Cai"
     },
     "598": {
-      "districtId": 598,
-      "districtName": "Văn Bàn",
-      "provinceId": 53,
-      "provinceName": "Lào Cai"
+        "districtId": 598,
+        "districtName": "Văn Bàn",
+        "provinceId": 53,
+        "provinceName": "Lào Cai"
     },
     "599": {
-      "districtId": 599,
-      "districtName": "Thành phố Yên Bái",
-      "provinceId": 54,
-      "provinceName": "Yên Bái"
+        "districtId": 599,
+        "districtName": "Thành phố Yên Bái",
+        "provinceId": 54,
+        "provinceName": "Yên Bái"
     },
     "600": {
-      "districtId": 600,
-      "districtName": "Lục Yên",
-      "provinceId": 54,
-      "provinceName": "Yên Bái"
+        "districtId": 600,
+        "districtName": "Lục Yên",
+        "provinceId": 54,
+        "provinceName": "Yên Bái"
     },
     "601": {
-      "districtId": 601,
-      "districtName": "Trấn Yến",
-      "provinceId": 54,
-      "provinceName": "Yên Bái"
+        "districtId": 601,
+        "districtName": "Trấn Yến",
+        "provinceId": 54,
+        "provinceName": "Yên Bái"
     },
     "602": {
-      "districtId": 602,
-      "districtName": "Văn Chấn",
-      "provinceId": 54,
-      "provinceName": "Yên Bái"
+        "districtId": 602,
+        "districtName": "Văn Chấn",
+        "provinceId": 54,
+        "provinceName": "Yên Bái"
     },
     "603": {
-      "districtId": 603,
-      "districtName": "Văn Yên",
-      "provinceId": 54,
-      "provinceName": "Yên Bái"
+        "districtId": 603,
+        "districtName": "Văn Yên",
+        "provinceId": 54,
+        "provinceName": "Yên Bái"
     },
     "604": {
-      "districtId": 604,
-      "districtName": "Yên Bình",
-      "provinceId": 54,
-      "provinceName": "Yên Bái"
+        "districtId": 604,
+        "districtName": "Yên Bình",
+        "provinceId": 54,
+        "provinceName": "Yên Bái"
     },
     "605": {
-      "districtId": 605,
-      "districtName": "Thị xã Nghĩa Lộ",
-      "provinceId": 54,
-      "provinceName": "Yên Bái"
+        "districtId": 605,
+        "districtName": "Thị xã Nghĩa Lộ",
+        "provinceId": 54,
+        "provinceName": "Yên Bái"
     },
     "606": {
-      "districtId": 606,
-      "districtName": "Mù Cang Chải",
-      "provinceId": 54,
-      "provinceName": "Yên Bái"
+        "districtId": 606,
+        "districtName": "Mù Cang Chải",
+        "provinceId": 54,
+        "provinceName": "Yên Bái"
     },
     "607": {
-      "districtId": 607,
-      "districtName": "Trạm Tấu",
-      "provinceId": 54,
-      "provinceName": "Yên Bái"
+        "districtId": 607,
+        "districtName": "Trạm Tấu",
+        "provinceId": 54,
+        "provinceName": "Yên Bái"
     },
     "608": {
-      "districtId": 608,
-      "districtName": "Thành phố Điện Biên Phủ",
-      "provinceId": 55,
-      "provinceName": "Điện Biên"
+        "districtId": 608,
+        "districtName": "Thành phố Điện Biên Phủ",
+        "provinceId": 55,
+        "provinceName": "Điện Biên"
     },
     "609": {
-      "districtId": 609,
-      "districtName": "Điện Biên",
-      "provinceId": 55,
-      "provinceName": "Điện Biên"
+        "districtId": 609,
+        "districtName": "Điện Biên",
+        "provinceId": 55,
+        "provinceName": "Điện Biên"
     },
     "610": {
-      "districtId": 610,
-      "districtName": "Điện Biên Đông",
-      "provinceId": 55,
-      "provinceName": "Điện Biên"
+        "districtId": 610,
+        "districtName": "Điện Biên Đông",
+        "provinceId": 55,
+        "provinceName": "Điện Biên"
     },
     "611": {
-      "districtId": 611,
-      "districtName": "Mường Nhé",
-      "provinceId": 55,
-      "provinceName": "Điện Biên"
+        "districtId": 611,
+        "districtName": "Mường Nhé",
+        "provinceId": 55,
+        "provinceName": "Điện Biên"
     },
     "612": {
-      "districtId": 612,
-      "districtName": "Tủa Chùa",
-      "provinceId": 55,
-      "provinceName": "Điện Biên"
+        "districtId": 612,
+        "districtName": "Tủa Chùa",
+        "provinceId": 55,
+        "provinceName": "Điện Biên"
     },
     "613": {
-      "districtId": 613,
-      "districtName": "Tuần Gíao",
-      "provinceId": 55,
-      "provinceName": "Điện Biên"
+        "districtId": 613,
+        "districtName": "Tuần Gíao",
+        "provinceId": 55,
+        "provinceName": "Điện Biên"
     },
     "614": {
-      "districtId": 614,
-      "districtName": "Mường Lay",
-      "provinceId": 55,
-      "provinceName": "Điện Biên"
+        "districtId": 614,
+        "districtName": "Mường Lay",
+        "provinceId": 55,
+        "provinceName": "Điện Biên"
     },
     "615": {
-      "districtId": 615,
-      "districtName": "Mường Ảng",
-      "provinceId": 55,
-      "provinceName": "Điện Biên"
+        "districtId": 615,
+        "districtName": "Mường Ảng",
+        "provinceId": 55,
+        "provinceName": "Điện Biên"
     },
     "616": {
-      "districtId": 616,
-      "districtName": "Mường Chà",
-      "provinceId": 55,
-      "provinceName": "Điện Biên"
+        "districtId": 616,
+        "districtName": "Mường Chà",
+        "provinceId": 55,
+        "provinceName": "Điện Biên"
     },
     "617": {
-      "districtId": 617,
-      "districtName": "Thành phố Hòa Bình",
-      "provinceId": 56,
-      "provinceName": "Hòa Bình"
+        "districtId": 617,
+        "districtName": "Thành phố Hòa Bình",
+        "provinceId": 56,
+        "provinceName": "Hòa Bình"
     },
     "618": {
-      "districtId": 618,
-      "districtName": "Cao Phong",
-      "provinceId": 56,
-      "provinceName": "Hòa Bình"
+        "districtId": 618,
+        "districtName": "Cao Phong",
+        "provinceId": 56,
+        "provinceName": "Hòa Bình"
     },
     "619": {
-      "districtId": 619,
-      "districtName": "Đà Bắc",
-      "provinceId": 56,
-      "provinceName": "Hòa Bình"
+        "districtId": 619,
+        "districtName": "Đà Bắc",
+        "provinceId": 56,
+        "provinceName": "Hòa Bình"
     },
     "620": {
-      "districtId": 620,
-      "districtName": "Kim Bôi",
-      "provinceId": 56,
-      "provinceName": "Hòa Bình"
+        "districtId": 620,
+        "districtName": "Kim Bôi",
+        "provinceId": 56,
+        "provinceName": "Hòa Bình"
     },
     "621": {
-      "districtId": 621,
-      "districtName": "Kỳ Sơn",
-      "provinceId": 56,
-      "provinceName": "Hòa Bình"
+        "districtId": 621,
+        "districtName": "Kỳ Sơn",
+        "provinceId": 56,
+        "provinceName": "Hòa Bình"
     },
     "622": {
-      "districtId": 622,
-      "districtName": "Lạc Sơn",
-      "provinceId": 56,
-      "provinceName": "Hòa Bình"
+        "districtId": 622,
+        "districtName": "Lạc Sơn",
+        "provinceId": 56,
+        "provinceName": "Hòa Bình"
     },
     "623": {
-      "districtId": 623,
-      "districtName": "Lạc Thủy",
-      "provinceId": 56,
-      "provinceName": "Hòa Bình"
+        "districtId": 623,
+        "districtName": "Lạc Thủy",
+        "provinceId": 56,
+        "provinceName": "Hòa Bình"
     },
     "624": {
-      "districtId": 624,
-      "districtName": "Lương Sơn",
-      "provinceId": 56,
-      "provinceName": "Hòa Bình"
+        "districtId": 624,
+        "districtName": "Lương Sơn",
+        "provinceId": 56,
+        "provinceName": "Hòa Bình"
     },
     "625": {
-      "districtId": 625,
-      "districtName": "Mai Châu",
-      "provinceId": 56,
-      "provinceName": "Hòa Bình"
+        "districtId": 625,
+        "districtName": "Mai Châu",
+        "provinceId": 56,
+        "provinceName": "Hòa Bình"
     },
     "626": {
-      "districtId": 626,
-      "districtName": "Tân Lạc",
-      "provinceId": 56,
-      "provinceName": "Hòa Bình"
+        "districtId": 626,
+        "districtName": "Tân Lạc",
+        "provinceId": 56,
+        "provinceName": "Hòa Bình"
     },
     "627": {
-      "districtId": 627,
-      "districtName": "Yên Thủy",
-      "provinceId": 56,
-      "provinceName": "Hòa Bình"
+        "districtId": 627,
+        "districtName": "Yên Thủy",
+        "provinceId": 56,
+        "provinceName": "Hòa Bình"
     },
     "628": {
-      "districtId": 628,
-      "districtName": "Mường Tè",
-      "provinceId": 57,
-      "provinceName": "Lai Châu"
+        "districtId": 628,
+        "districtName": "Mường Tè",
+        "provinceId": 57,
+        "provinceName": "Lai Châu"
     },
     "629": {
-      "districtId": 629,
-      "districtName": "Phong Thổ",
-      "provinceId": 57,
-      "provinceName": "Lai Châu"
+        "districtId": 629,
+        "districtName": "Phong Thổ",
+        "provinceId": 57,
+        "provinceName": "Lai Châu"
     },
     "630": {
-      "districtId": 630,
-      "districtName": "Sìn Hồ",
-      "provinceId": 57,
-      "provinceName": "Lai Châu"
+        "districtId": 630,
+        "districtName": "Sìn Hồ",
+        "provinceId": 57,
+        "provinceName": "Lai Châu"
     },
     "631": {
-      "districtId": 631,
-      "districtName": "Tam Đường",
-      "provinceId": 57,
-      "provinceName": "Lai Châu"
+        "districtId": 631,
+        "districtName": "Tam Đường",
+        "provinceId": 57,
+        "provinceName": "Lai Châu"
     },
     "632": {
-      "districtId": 632,
-      "districtName": "Thành phố Lai Châu",
-      "provinceId": 57,
-      "provinceName": "Lai Châu"
+        "districtId": 632,
+        "districtName": "Thành phố Lai Châu",
+        "provinceId": 57,
+        "provinceName": "Lai Châu"
     },
     "633": {
-      "districtId": 633,
-      "districtName": "Tân Uyên",
-      "provinceId": 57,
-      "provinceName": "Lai Châu"
+        "districtId": 633,
+        "districtName": "Tân Uyên",
+        "provinceId": 57,
+        "provinceName": "Lai Châu"
     },
     "634": {
-      "districtId": 634,
-      "districtName": "Than Uyên",
-      "provinceId": 57,
-      "provinceName": "Lai Châu"
+        "districtId": 634,
+        "districtName": "Than Uyên",
+        "provinceId": 57,
+        "provinceName": "Lai Châu"
     },
     "635": {
-      "districtId": 635,
-      "districtName": "Thành phố Sơn La",
-      "provinceId": 58,
-      "provinceName": "Sơn La"
+        "districtId": 635,
+        "districtName": "Thành phố Sơn La",
+        "provinceId": 58,
+        "provinceName": "Sơn La"
     },
     "636": {
-      "districtId": 636,
-      "districtName": "Bắc Yên",
-      "provinceId": 58,
-      "provinceName": "Sơn La"
+        "districtId": 636,
+        "districtName": "Bắc Yên",
+        "provinceId": 58,
+        "provinceName": "Sơn La"
     },
     "637": {
-      "districtId": 637,
-      "districtName": "Mai Sơn",
-      "provinceId": 58,
-      "provinceName": "Sơn La"
+        "districtId": 637,
+        "districtName": "Mai Sơn",
+        "provinceId": 58,
+        "provinceName": "Sơn La"
     },
     "638": {
-      "districtId": 638,
-      "districtName": "Mộc Châu",
-      "provinceId": 58,
-      "provinceName": "Sơn La"
+        "districtId": 638,
+        "districtName": "Mộc Châu",
+        "provinceId": 58,
+        "provinceName": "Sơn La"
     },
     "639": {
-      "districtId": 639,
-      "districtName": "Mường La",
-      "provinceId": 58,
-      "provinceName": "Sơn La"
+        "districtId": 639,
+        "districtName": "Mường La",
+        "provinceId": 58,
+        "provinceName": "Sơn La"
     },
     "640": {
-      "districtId": 640,
-      "districtName": "Phù Yên",
-      "provinceId": 58,
-      "provinceName": "Sơn La"
+        "districtId": 640,
+        "districtName": "Phù Yên",
+        "provinceId": 58,
+        "provinceName": "Sơn La"
     },
     "641": {
-      "districtId": 641,
-      "districtName": "Quỳnh Nhai",
-      "provinceId": 58,
-      "provinceName": "Sơn La"
+        "districtId": 641,
+        "districtName": "Quỳnh Nhai",
+        "provinceId": 58,
+        "provinceName": "Sơn La"
     },
     "642": {
-      "districtId": 642,
-      "districtName": "Sông Mã",
-      "provinceId": 58,
-      "provinceName": "Sơn La"
+        "districtId": 642,
+        "districtName": "Sông Mã",
+        "provinceId": 58,
+        "provinceName": "Sơn La"
     },
     "643": {
-      "districtId": 643,
-      "districtName": "Thuận Châu",
-      "provinceId": 58,
-      "provinceName": "Sơn La"
+        "districtId": 643,
+        "districtName": "Thuận Châu",
+        "provinceId": 58,
+        "provinceName": "Sơn La"
     },
     "644": {
-      "districtId": 644,
-      "districtName": "Yên Châu",
-      "provinceId": 58,
-      "provinceName": "Sơn La"
+        "districtId": 644,
+        "districtName": "Yên Châu",
+        "provinceId": 58,
+        "provinceName": "Sơn La"
     },
     "645": {
-      "districtId": 645,
-      "districtName": "Sốp Cộp",
-      "provinceId": 58,
-      "provinceName": "Sơn La"
+        "districtId": 645,
+        "districtName": "Sốp Cộp",
+        "provinceId": 58,
+        "provinceName": "Sơn La"
     },
     "646": {
-      "districtId": 646,
-      "districtName": "Đắk Glei",
-      "provinceId": 59,
-      "provinceName": "Kon Tum"
+        "districtId": 646,
+        "districtName": "Đắk Glei",
+        "provinceId": 59,
+        "provinceName": "Kon Tum"
     },
     "647": {
-      "districtId": 647,
-      "districtName": "Đắk Hà",
-      "provinceId": 59,
-      "provinceName": "Kon Tum"
+        "districtId": 647,
+        "districtName": "Đắk Hà",
+        "provinceId": 59,
+        "provinceName": "Kon Tum"
     },
     "648": {
-      "districtId": 648,
-      "districtName": "Đắc Tô",
-      "provinceId": 59,
-      "provinceName": "Kon Tum"
+        "districtId": 648,
+        "districtName": "Đắc Tô",
+        "provinceId": 59,
+        "provinceName": "Kon Tum"
     },
     "649": {
-      "districtId": 649,
-      "districtName": "Kon Plông",
-      "provinceId": 59,
-      "provinceName": "Kon Tum"
+        "districtId": 649,
+        "districtName": "Kon Plông",
+        "provinceId": 59,
+        "provinceName": "Kon Tum"
     },
     "650": {
-      "districtId": 650,
-      "districtName": "Kon Rẫy",
-      "provinceId": 59,
-      "provinceName": "Kon Tum"
+        "districtId": 650,
+        "districtName": "Kon Rẫy",
+        "provinceId": 59,
+        "provinceName": "Kon Tum"
     },
     "651": {
-      "districtId": 651,
-      "districtName": "Ngọc Hồi",
-      "provinceId": 59,
-      "provinceName": "Kon Tum"
+        "districtId": 651,
+        "districtName": "Ngọc Hồi",
+        "provinceId": 59,
+        "provinceName": "Kon Tum"
     },
     "652": {
-      "districtId": 652,
-      "districtName": "Sa Thầy",
-      "provinceId": 59,
-      "provinceName": "Kon Tum"
+        "districtId": 652,
+        "districtName": "Sa Thầy",
+        "provinceId": 59,
+        "provinceName": "Kon Tum"
     },
     "653": {
-      "districtId": 653,
-      "districtName": "Thành phố Kon Tum",
-      "provinceId": 59,
-      "provinceName": "Kon Tum"
+        "districtId": 653,
+        "districtName": "Thành phố Kon Tum",
+        "provinceId": 59,
+        "provinceName": "Kon Tum"
     },
     "654": {
-      "districtId": 654,
-      "districtName": "Tu Mơ Rông",
-      "provinceId": 59,
-      "provinceName": "Kon Tum"
+        "districtId": 654,
+        "districtName": "Tu Mơ Rông",
+        "provinceId": 59,
+        "provinceName": "Kon Tum"
     },
     "655": {
-      "districtId": 655,
-      "districtName": "H Drai",
-      "provinceId": 59,
-      "provinceName": "Kon Tum"
+        "districtId": 655,
+        "districtName": "H Drai",
+        "provinceId": 59,
+        "provinceName": "Kon Tum"
     },
     "656": {
-      "districtId": 656,
-      "districtName": "Chư Păh",
-      "provinceId": 60,
-      "provinceName": "Gia Lai"
+        "districtId": 656,
+        "districtName": "Chư Păh",
+        "provinceId": 60,
+        "provinceName": "Gia Lai"
     },
     "657": {
-      "districtId": 657,
-      "districtName": "Chư Prông",
-      "provinceId": 60,
-      "provinceName": "Gia Lai"
+        "districtId": 657,
+        "districtName": "Chư Prông",
+        "provinceId": 60,
+        "provinceName": "Gia Lai"
     },
     "658": {
-      "districtId": 658,
-      "districtName": "Chư Sê",
-      "provinceId": 60,
-      "provinceName": "Gia Lai"
+        "districtId": 658,
+        "districtName": "Chư Sê",
+        "provinceId": 60,
+        "provinceName": "Gia Lai"
     },
     "659": {
-      "districtId": 659,
-      "districtName": "Đăk Đoa",
-      "provinceId": 60,
-      "provinceName": "Gia Lai"
+        "districtId": 659,
+        "districtName": "Đăk Đoa",
+        "provinceId": 60,
+        "provinceName": "Gia Lai"
     },
     "660": {
-      "districtId": 660,
-      "districtName": "Đức Cơ",
-      "provinceId": 60,
-      "provinceName": "Gia Lai"
+        "districtId": 660,
+        "districtName": "Đức Cơ",
+        "provinceId": 60,
+        "provinceName": "Gia Lai"
     },
     "661": {
-      "districtId": 661,
-      "districtName": "Ia Grai",
-      "provinceId": 60,
-      "provinceName": "Gia Lai"
+        "districtId": 661,
+        "districtName": "Ia Grai",
+        "provinceId": 60,
+        "provinceName": "Gia Lai"
     },
     "662": {
-      "districtId": 662,
-      "districtName": "K Bang",
-      "provinceId": 60,
-      "provinceName": "Gia Lai"
+        "districtId": 662,
+        "districtName": "K Bang",
+        "provinceId": 60,
+        "provinceName": "Gia Lai"
     },
     "663": {
-      "districtId": 663,
-      "districtName": "Kông Chro",
-      "provinceId": 60,
-      "provinceName": "Gia Lai"
+        "districtId": 663,
+        "districtName": "Kông Chro",
+        "provinceId": 60,
+        "provinceName": "Gia Lai"
     },
     "664": {
-      "districtId": 664,
-      "districtName": "Krông Pa",
-      "provinceId": 60,
-      "provinceName": "Gia Lai"
+        "districtId": 664,
+        "districtName": "Krông Pa",
+        "provinceId": 60,
+        "provinceName": "Gia Lai"
     },
     "665": {
-      "districtId": 665,
-      "districtName": "Mang Yang",
-      "provinceId": 60,
-      "provinceName": "Gia Lai"
+        "districtId": 665,
+        "districtName": "Mang Yang",
+        "provinceId": 60,
+        "provinceName": "Gia Lai"
     },
     "666": {
-      "districtId": 666,
-      "districtName": "Thành phố Pleiku",
-      "provinceId": 60,
-      "provinceName": "Gia Lai"
+        "districtId": 666,
+        "districtName": "Thành phố Pleiku",
+        "provinceId": 60,
+        "provinceName": "Gia Lai"
     },
     "667": {
-      "districtId": 667,
-      "districtName": "An Khê",
-      "provinceId": 60,
-      "provinceName": "Gia Lai"
+        "districtId": 667,
+        "districtName": "An Khê",
+        "provinceId": 60,
+        "provinceName": "Gia Lai"
     },
     "668": {
-      "districtId": 668,
-      "districtName": "Ayun Pa",
-      "provinceId": 60,
-      "provinceName": "Gia Lai"
+        "districtId": 668,
+        "districtName": "Ayun Pa",
+        "provinceId": 60,
+        "provinceName": "Gia Lai"
     },
     "669": {
-      "districtId": 669,
-      "districtName": "Đak Pơ",
-      "provinceId": 60,
-      "provinceName": "Gia Lai"
+        "districtId": 669,
+        "districtName": "Đak Pơ",
+        "provinceId": 60,
+        "provinceName": "Gia Lai"
     },
     "670": {
-      "districtId": 670,
-      "districtName": "Phú Thiện",
-      "provinceId": 60,
-      "provinceName": "Gia Lai"
+        "districtId": 670,
+        "districtName": "Phú Thiện",
+        "provinceId": 60,
+        "provinceName": "Gia Lai"
     },
     "671": {
-      "districtId": 671,
-      "districtName": "Chưpưh",
-      "provinceId": 60,
-      "provinceName": "Gia Lai"
+        "districtId": 671,
+        "districtName": "Chưpưh",
+        "provinceId": 60,
+        "provinceName": "Gia Lai"
     },
     "672": {
-      "districtId": 672,
-      "districtName": "Ia Pa",
-      "provinceId": 60,
-      "provinceName": "Gia Lai"
+        "districtId": 672,
+        "districtName": "Ia Pa",
+        "provinceId": 60,
+        "provinceName": "Gia Lai"
     },
     "673": {
-      "districtId": 673,
-      "districtName": "Buôn Đôn",
-      "provinceId": 61,
-      "provinceName": "Đắk Lắk"
+        "districtId": 673,
+        "districtName": "Buôn Đôn",
+        "provinceId": 61,
+        "provinceName": "Đắk Lắk"
     },
     "674": {
-      "districtId": 674,
-      "districtName": "Cư Kuin",
-      "provinceId": 61,
-      "provinceName": "Đắk Lắk"
+        "districtId": 674,
+        "districtName": "Cư Kuin",
+        "provinceId": 61,
+        "provinceName": "Đắk Lắk"
     },
     "675": {
-      "districtId": 675,
-      "districtName": "Cư Mgar",
-      "provinceId": 61,
-      "provinceName": "Đắk Lắk"
+        "districtId": 675,
+        "districtName": "Cư Mgar",
+        "provinceId": 61,
+        "provinceName": "Đắk Lắk"
     },
     "676": {
-      "districtId": 676,
-      "districtName": "Ea HLeo",
-      "provinceId": 61,
-      "provinceName": "Đắk Lắk"
+        "districtId": 676,
+        "districtName": "Ea HLeo",
+        "provinceId": 61,
+        "provinceName": "Đắk Lắk"
     },
     "677": {
-      "districtId": 677,
-      "districtName": "Ea Kar",
-      "provinceId": 61,
-      "provinceName": "Đắk Lắk"
+        "districtId": 677,
+        "districtName": "Ea Kar",
+        "provinceId": 61,
+        "provinceName": "Đắk Lắk"
     },
     "678": {
-      "districtId": 678,
-      "districtName": "Ea Súp",
-      "provinceId": 61,
-      "provinceName": "Đắk Lắk"
+        "districtId": 678,
+        "districtName": "Ea Súp",
+        "provinceId": 61,
+        "provinceName": "Đắk Lắk"
     },
     "679": {
-      "districtId": 679,
-      "districtName": "Krông Ana",
-      "provinceId": 61,
-      "provinceName": "Đắk Lắk"
+        "districtId": 679,
+        "districtName": "Krông Ana",
+        "provinceId": 61,
+        "provinceName": "Đắk Lắk"
     },
     "680": {
-      "districtId": 680,
-      "districtName": "Krông Bông",
-      "provinceId": 61,
-      "provinceName": "Đắk Lắk"
+        "districtId": 680,
+        "districtName": "Krông Bông",
+        "provinceId": 61,
+        "provinceName": "Đắk Lắk"
     },
     "681": {
-      "districtId": 681,
-      "districtName": "Krông Buk",
-      "provinceId": 61,
-      "provinceName": "Đắk Lắk"
+        "districtId": 681,
+        "districtName": "Krông Buk",
+        "provinceId": 61,
+        "provinceName": "Đắk Lắk"
     },
     "682": {
-      "districtId": 682,
-      "districtName": "Krông Năng",
-      "provinceId": 61,
-      "provinceName": "Đắk Lắk"
+        "districtId": 682,
+        "districtName": "Krông Năng",
+        "provinceId": 61,
+        "provinceName": "Đắk Lắk"
     },
     "683": {
-      "districtId": 683,
-      "districtName": "Krông Pak",
-      "provinceId": 61,
-      "provinceName": "Đắk Lắk"
+        "districtId": 683,
+        "districtName": "Krông Pak",
+        "provinceId": 61,
+        "provinceName": "Đắk Lắk"
     },
     "684": {
-      "districtId": 684,
-      "districtName": "Lắk",
-      "provinceId": 61,
-      "provinceName": "Đắk Lắk"
+        "districtId": 684,
+        "districtName": "Lắk",
+        "provinceId": 61,
+        "provinceName": "Đắk Lắk"
     },
     "685": {
-      "districtId": 685,
-      "districtName": "MDrăk",
-      "provinceId": 61,
-      "provinceName": "Đắk Lắk"
+        "districtId": 685,
+        "districtName": "MDrăk",
+        "provinceId": 61,
+        "provinceName": "Đắk Lắk"
     },
     "686": {
-      "districtId": 686,
-      "districtName": "Thành phố Buôn Ma Thuột",
-      "provinceId": 61,
-      "provinceName": "Đắk Lắk"
+        "districtId": 686,
+        "districtName": "Thành phố Buôn Ma Thuột",
+        "provinceId": 61,
+        "provinceName": "Đắk Lắk"
     },
     "687": {
-      "districtId": 687,
-      "districtName": "Buôn Hồ",
-      "provinceId": 61,
-      "provinceName": "Đắk Lắk"
+        "districtId": 687,
+        "districtName": "Buôn Hồ",
+        "provinceId": 61,
+        "provinceName": "Đắk Lắk"
     },
     "688": {
-      "districtId": 688,
-      "districtName": "Gia Nghĩa",
-      "provinceId": 62,
-      "provinceName": "Đắk Nông"
+        "districtId": 688,
+        "districtName": "Gia Nghĩa",
+        "provinceId": 62,
+        "provinceName": "Đắk Nông"
     },
     "689": {
-      "districtId": 689,
-      "districtName": "Cư Jut",
-      "provinceId": 62,
-      "provinceName": "Đắk Nông"
+        "districtId": 689,
+        "districtName": "Cư Jut",
+        "provinceId": 62,
+        "provinceName": "Đắk Nông"
     },
     "690": {
-      "districtId": 690,
-      "districtName": "Đắk Glong",
-      "provinceId": 62,
-      "provinceName": "Đắk Nông"
+        "districtId": 690,
+        "districtName": "Đắk Glong",
+        "provinceId": 62,
+        "provinceName": "Đắk Nông"
     },
     "691": {
-      "districtId": 691,
-      "districtName": "Đắk Mil",
-      "provinceId": 62,
-      "provinceName": "Đắk Nông"
+        "districtId": 691,
+        "districtName": "Đắk Mil",
+        "provinceId": 62,
+        "provinceName": "Đắk Nông"
     },
     "692": {
-      "districtId": 692,
-      "districtName": "Đắk RLấp",
-      "provinceId": 62,
-      "provinceName": "Đắk Nông"
+        "districtId": 692,
+        "districtName": "Đắk RLấp",
+        "provinceId": 62,
+        "provinceName": "Đắk Nông"
     },
     "693": {
-      "districtId": 693,
-      "districtName": "Đắk Song",
-      "provinceId": 62,
-      "provinceName": "Đắk Nông"
+        "districtId": 693,
+        "districtName": "Đắk Song",
+        "provinceId": 62,
+        "provinceName": "Đắk Nông"
     },
     "694": {
-      "districtId": 694,
-      "districtName": "Krông Nô",
-      "provinceId": 62,
-      "provinceName": "Đắk Nông"
+        "districtId": 694,
+        "districtName": "Krông Nô",
+        "provinceId": 62,
+        "provinceName": "Đắk Nông"
     },
     "695": {
-      "districtId": 695,
-      "districtName": "Tuy Đức",
-      "provinceId": 62,
-      "provinceName": "Đắk Nông"
+        "districtId": 695,
+        "districtName": "Tuy Đức",
+        "provinceId": 62,
+        "provinceName": "Đắk Nông"
     },
     "696": {
-      "districtId": 696,
-      "districtName": "Bảo Lâm",
-      "provinceId": 63,
-      "provinceName": "Lâm Đồng"
+        "districtId": 696,
+        "districtName": "Bảo Lâm",
+        "provinceId": 63,
+        "provinceName": "Lâm Đồng"
     },
     "697": {
-      "districtId": 697,
-      "districtName": "Cát Tiên",
-      "provinceId": 63,
-      "provinceName": "Lâm Đồng"
+        "districtId": 697,
+        "districtName": "Cát Tiên",
+        "provinceId": 63,
+        "provinceName": "Lâm Đồng"
     },
     "698": {
-      "districtId": 698,
-      "districtName": "Đạ Huoai",
-      "provinceId": 63,
-      "provinceName": "Lâm Đồng"
+        "districtId": 698,
+        "districtName": "Đạ Huoai",
+        "provinceId": 63,
+        "provinceName": "Lâm Đồng"
     },
     "699": {
-      "districtId": 699,
-      "districtName": "Đa Tẻh",
-      "provinceId": 63,
-      "provinceName": "Lâm Đồng"
+        "districtId": 699,
+        "districtName": "Đa Tẻh",
+        "provinceId": 63,
+        "provinceName": "Lâm Đồng"
     },
     "700": {
-      "districtId": 700,
-      "districtName": "Di Linh",
-      "provinceId": 63,
-      "provinceName": "Lâm Đồng"
+        "districtId": 700,
+        "districtName": "Di Linh",
+        "provinceId": 63,
+        "provinceName": "Lâm Đồng"
     },
     "701": {
-      "districtId": 701,
-      "districtName": "Đơn Dương",
-      "provinceId": 63,
-      "provinceName": "Lâm Đồng"
+        "districtId": 701,
+        "districtName": "Đơn Dương",
+        "provinceId": 63,
+        "provinceName": "Lâm Đồng"
     },
     "702": {
-      "districtId": 702,
-      "districtName": "Đức Trọng",
-      "provinceId": 63,
-      "provinceName": "Lâm Đồng"
+        "districtId": 702,
+        "districtName": "Đức Trọng",
+        "provinceId": 63,
+        "provinceName": "Lâm Đồng"
     },
     "703": {
-      "districtId": 703,
-      "districtName": "Lạc Dương",
-      "provinceId": 63,
-      "provinceName": "Lâm Đồng"
+        "districtId": 703,
+        "districtName": "Lạc Dương",
+        "provinceId": 63,
+        "provinceName": "Lâm Đồng"
     },
     "704": {
-      "districtId": 704,
-      "districtName": "Lâm Hà",
-      "provinceId": 63,
-      "provinceName": "Lâm Đồng"
+        "districtId": 704,
+        "districtName": "Lâm Hà",
+        "provinceId": 63,
+        "provinceName": "Lâm Đồng"
     },
     "705": {
-      "districtId": 705,
-      "districtName": "Thành phố Đà Lạt",
-      "provinceId": 63,
-      "provinceName": "Lâm Đồng"
+        "districtId": 705,
+        "districtName": "Thành phố Đà Lạt",
+        "provinceId": 63,
+        "provinceName": "Lâm Đồng"
     },
     "706": {
-      "districtId": 706,
-      "districtName": "Thành phố Bảo Lộc",
-      "provinceId": 63,
-      "provinceName": "Lâm Đồng"
+        "districtId": 706,
+        "districtName": "Thành phố Bảo Lộc",
+        "provinceId": 63,
+        "provinceName": "Lâm Đồng"
     },
     "707": {
-      "districtId": 707,
-      "districtName": "Đam Rông",
-      "provinceId": 63,
-      "provinceName": "Lâm Đồng"
+        "districtId": 707,
+        "districtName": "Đam Rông",
+        "provinceId": 63,
+        "provinceName": "Lâm Đồng"
     },
     "708": {
-      "districtId": 708,
-      "districtName": "Phú Riềng",
-      "provinceId": 39,
-      "provinceName": "Bình Phước"
+        "districtId": 708,
+        "districtName": "Phú Riềng",
+        "provinceId": 39,
+        "provinceName": "Bình Phước"
     },
     "709": {
-      "districtId": 709,
-      "districtName": "Nậm Nhùn",
-      "provinceId": 57,
-      "provinceName": "Lai Châu"
+        "districtId": 709,
+        "districtName": "Nậm Nhùn",
+        "provinceId": 57,
+        "provinceName": "Lai Châu"
     },
     "710": {
-      "districtId": 710,
-      "districtName": "Nậm Pồ",
-      "provinceId": 55,
-      "provinceName": "Điện Biên"
+        "districtId": 710,
+        "districtName": "Nậm Pồ",
+        "provinceId": 55,
+        "provinceName": "Điện Biên"
     },
     "711": {
-      "districtId": 711,
-      "districtName": "TX Kỳ Anh",
-      "provinceId": 3,
-      "provinceName": "Hà Tĩnh"
+        "districtId": 711,
+        "districtName": "TX Kỳ Anh",
+        "provinceId": 3,
+        "provinceName": "Hà Tĩnh"
     },
     "712": {
-      "districtId": 712,
-      "districtName": "Thị xã Duyên Hải",
-      "provinceId": 22,
-      "provinceName": "Trà Vinh"
+        "districtId": 712,
+        "districtName": "Thị xã Duyên Hải",
+        "provinceId": 22,
+        "provinceName": "Trà Vinh"
     },
     "713": {
-      "districtId": 713,
-      "districtName": "Vân Hồ",
-      "provinceId": 58,
-      "provinceName": "Sơn La"
+        "districtId": 713,
+        "districtName": "Vân Hồ",
+        "provinceId": 58,
+        "provinceName": "Sơn La"
     },
     "714": {
-      "districtId": 714,
-      "districtName": "Nông Sơn",
-      "provinceId": 46,
-      "provinceName": "Quảng Nam"
+        "districtId": 714,
+        "districtName": "Nông Sơn",
+        "provinceId": 46,
+        "provinceName": "Quảng Nam"
     },
     "715": {
-      "districtId": 715,
-      "districtName": "Tây Giang",
-      "provinceId": 46,
-      "provinceName": "Quảng Nam"
+        "districtId": 715,
+        "districtName": "Tây Giang",
+        "provinceId": 46,
+        "provinceName": "Quảng Nam"
     },
     "718": {
-      "districtId": 718,
-      "districtName": "Lý Sơn",
-      "provinceId": 47,
-      "provinceName": "Quảng Ngãi"
+        "districtId": 718,
+        "districtName": "Lý Sơn",
+        "provinceId": 47,
+        "provinceName": "Quảng Ngãi"
     },
     "719": {
-      "districtId": 719,
-      "districtName": "Tân Phú",
-      "provinceId": 44,
-      "provinceName": "Thành phố Hồ Chí Minh"
+        "districtId": 719,
+        "districtName": "Tân Phú",
+        "provinceId": 44,
+        "provinceName": "Thành phố Hồ Chí Minh"
     },
     "720": {
-      "districtId": 720,
-      "districtName": "Thị xã Phú Mỹ",
-      "provinceId": 43,
-      "provinceName": "Bà Rịa - Vũng Tàu"
+        "districtId": 720,
+        "districtName": "Thị xã Phú Mỹ",
+        "provinceId": 43,
+        "provinceName": "Bà Rịa - Vũng Tàu"
     },
     "721": {
-      "districtId": 721,
-      "districtName": "Sơn Tây",
-      "provinceId": 47,
-      "provinceName": "Quảng Ngãi"
+        "districtId": 721,
+        "districtName": "Sơn Tây",
+        "provinceId": 47,
+        "provinceName": "Quảng Ngãi"
     }
-  }
-  
+}

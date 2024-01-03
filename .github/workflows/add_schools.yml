@@ -32,14 +32,17 @@ jobs:
       - run: npm i
       - run: npm run add-school -- "${{ github.event.inputs.school_name }}" "${{ github.event.inputs.school_level }}" "${{ github.event.inputs.district_id }}"
       - run: npm run validate
-      - run: git diff --exit-code
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v3
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           commit-message: Add new school
           title: Add new school ${{ github.event.inputs.school_name }}
-          body: This PR adds a new school to the database, school infomation ${{ github.event.inputs.school_name }} ${{ github.event.inputs.school_url }} ${{ github.event.inputs.school_level }} ${{ github.event.inputs.district_id }}
-          branch: add-new-school-${{ github.event.inputs.school_name }}
+          body: |
+            Cập nhật trường ${{ github.event.inputs.school_name }}
+            - Website: ${{ github.event.inputs.school_url }}
+            - Cấp học: ${{ github.event.inputs.school_level }}
+            - Mã quận/huyện: ${{ github.event.inputs.district_id }}
+          branch: add-new-school
           branch-suffix: timestamp
           delete-branch: true
