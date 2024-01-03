@@ -1,8 +1,10 @@
 name: validate-and-push
 on:
   pull_request:
+    types: [opened, synchronize]
     branches:
       - main
+  
 jobs:
   validate:
     runs-on: ubuntu-latest
