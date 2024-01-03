@@ -146426,5 +146426,14 @@
         "schoolId": 50503,
         "schoolLevel": 3,
         "schoolName": "THPT Nguyễn Văn Thoại"
+    },
+    "50504": {
+        "schoolId": 50504,
+        "schoolName": "THPT ABC",
+        "schoolLevel": 2,
+        "districtId": 100,
+        "districtName": "Hà Quảng",
+        "provinceId": 8,
+        "provinceName": "Cao Bằng"
     }
 }
