@@ -1,0 +1,15 @@
+{
+  "name": "schools_dataset",
+  "version": "1.0.0",
+  "description": "Vietnam Schools Dataset for IOT - IMIN Olympia Training",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "validate": "npx tsx src/main.tsx",
+    "add-school": "npx tsx src/add_school.tsx"
+  },
+  "author": "CTeam",
+  "license": "ISC",
+  "dependencies": {
+    "tsx": "^4.7.0"
+  }
+}

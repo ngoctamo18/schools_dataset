@@ -1,0 +1,39 @@
+name: add-new-schools
+on:
+  workflow_dispatch:
+    inputs:
+      school_name:
+        description: 'School name'
+        required: true
+      school_url:
+        description: 'School URL'
+        required: true
+      school_level:
+        description: 'School level'
+        required: true
+      district_id:
+        description: 'District ID'
+        required: true
+
+jobs:
+  add-new-schools:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v2
+        with:
+          node-version: 14
+      - run: npm ci
+      - run: npm run add-school -- ${{ github.event.inputs.school_name }} ${{ github.event.inputs.school_level }} ${{ github.event.inputs.district_id }}
+      - run: npm run validate
+      - run: git diff --exit-code
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: Add new school
+          title: Add new school ${{ github.event.inputs.school_name }}
+          body: This PR adds a new school to the database, school infomation ${{ github.event.inputs.school_name }} ${{ github.event.inputs.school_url }} ${{ github.event.inputs.school_level }} ${{ github.event.inputs.district_id }}
+          branch: add-new-school-${{ github.event.inputs.school_name }}
+          branch-suffix: timestamp
+          delete-branch: true
