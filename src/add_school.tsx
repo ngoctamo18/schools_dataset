@@ -8,9 +8,7 @@ function addSchool(schoolName: string, schoolLevelName: string, districtId: numb
     "../data/districts.json"
   ));
   const schools = require(path.join(__dirname, "../data/schools.json"));
-  const schoolLevel = Object.keys(schoolLevelName).find(
-    (key) => schoolLevelName[key] === schoolLevelName
-  );
+  const schoolLevel = schoolLevelName === "THCS" ? 2 : 3;
 
   const maxSchoolId = Math.max(...Object.keys(schools).map((s) => parseInt(s)));
   const newSchoolId = maxSchoolId + 1;

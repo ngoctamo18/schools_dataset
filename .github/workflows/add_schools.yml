@@ -37,7 +37,7 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           commit-message: Add new school
-          title: Add new school ${{ github.event.inputs.school_name }}
+          title: Bổ sung trường ${{ github.event.inputs.school_name }}
           body: |
             Cập nhật trường ${{ github.event.inputs.school_name }}
             - Website: ${{ github.event.inputs.school_url }}
