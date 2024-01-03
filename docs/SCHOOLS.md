@@ -1,4 +1,4 @@
-# Danh sách 16267 trường
+# Danh sách 16268 trường
 
 | ID | Tỉnh | Quận / huyện | Cấp | Tên |
 | -- | ---- | ------------- | --- | --- |
@@ -16269,3 +16269,4 @@
 | 50501 | Hà Nội | Long Biên | THCS | THCS Lê Quý Đôn |
 | 50502 | Gia Lai | Thành phố Pleiku | THPT | THPT Chi Lăng |
 | 50503 | Đà Nẵng | Cẩm Lệ | THPT | THPT Nguyễn Văn Thoại |
+| 50504 | Thanh Hóa | Thành phố Sầm Sơn | THCS | THCS Nguyễn Hồng Lễ |
