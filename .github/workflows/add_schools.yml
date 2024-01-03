@@ -3,17 +3,23 @@ on:
   workflow_dispatch:
     inputs:
       school_name:
-        description: 'School name'
+        description: 'Tên trường'
         required: true
       school_url:
-        description: 'School URL'
+        description: 'Website trường'
         required: true
       school_level:
-        description: 'School level'
+        description: 'Cấp học'
         required: true
+        type: choice
+        options: 
+        - THCS
+        - THPT
       district_id:
-        description: 'District ID'
+        description: 'Mã quận/huyện'
         required: true
+        type: number
+
 
 jobs:
   add-new-schools:
@@ -23,8 +29,8 @@ jobs:
       - uses: actions/setup-node@v2
         with:
           node-version: 14
-      - run: npm ci
-      - run: npm run add-school -- ${{ github.event.inputs.school_name }} ${{ github.event.inputs.school_level }} ${{ github.event.inputs.district_id }}
+      - run: npm i
+      - run: npm run add-school -- "${{ github.event.inputs.school_name }}" "${{ github.event.inputs.school_level }}" "${{ github.event.inputs.district_id }}"
       - run: npm run validate
       - run: git diff --exit-code
       - name: Create Pull Request
