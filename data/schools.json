@@ -146435,5 +146435,14 @@
         "districtName": "Thành phố Sầm Sơn",
         "provinceId": 1,
         "provinceName": "Thanh Hóa"
+    },
+    "50505": {
+        "schoolId": 50505,
+        "schoolName": "THPT Châu Thành",
+        "schoolLevel": 3,
+        "districtId": 483,
+        "districtName": "Thành phố Bà Rịa",
+        "provinceId": 43,
+        "provinceName": "Bà Rịa - Vũng Tàu"
     }
 }

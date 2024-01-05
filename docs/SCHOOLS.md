@@ -1,4 +1,4 @@
-# Danh sách 16268 trường
+# Danh sách 16269 trường
 
 | ID | Tỉnh | Quận / huyện | Cấp | Tên |
 | -- | ---- | ------------- | --- | --- |
@@ -16270,3 +16270,4 @@
 | 50502 | Gia Lai | Thành phố Pleiku | THPT | THPT Chi Lăng |
 | 50503 | Đà Nẵng | Cẩm Lệ | THPT | THPT Nguyễn Văn Thoại |
 | 50504 | Thanh Hóa | Thành phố Sầm Sơn | THCS | THCS Nguyễn Hồng Lễ |
+| 50505 | Bà Rịa - Vũng Tàu | Thành phố Bà Rịa | THPT | THPT Châu Thành |
